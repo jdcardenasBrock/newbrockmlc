@@ -176,11 +176,11 @@
 							<p>With a keen commitment to detail & budget, Brock Mountain provides residential building services throughout the Southeast. Our commitment is simple: We treat each residential project as if it were our own.</p>
 						</div>
 						
-						<div class="about-bottom">
+						<div class="about-bottom-building">
 							<div class="eulding-btn about">
 								<a href="https://www.realtor.com/realestateandhomes-detail/M9419213114">View Our Latest Listing on <br>Realtor.com<i class="bi bi-arrow-up-right-circle-fill"></i></a>
 							</div>
-							<div class="eulding-btn about">
+							<div class="eulding-btn about mt-3">
 								<a href="https://brockmountainhomes.com/">Visit Brock Mountain Homes <i class="bi bi-arrow-up-right-circle-fill"></i></a>
 							</div>
 						</div>

@@ -2075,6 +2075,10 @@ Tags: architect, building company, construction, construction template, construc
     display: flex;
 }
 
+.about-bottom-building {
+    margin-top: 30px;
+}
+
 .about-signiture {
     margin-left: 39px;
     margin-top: -7px;
