@@ -13,14 +13,14 @@
 							<h4>Great Experience In Building</h4>
 						</div>
 						<div class="slider-main-title">
-							<h1>The Best Solution</h1>
-							<h1>Industry Business</h1>
+							<h1>Brock Mountain meets the rigorous</h1>
+							<h1>demands of commercial building.</h1>
 						</div>
 						<div class="slider-discripton">
 							<p>I have been a loyal customer of this auto parts company for years and I cannot recommend them enough. Their extensive selection of high-quality parts and accessories.of high-quality parts and</p>
 						</div>
 						<div class="eulding-btn">
-							<a href="#">Read More <i class="bi bi-arrow-up-right-circle-fill"></i></a>
+							<a href="building.php">Read More <i class="bi bi-arrow-up-right-circle-fill"></i></a>
 						</div>
 						<div class="slider-social-menu">
 							<ul>
@@ -38,11 +38,11 @@
 				<div class="container">
 					<div class="slider-content style-two wow animate__slideInLeft">
 						<div class="slider-sub-title">
-							<h4>Great Experience In Building</h4>
+							<h4>Great Experience In Restoration</h4>
 						</div>
 						<div class="slider-main-title">
-							<h1>The Best Solution</h1>
-							<h1>Industry Business</h1>
+							<h1>Brock Mountain meets the rigorous</h1>
+							<h1>demands of restoration.</h1>
 						</div>
 						<div class="slider-discripton">
 							<p>I have been a loyal customer of this auto parts company for years and I cannot recommend them enough. Their extensive selection of high-quality parts and accessories.of high-quality parts and</p>
@@ -720,52 +720,5 @@
 	<!--==================================================-->
 	<!-- End Euildint Faq Area -->
 	<!--==================================================-->
-
-
-		<!--==================================================-->
-	<!-- Start Euildint Brand Area -->
-	<!--==================================================-->
-	<div class="brand-area wow animate__slideInUp">
-		<div class="container-fluid">
-			<div class="row">
-				<div class="brand_list owl-carousel">
-					<div class="col-lg-12">
-						<div class="brand-thumb">
-							<a href="#"><img src="assets/images/brand/brand1.png" alt=""></a>
-						</div>
-					</div>
-					<div class="col-lg-12">
-						<div class="brand-thumb">
-							<a href="#"><img src="assets/images/brand/brand2.png" alt=""></a>
-						</div>
-					</div>
-					<div class="col-lg-12">
-						<div class="brand-thumb">
-							<a href="#"><img src="assets/images/brand/brand3.png" alt=""></a>
-						</div>
-					</div>
-					<div class="col-lg-12">
-						<div class="brand-thumb">
-							<a href="#"><img src="assets/images/brand/brand4.png" alt=""></a>
-						</div>
-					</div>
-					<div class="col-lg-12">
-						<div class="brand-thumb">
-							<a href="#"><img src="assets/images/brand/brand5.png" alt=""></a>
-						</div>
-					</div>
-					<div class="col-lg-12">
-						<div class="brand-thumb">
-							<a href="#"><img src="assets/images/brand/brand6.png" alt=""></a>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-	<!--==================================================-->
-	<!-- End Euildint Brand Area -->
-	<!--==================================================-->
-
 	
 <?php require 'footer.php'; ?>

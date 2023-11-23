@@ -106,7 +106,7 @@ echo '
 						<ul>
 							<li><a href="index.php">Home</a></li>
 							<li><a href="restoration.php">Restoration</a></li>
-							<li><a href="building.php">Bulding</a></li>
+							<li><a href="building.php">Building</a></li>
 							<li><a href="our_clients.php">Our Clients</a></li>
 							<li><a href="contact.php">Our Contact</a></li>
 						</ul>
@@ -134,7 +134,7 @@ echo '
 				<ul class="nav_scroll">
 					<li><a href="index.php">Home</a></li>
 					<li><a href="restoration.php">Restoration</a></li>
-					<li><a href="building.php">Bulding</a></li>
+					<li><a href="building.php">Building</a></li>
 					<li><a href="our_clients.php">Our Clients</a></li>
 					<li><a href="contact.php">Our Contact</a></li>
 				</ul>
