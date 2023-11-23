@@ -94,7 +94,7 @@
 <!--==================================================-->
 <!-- End Euildint Call Do Bg Area -->
 <!--==================================================-->
-<div class="container" style="margin: 210px;">
+<div class="container" style="margin-top: 210px; margin-bottom: 210px">
     <div class="row">
         <div class="col-lg-12 mb-20">
             <!-- start blog single box -->
