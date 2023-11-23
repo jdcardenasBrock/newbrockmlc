@@ -110,11 +110,6 @@ echo '
 							<li><a href="our_clients.php">Our Clients</a></li>
 							<li><a href="contact.php">Our Contact</a></li>
 						</ul>
-						<div class="header-social style-two">
-							<ul>
-								<li class="upper"><a class="search-box-btn search-box-outer" href="#"><i class="bi bi-search"></i></a></li>
-							</ul>
-						</div>
 						<div class="header-call-section">
 							<div class="header-call-icon">
 								<i class="bi bi-telephone-plus"></i>
