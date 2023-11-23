@@ -151,14 +151,14 @@ ul {
 
 input:focus,
 button:focus {
-    border-color: #F60;
-    outline-color: #F60;
-    border: 1px solid #F60;
+    border-color: #235f55;
+    outline-color: #235f55;
+    border: 1px solid #235f55;
 }
 
 textarea:focus {
-    border-color: #F60;
-    outline-color: #F602;
+    border-color: #235f55;
+    outline-color: #235f552;
 }
 
 hr {
@@ -169,7 +169,7 @@ hr {
 }
 
 hr.style-2 {
-    border-bottom: 1px dashed #F60;
+    border-bottom: 1px dashed #235f55;
 }
 
 hr.mp-0 {

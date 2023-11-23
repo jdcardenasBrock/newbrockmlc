@@ -1,0 +1,4 @@
+# Redirigir a la página de inicio
+RewriteEngine on
+RewriteRule ^$ /index.php [L]
+
