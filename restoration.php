@@ -8,12 +8,12 @@
             <div class="col-lg-12 col-md-12">
                 <div class="breatcome-content">
                     <div class="breatcome-title">
-                        <h1>Service Details</h1>
+                        <h1>Building</h1>
                     </div>
                     <div class="bratcome-text">
                         <ul>
                             <li><a href="index.html">Home</a></li>
-                            <li>Service Details</li>
+                            <li>Building</li>
                         </ul>
                     </div>
                 </div>
@@ -49,7 +49,7 @@
                                 <img src="assets/images/blog/blog-standard1.png" alt="">
                                 <div class="blog-single-video">
                                     <div class="blog-video-icon">
-                                        <a class="video-vemo-icon venobox vbox-item" data-vbtype="youtube" data-autoplay="true" href="https://youtu.be/BS4TUd7FJSg"><i class="bi bi-play-fill"></i></a>
+                                        <a class="video-vemo-icon venobox vbox-item" data-vbtype="youtube" data-autoplay="true" href="assets/images/restoration/Brock Mountain Sitework.mp4"><i class="bi bi-play-fill"></i></a>
                                     </div>
                                 </div>
                             </div>
@@ -67,7 +67,44 @@
                             </div> -->
                         </div>
                         <!-- End blog single box -->
-                    </div>                   
+                    </div> 
+                    <div class="col-lg-12 mb-20">
+							<!-- start blog single box -->
+							<div class="blog-standard-box">
+								<div class="row">
+									<div class="blog_list owl-carousel">
+										<div class="col-lg-12">
+											<div class="blog-standard-thumb">
+												<img src="assets/images/blog/blog-standard3.png" alt="">
+											</div>
+										</div>
+										<div class="col-lg-12">
+											<div class="blog-standard-thumb">
+												<img src="assets/images/blog/blog-standard2.png" alt="">
+											</div>
+										</div>
+										<div class="col-lg-12">
+											<div class="blog-standard-thumb">
+												<img src="assets/images/blog/blog-standard1.png" alt="">
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="blog-standard-meta">
+									<span>By Admin</span>
+									<span>17 Aug 2023 </span>
+									<span class="meta">Construction</span>
+								</div>
+								<div class="blog-standard-content">
+									<h4><a href="#">All the Greatest Moments of Thoroughbred</a></h4>
+									<p>Why Roofing are factmake 17 Reason EasierForesee the pain & trouble that are bounds too ensue equalidea off denouncing pleasures and praising pain was borncomplete account and expound the actual teachings the great the master-builder of human happiness. In a free hour...</p>
+								</div>
+								<div class="eulding-btn standard">
+									<a href="#">Read More <i class="bi bi-arrow-up-right-circle-fill"></i></a>
+								</div>
+							</div>
+							<!-- End blog single box -->
+						</div>                  
                 </div>
             </div>            
             <div class="col-lg-4 col-md-6">                
