@@ -1,5 +1,29 @@
 <?php require 'header.php'; ?>
-
+<!--==================================================-->
+<!-- Start Euildint Breatcome Area -->
+<!--==================================================-->
+<div class="breatcome-area">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 col-md-12">
+                <div class="breatcome-content">
+                    <div class="breatcome-title">
+                        <h1>Building</h1>
+                    </div>
+                    <div class="bratcome-text">
+                        <ul>
+                            <li><a href="index.html">Home</a></li>
+                            <li>Building</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--==================================================-->
+<!-- End Euildint Breatcome Area -->
+<!--==================================================-->
 	<!--==================================================-->
 	<!-- Start Euildint About Area -->
 	<!--==================================================-->
@@ -219,5 +243,5 @@
 	<!-- End Euildint About Area -->
 	<!--==================================================-->
  
-    
+
 <?php require 'footer.php'; ?>

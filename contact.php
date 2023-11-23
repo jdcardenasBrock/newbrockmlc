@@ -132,7 +132,9 @@
 		<div class="container-fluid p-0">
 			<div class="row">
 				<div class="col-lg-12 col-md-12">
-				<iframe src="https://www.google.com/maps/d/embed?mid=1VzrD0aebBTEuSNlMzEIoqP29E829zCM&ehbc=2E312F&noprof=1" width="1920" height="608" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+					<div class="embed-responsive embed-responsive-16by9">
+						<iframe src="https://www.google.com/maps/d/embed?mid=1VzrD0aebBTEuSNlMzEIoqP29E829zCM&ehbc=2E312F&noprof=1" width="1920" height="608"  frameborder="0" style="border:0;" allowfullscreen="" loading="lazy" class="embed-responsive-item"></iframe>
+					</div>
 				</div>
 			</div>
 		</div>

@@ -242,7 +242,14 @@ echo '
 
 <!-- theme js -->
 <script src="assets/js/theme.js"></script>
-
+<script>$(".embed-responsive").click(function() {
+    $(".embed-responsive iframe").css("pointer-events", "auto");
+  });
+  
+  $(".embed-responsive").mouseleave(function() {
+    $(".embed-responsive iframe").css("pointer-events", "none");
+  });
+  </script>
 </body>
 
 </html>';

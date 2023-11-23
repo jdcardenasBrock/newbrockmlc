@@ -5191,3 +5191,6 @@ span.flaticon-multiply i {
 
 
 
+.embed-responsive iframe {
+    pointer-events: none;
+  }
