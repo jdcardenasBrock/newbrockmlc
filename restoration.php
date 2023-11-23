@@ -16,35 +16,35 @@
                             </div>
                         </div>
                         <!-- End service details single box -->
-                    </div>                    
-                </div>
-            </div>
-            <div class="col-lg-12 mb-40">
-                <!-- start blog single box -->
-                <div class="blog-standard-box">
-                    <div class="blog-standard-thumb">
-                        <img src="assets/images/blog/blog-standard1.png" alt="">
-                        <div class="blog-single-video">
-                            <div class="blog-video-icon">
-                                <a class="video-vemo-icon venobox vbox-item" data-vbtype="youtube" data-autoplay="true" href="https://youtu.be/BS4TUd7FJSg"><i class="bi bi-play-fill"></i></a>
+                    </div> 
+                    <div class="col-lg-12 mb-40">
+                        <!-- start blog single box -->
+                        <div class="blog-standard-box">
+                            <div class="blog-standard-thumb">
+                                <img src="assets/images/blog/blog-standard1.png" alt="">
+                                <div class="blog-single-video">
+                                    <div class="blog-video-icon">
+                                        <a class="video-vemo-icon venobox vbox-item" data-vbtype="youtube" data-autoplay="true" href="https://youtu.be/BS4TUd7FJSg"><i class="bi bi-play-fill"></i></a>
+                                    </div>
+                                </div>
                             </div>
+                            <!-- <div class="blog-standard-meta">
+                                <span>By Admin</span>
+                                <span>17 Aug 2023 </span>
+                                <span class="meta">Construction</span>
+                            </div> -->
+                            <!-- <div class="blog-standard-content">
+                                <h4><a href="#">Best Practices Construction Law Construction</a></h4>
+                                <p>Why Roofing are factmake 17 Reason EasierForesee the pain & trouble that are bounds too ensue equalidea off denouncing pleasures and praising pain was borncomplete account and expound the actual teachings the great the master-builder of human happiness. In a free hour...</p>
+                            </div> -->
+                            <!-- <div class="eulding-btn standard">
+                                <a href="#">Read More <i class="bi bi-arrow-up-right-circle-fill"></i></a>
+                            </div> -->
                         </div>
-                    </div>
-                    <!-- <div class="blog-standard-meta">
-                        <span>By Admin</span>
-                        <span>17 Aug 2023 </span>
-                        <span class="meta">Construction</span>
-                    </div> -->
-                    <!-- <div class="blog-standard-content">
-                        <h4><a href="#">Best Practices Construction Law Construction</a></h4>
-                        <p>Why Roofing are factmake 17 Reason EasierForesee the pain & trouble that are bounds too ensue equalidea off denouncing pleasures and praising pain was borncomplete account and expound the actual teachings the great the master-builder of human happiness. In a free hour...</p>
-                    </div> -->
-                    <!-- <div class="eulding-btn standard">
-                        <a href="#">Read More <i class="bi bi-arrow-up-right-circle-fill"></i></a>
-                    </div> -->
+                        <!-- End blog single box -->
+                    </div>                   
                 </div>
-                <!-- End blog single box -->
-            </div>
+            </div>            
             <div class="col-lg-4 col-md-6">                
                 <!-- End widget search box -->
                 <div class="widget-categories-box">
