@@ -6,7 +6,7 @@ echo '
 <head>
 	<meta charset="UTF-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<title>Euildint-Construction Buliding HTML5 Template </title>
+	<title>Brockmlc Website </title>
 	<meta name="description" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!-- Favicon -->

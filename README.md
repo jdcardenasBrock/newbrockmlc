@@ -1,2 +1,6 @@
-# Euildint
-Euildint html business consult html template for Website stock
+# Website Brockmlc
+Website for Brockmlc
+
+# Contributors
+Nicolas Ruiz
+Juan Cardenas
