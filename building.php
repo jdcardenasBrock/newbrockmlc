@@ -125,7 +125,7 @@
 				<div class="col-lg-4 col-md-12">
 					<div class="single-video style-three text-center">
 						<div class="video-icon style-three">
-							<a class="video-vemo-icon venobox vbox-item" data-vbtype="vimeo" data-autoplay="true" href="https://i.vimeocdn.com/video/1473605326-a54dffdfd057f0ab09efdace070b4a59f1a093de34f0f44eed35ec8def8be37e-d"><i class="bi bi-play"></i></a>
+							<a class="video-vemo-icon venobox vbox-item" data-vbtype="video" data-autoplay="true" href="https://vimeo.com/732260933"><i class="bi bi-play"></i></a>
 						</div>
 					</div>
 				</div>
