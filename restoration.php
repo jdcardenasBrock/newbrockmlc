@@ -11,71 +11,60 @@
                                 <img src="assets/images/service/service-details1.jpg" alt="">
                             </div>
                             <div class="service-details-content">
-                                <h4><a href="service-details.html">Building smart business solution for you</a></h4>
-                                <p>Lorem ipsum is simply free text used by copytyping refreshing. Neque porro est qui dolorem ipsum a quia quaed inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Aelltes port lacus quis enim var sed sed efficitur turpis gilla sed sit amet eros. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ndustry standard dummy text ever since the 1500s, when an unknown printer took a</p>
+                                <h4><a href="#">PROFESSIONAL & RELIABLE SITEWORK SERVICES</a></h4>
+                                <p>Our sitework teams & equipment accessibility combined with our proven expertise is another reason why Brock Mountain is trusted nationwide. Our team can help facilitate any project on time and on budget.</p>
                             </div>
                         </div>
                         <!-- End service details single box -->
-                    </div>
-                    <div class="col-lg-12">
-                        <!-- start service details single box -->
-                        <div class="service-details-single-box">
-                            <div class="service-details-thumb">
-                                <img src="assets/images/service/service-details2.jpg" alt="">
-                            </div>
-                            <div class="service-details-content">
-                                <h4><a href="service-details.html">Building Everything Best</a></h4>
-                                <p>Lorem ipsum is simply free text used by copytyping refreshing. Neque porro est qui dolorem ipsum a quia quaed inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Aelltes port lacus quis enim var sed sed efficitur turpis gilla sed sit amet eros. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the ndustry standard dummy text ever since the 1500s, when an unknown printer took a</p>
-                            </div>
-                        </div>
-                        <!-- End service details single box -->
-                    </div>
+                    </div>                    
                 </div>
             </div>
-            <div class="col-lg-4 col-md-6">
-                <!-- start widget search box -->
-                <div class="widget_search box">
-                    <form action="#" method="get">
-                        <input type="text" name="s" value="" placeholder="Search Here" title="Search for:">
-                        <button type="submit" class="icons">
-                            <i class="fa fa-search"></i>
-                        </button>
-                    </form>
+            <div class="col-lg-12 mb-40">
+                <!-- start blog single box -->
+                <div class="blog-standard-box">
+                    <div class="blog-standard-thumb">
+                        <img src="assets/images/blog/blog-standard1.png" alt="">
+                        <div class="blog-single-video">
+                            <div class="blog-video-icon">
+                                <a class="video-vemo-icon venobox vbox-item" data-vbtype="youtube" data-autoplay="true" href="https://youtu.be/BS4TUd7FJSg"><i class="bi bi-play-fill"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- <div class="blog-standard-meta">
+                        <span>By Admin</span>
+                        <span>17 Aug 2023 </span>
+                        <span class="meta">Construction</span>
+                    </div> -->
+                    <!-- <div class="blog-standard-content">
+                        <h4><a href="#">Best Practices Construction Law Construction</a></h4>
+                        <p>Why Roofing are factmake 17 Reason EasierForesee the pain & trouble that are bounds too ensue equalidea off denouncing pleasures and praising pain was borncomplete account and expound the actual teachings the great the master-builder of human happiness. In a free hour...</p>
+                    </div> -->
+                    <!-- <div class="eulding-btn standard">
+                        <a href="#">Read More <i class="bi bi-arrow-up-right-circle-fill"></i></a>
+                    </div> -->
                 </div>
+                <!-- End blog single box -->
+            </div>
+            <div class="col-lg-4 col-md-6">                
                 <!-- End widget search box -->
                 <div class="widget-categories-box">
                     <div class="widget-catagories-title">
-                        <h4>Main Services</h4>
+                        <h4>SITEWORK SERVICES INCLUDE</h4>
                     </div>
                     <!-- widget categories menu -->
                     <div class="widget-categories-menu">
                         <ul>
-                            <li><a href="service-details.html"> Business Solution <span><i class="bi bi-chevron-right"></i></span></a></li>	
-                            <li><a href="service-details.html"> Expert Mechanical <span><i class="bi bi-chevron-right"></i></span></a></li>
-                            <li><a href="service-details.html"> Architecture & Building <span><i class="bi bi-chevron-right"></i></span></a></li>
-                            <li><a href="service-details.html"> Construction Management <span><i class="bi bi-chevron-right"></i></span></a></li>
-                            <li><a href="service-details.html"> Apartment Design <span><i class="bi bi-chevron-right"></i></span></a></li>
-                            <li><a href="service-details.html"> Facade Engineering <span><i class="bi bi-chevron-right"></i></span></a></li>
+                            <li><a href="#"> Stormwater Install & Maintenance <span><i class="bi bi-chevron-right"></i></span></a></li>	
+                            <li><a href="#"> French Drain Install & Maintenance <span><i class="bi bi-chevron-right"></i></span></a></li>
+                            <li><a href="#"> Trench Drain Install & Maintenance <span><i class="bi bi-chevron-right"></i></span></a></li>
+                            <li><a href="#"> Forestry Mulching & Land Clearing <span><i class="bi bi-chevron-right"></i></span></a></li>
+                            <li><a href="#"> Disaster Clean-up <span><i class="bi bi-chevron-right"></i></span></a></li>
+                            <li><a href="#"> Excavation, Import & Export <span><i class="bi bi-chevron-right"></i></span></a></li>
+                            <li><a href="#"> Engineering & Design Build Solutions <span><i class="bi bi-chevron-right"></i></span></a></li>
+                            <li><a href="#"> Concrete Flatwork / Curb & Gutter <span><i class="bi bi-chevron-right"></i></span></a></li>
                         </ul>
                     </div>
-                </div>
-                <div class="widget-categories-box">
-                    <!-- categories title -->
-                    <div class="widget-catagories-title">
-                        <h4> Tag Cloud </h4>
-                    </div>
-                    <div class="widget-tags">
-                        <a href="#">Services</a>
-                        <a href="#">Business</a>
-                        <a href="#">Grooming</a>
-                        <a href="#">Breeding</a>
-                        <a href="#">Growth</a>
-                        <a href="#">Stable</a>
-                        <a href="#">Education</a>
-                        <a href="#">America</a>
-                        <a href="#">Maintenance</a>
-                    </div>
-                </div>
+                </div>                
             </div>
         </div>
     </div>
