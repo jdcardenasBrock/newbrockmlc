@@ -100,16 +100,7 @@ echo '
         <div class="row mt-110">
             <div class="col-lg-6 col-md-12">
                 <div class="copyright-text">
-                    <p>Copyright ©<a href="#">Website_Stock</a>All Rights Reserved.</p>
-                </div>
-            </div>
-            <div class="col-lg-6 col-md-12">
-                <div class="footer-condition">
-                    <ul>
-                        <li><a href="#">Setting & privacy</a></li>
-                        <li><a href="#">Faqs</a></li>
-                        <li><a href="#">Support</a></li>
-                    </ul>
+                    <p>Brock MLC - Copyright © 2023 All Rights Reserved.</p>
                 </div>
             </div>
         </div>
