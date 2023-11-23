@@ -43,35 +43,7 @@
                         <!-- End service details single box -->
                     </div>                                                           
                 </div>
-            </div> 
-            <div class="col-lg-12">
-                <!--==================================================-->
-                <!-- Start Euildint Call Do Bg Area -->
-                <!--==================================================-->
-                <div class="call-do-action-area style-two wow animate__slideInUp">
-                    <div class="container">
-                        <div class="row align-items-center">
-                            <div class="col-lg-8 col-md-12">
-                                <div class="call-do-title style-two">
-                                    <h2>Offers Excellentcom Bination</h2>
-                                    <h2>of Location & Quality</h2>
-                                </div>
-                            </div>
-                            <div class="col-lg-4 col-md-12">
-                                <div class="single-video style-three text-center">
-                                    <div class="video-icon style-three">
-                                        <a class="video-vemo-icon venobox vbox-item" data-vbtype="youtube" data-autoplay="true" href="https://youtu.be/BS4TUd7FJSg"><i class="bi bi-play"></i></a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <!--==================================================-->
-                <!-- End Euildint Call Do Bg Area -->
-                <!--==================================================-->
-            </div>           
+            </div>                        
             <div class="col-lg-4 col-md-6">                
                 <!-- End widget search box -->
                 <div class="widget-categories-box">
@@ -96,4 +68,30 @@
         </div>
     </div>
 </div>
+<!--==================================================-->
+<!-- Start Euildint Call Do Bg Area -->
+<!--==================================================-->
+<div class="call-do-action-area style-two wow animate__slideInUp">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-8 col-md-12">
+                <div class="call-do-title style-two">
+                    <h2>Offers Excellentcom Bination</h2>
+                    <h2>of Location & Quality</h2>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-12">
+                <div class="single-video style-three text-center">
+                    <div class="video-icon style-three">
+                        <a class="video-vemo-icon venobox vbox-item" data-vbtype="youtube" data-autoplay="true" href="https://youtu.be/BS4TUd7FJSg"><i class="bi bi-play"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--==================================================-->
+<!-- End Euildint Call Do Bg Area -->
+<!--==================================================-->
 <?php require 'footer.php'; ?>
