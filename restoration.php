@@ -1,4 +1,29 @@
 <?php require 'header.php'; ?>
+<!--==================================================-->
+<!-- Start Euildint Breatcome Area -->
+<!--==================================================-->
+<div class="breatcome-area">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 col-md-12">
+                <div class="breatcome-content">
+                    <div class="breatcome-title">
+                        <h1>Service Details</h1>
+                    </div>
+                    <div class="bratcome-text">
+                        <ul>
+                            <li><a href="index.html">Home</a></li>
+                            <li>Service Details</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!--==================================================-->
+<!-- End Euildint Breatcome Area -->
+<!--==================================================-->
 <div class="service-details-area wow animate__slideInUp">
     <div class="container">
         <div class="row">
