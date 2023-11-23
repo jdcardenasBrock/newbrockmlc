@@ -68,8 +68,8 @@ echo '
 				<div class="col-lg-6 col-md-6">
 					<div class="topbar-adress">
 						<ul>
-							<li class="line"><a href="#">Address : 3517 W. Gray St. Utica, Pennsylvania 57867</a></li>
-							<li><a href="#">info@example.com</a></li>
+							<li class="line"><a href="#">Address : Barnardsville, NC 28709</a></li>
+							<!-- <li><a href="#">info@example.com</a></li> -->
 						</ul>
 					</div>
 				</div>
@@ -121,7 +121,7 @@ echo '
 							</div>
 							<div class="header-call-title">
 								<a href="#">Need help?  Call us: </a>
-								<span><a href="#">(+800) 1234 5678 90</a></span>
+								<span><a href="#"> (888) 774-6498 </a></span>
 							</div>
 						</div>
 					</div>
