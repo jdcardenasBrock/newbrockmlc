@@ -125,7 +125,7 @@
 				<div class="col-lg-4 col-md-12">
 					<div class="single-video style-three text-center">
 						<div class="video-icon style-three">
-							<a class="video-vemo-icon venobox vbox-item" data-vbtype="youtube" data-autoplay="true" href="https://i.vimeocdn.com/video/1473605326-a54dffdfd057f0ab09efdace070b4a59f1a093de34f0f44eed35ec8def8be37e-d"><i class="bi bi-play"></i></a>
+							<a class="video-vemo-icon venobox vbox-item" data-vbtype="vimeo" data-autoplay="true" href="https://i.vimeocdn.com/video/1473605326-a54dffdfd057f0ab09efdace070b4a59f1a093de34f0f44eed35ec8def8be37e-d"><i class="bi bi-play"></i></a>
 						</div>
 					</div>
 				</div>
@@ -140,7 +140,7 @@
 	<!--==================================================-->
 	<!-- Start Euildint About Area -->
 	<!--==================================================-->
-	<div class="about-area style-two wow animate__slideInUp" style="margin: 210px;">
+	<div class="about-area style-two wow animate__slideInUp" style="margin-top: 210px;">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-6 col-md-12">
@@ -149,12 +149,11 @@
 						<!-- statr about counter -->
 						<div class="about-counter">
 							<div class="about-numbar">
-								<h4 class="counter">12</h4>
+								<h4 class="counter">25</h4>
 								<span>+</span>
 							</div>
 							<div class="about-counter-text">
-								<h5>Years of Experience
-									Construction Services</h5>
+								<h5>Years of Experience</h5>
 							</div>
 						</div>
 						<!-- End about counter -->
@@ -170,65 +169,19 @@
 						</div>
 						<div class="section-main-title about">
 							<h2>We Make Finest Architectural</h2>
-							<h2>Design With Great Passion</h2>
 						</div>
 					</div>
 					<div class="about-content wow animate__slideInUp">
 						<div class="about-discribtion">
-							<p>Quisque dignissim enim diam, eget pulvinar ex viverra id. Nulla a lobortis lectus, id volutpat magna. Morbi consequat porttitor fermentum. Nulla vestibulum tincidunt viverra. Vestibulum accumsan</p>
+							<p>With a keen commitment to detail & budget, Brock Mountain provides residential building services throughout the Southeast. Our commitment is simple: We treat each residential project as if it were our own.</p>
 						</div>
-						<!-- start process bar -->
-						<div class="process-ber-plugin">
-							<span class="process-bar">Customer Satisficed </span>
-							<div id="bar1" class="barfiller">
-								<div class="tipWrap" style="display: inline;">
-									<span class="tip" style="left: 468.814px; transition: left 7s ease-in-out 0s;">78%</span>
-								</div>
-								<span class="fill" data-percentage="78" style="background: rgb(22, 181, 151); width: 505.791px; transition: width 7s ease-in-out 0s;"></span>
-							</div>  
-							<span class="process-bar">Residential Roofing</span>
-							<div id="bar2" class="barfiller">
-								<div class="tipWrap" style="display: inline;">
-									<span class="tip" style="left: 403.254px; transition: left 7s ease-in-out 0s;">55%</span>
-								</div>
-								<span class="fill my-class" data-percentage="55" style="background: rgb(22, 181, 151); width: 438.352px; transition: width 7s ease-in-out 0s;"></span>
-							</div>
-						</div>
-						<!-- End process bar -->
-						<div class="row">
-							<div class="col-lg-6">
-								<!--start about single box -->
-								<div class="about-single-box">
-									<div class="about-icon">
-										<img src="assets/images/about/about-icon1.png" alt="">
-									</div>
-									<div class="about-text">
-										<h4>Worldwide Service</h4>
-										<p>Lorem ipsum is simply velit anod ipas aliquet enean quis.</p>
-									</div>
-								</div>
-								<!--end about single box -->
-							</div>
-							<div class="col-lg-6 col-mdd-6">
-								<!--start about single box -->
-								<div class="about-single-box">
-									<div class="about-icon">
-										<img src="assets/images/about/about-icon2.png" alt="">
-									</div>
-									<div class="about-text">
-										<h4>Awward Winner</h4>
-										<p>Lorem ipsum is simply velit anod ipas aliquet enean quis.</p>
-									</div>
-								</div>
-								<!--end about single box -->
-							</div>
-						</div>
+						
 						<div class="about-bottom">
 							<div class="eulding-btn about">
-								<a href="#">Read More <i class="bi bi-arrow-up-right-circle-fill"></i></a>
+								<a href="https://www.realtor.com/realestateandhomes-detail/M9419213114">View Our Latest Listing on <br>Realtor.com<i class="bi bi-arrow-up-right-circle-fill"></i></a>
 							</div>
-							<div class="about-signiture">
-								<img src="assets/images/about/about-sine.png" alt="">
+							<div class="eulding-btn about">
+								<a href="https://brockmountainhomes.com/">Visit Brock Mountain Homes <i class="bi bi-arrow-up-right-circle-fill"></i></a>
 							</div>
 						</div>
 					</div>

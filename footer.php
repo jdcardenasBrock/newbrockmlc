@@ -4,7 +4,7 @@ echo '
 <!--==================================================-->
 <!-- Start Euildint Brand Area -->
 <!--==================================================-->
-<div class="brand-area wow animate__slideInUp">
+<div class="brand-area ">
     <div class="container-fluid">
         <div class="row">
             <div class="brand_list owl-carousel">
@@ -56,12 +56,12 @@ echo '
     <div class="container">
         <div class="row">
             <div class="col-lg-3 col-md-6">
-                <div class="footer-wiget wow animate__zoomIn" style="visibility: visible;">
+                <div class="footer-wiget" style="visibility: visible;">
                     <div class="footer-wiget-log">
                         <a href="index.html"><img src="assets/images/footer/footer-logo.png" alt=""></a>
                     </div>
                     <div class="footer-wiget-text">
-                        <p>A farm is a plot of land that is used to grow crops and raise livestock, as in our farm, we raise sheep and sell their wool the word farm is also.</p>
+                        <p>Brock Mountain offers virtually unlimited flexibility for construction, sitework, building and stormwater management.</p>
                     </div>
                     <div class="footer-wiget-social">
                         <ul>
@@ -74,7 +74,7 @@ echo '
                 </div>
             </div>
             <div class="col-lg-3 col-md-6">
-                <div class="footer-wiget wow animate__slideInDown" style="visibility: visible;">
+                <div class="footer-wiget " style="visibility: visible;">
                     <div class="footer-wiget-title">
                         <h4>Our Services</h4>
                     </div>
@@ -90,7 +90,7 @@ echo '
                 </div>
             </div>
             <div class="col-lg-3 col-md-6">
-                <div class="footer-wiget wow animate__slideInDown" style="visibility: visible;">
+                <div class="footer-wiget " style="visibility: visible;">
                     <div class="footer-wiget-title">
                         <h4>Useful Links</h4>
                     </div>
