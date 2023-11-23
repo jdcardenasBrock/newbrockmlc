@@ -1,13 +1,14 @@
 <?php require 'header.php'; ?>
+
 	<!--==================================================-->
-	<!-- Start Euildint Slider Area -->
+	<!-- Start Euildint Slider Style Two Area -->
 	<!--==================================================-->
-	<div class="slider-area d-flex align-items-center">
-		<div class="container">
-			<div class="row align-items-center">
-				<div class="col-lg-6 col-md-12">
-					<!-- start slider content -->
-					<div class="slider-content wow animate__slideInLeft">
+	<section class="banner-section">
+		<div class="banner-carousel owl-carousel">
+			<div class="slide-item one">
+				<div class="image-layer" style="background-image: url('assets/images/slider/slider-2.jpg');"></div>
+				<div class="container">
+					<div class="slider-content style-two wow animate__slideInLeft">
 						<div class="slider-sub-title">
 							<h4>Great Experience In Building</h4>
 						</div>
@@ -21,102 +22,158 @@
 						<div class="eulding-btn">
 							<a href="#">Read More <i class="bi bi-arrow-up-right-circle-fill"></i></a>
 						</div>
+						<div class="slider-social-menu">
+							<ul>
+								<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+								<li><a href="#"><i class="fab fa-youtube"></i></a></li>
+								<li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+								<li><a href="#"><i class="fab fa-twitter"></i></a></li>
+							</ul>
+						</div>
 					</div>
-					<!-- end slider content -->
 				</div>
-				<div class="col-lg-6 col-md-6">
-					<div class="slider-thumb wow animate__slideInRight">
-						<img src="assets/images/slider/slider-thumb.png" alt="slider-thumb">
+			</div>
+			<div class="slide-item two">
+				<div class="image-layer" style="background-image: url('assets/images/slider/slider-3.jpg');"></div>
+				<div class="container">
+					<div class="slider-content style-two wow animate__slideInLeft">
+						<div class="slider-sub-title">
+							<h4>Great Experience In Building</h4>
+						</div>
+						<div class="slider-main-title">
+							<h1>The Best Solution</h1>
+							<h1>Industry Business</h1>
+						</div>
+						<div class="slider-discripton">
+							<p>I have been a loyal customer of this auto parts company for years and I cannot recommend them enough. Their extensive selection of high-quality parts and accessories.of high-quality parts and</p>
+						</div>
+						<div class="eulding-btn">
+							<a href="#">Read More <i class="bi bi-arrow-up-right-circle-fill"></i></a>
+						</div>
+						<div class="slider-social-menu">
+							<ul>
+								<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+								<li><a href="#"><i class="fab fa-youtube"></i></a></li>
+								<li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+								<li><a href="#"><i class="fab fa-twitter"></i></a></li>
+							</ul>
+						</div>
 					</div>
 				</div>
 			</div>
 		</div>
-	</div>
+	</section>
 	<!--==================================================-->
-	<!-- End Euildint Slider Area -->
+	<!-- End Euildint Slider Style Two Area -->
 	<!--==================================================-->
 
 	<!--==================================================-->
-	<!-- Start Euildint Feature Area -->
+	<!-- Start Euildint Feature Style Two Area -->
 	<!--==================================================-->
-	<div class="feature-area wow animate__slideInDown">
-		<div class="container mr-160">
+	<div class="feature-area style-two animate__slideInUp">
+		<div class="container-fluid">
 			<div class="row">
-				<div class="col-lg-6"></div>
-				<div class="col-lg-6 col-md-12">
-					<div class="feature-items">
-						<!--start feature single box -->
-						<div class="feature-single-box">
-							<div class="feature-content">
-								<div class="feature-icon-thumb">
-									<img src="assets/images/resource/feature1.png" alt="">
-								</div>
-								<div class="feature-title">
-									<h4><a href="#">Save Your Time</a></h4>
-									<h4><a href="#">And Money</a></h4>
-								</div>
-								<div class="feature-icon">
-									<i class="bi bi-arrow-up-right"></i>
-								</div>
+				<div class="col-lg-3 col-md-6">
+					<!--start feature items box -->
+					<div class="feature-items-box">
+						<div class="feature-icon-box">
+							<div class="feature-icon-thumb">
+								<img src="assets/images/resource/feature-icn1.png" alt="">
+							</div>
+							<div class="feature-numbar">
+								<h5>01.</h5>
 							</div>
 						</div>
-						<!--End feature single box -->
-
-						<!--start feature single box -->
-						<div class="feature-single-box active">
-							<div class="feature-content">
-								<div class="feature-icon-thumb two">
-									<img src="assets/images/resource/feature2.png" alt="">
-								</div>
-								<div class="feature-title two">
-									<h4><a href="#">Work With Our</a></h4>
-									<h4><a href="#">Expert Team</a></h4>
-								</div>
-								<div class="feature-icon two">
-									<i class="bi bi-arrow-up-right"></i>
-								</div>
-							</div>
+						<div class="feature-text">
+							<h4><a href="#">Building Construction</a></h4>
+							<a href="#">Discover More <i class="bi bi-arrow-right"></i></a>
 						</div>
-						<!--End feature single box -->
-
-						<!--start feature single box -->
-						<div class="feature-single-box">
-							<div class="feature-content">
-								<div class="feature-icon-thumb">
-									<img src="assets/images/resource/feature3.png" alt="">
-								</div>
-								<div class="feature-title">
-									<h4><a href="#">Certificate Work</a></h4>
-									<h4><a href="#">Experience</a></h4>
-								</div>
-								<div class="feature-icon">
-									<i class="bi bi-arrow-up-right"></i>
-								</div>
-							</div>
-						</div>
-						<!--End feature single box -->
 					</div>
+					<!--End feature items box -->
+				</div>
+				<div class="col-lg-3 col-md-6">
+					<!--start feature items box -->
+					<div class="feature-items-box two">
+						<div class="feature-icon-box">
+							<div class="feature-icon-thumb">
+								<img src="assets/images/resource/feature-icn2.png" alt="">
+							</div>
+							<div class="feature-numbar">
+								<h5>02.</h5>
+							</div>
+						</div>
+						<div class="feature-text">
+							<h4><a href="#">Architecture Design</a></h4>
+							<a href="#">Discover More <i class="bi bi-arrow-right"></i></a>
+						</div>
+					</div>
+					<!--End feature items box -->
+				</div>
+				<div class="col-lg-3 col-md-6">
+					<!--start feature items box -->
+					<div class="feature-items-box">
+						<div class="feature-icon-box">
+							<div class="feature-icon-thumb">
+								<img src="assets/images/resource/feature-icn3.png" alt="">
+							</div>
+							<div class="feature-numbar">
+								<h5>03.</h5>
+							</div>
+						</div>
+						<div class="feature-text">
+							<h4><a href="#">Building Renovation</a></h4>
+							<a href="#">Discover More <i class="bi bi-arrow-right"></i></a>
+						</div>
+					</div>
+					<!--End feature items box -->
+				</div>
+				<div class="col-lg-3 col-md-6">
+					<!--start feature items box -->
+					<div class="feature-items-box">
+						<div class="feature-icon-box">
+							<div class="feature-icon-thumb">
+								<img src="assets/images/resource/feature-icn4.png" alt="">
+							</div>
+							<div class="feature-numbar">
+								<h5>04.</h5>
+							</div>
+						</div>
+						<div class="feature-text">
+							<h4><a href="#">Consulting Service</a></h4>
+							<a href="#">Discover More <i class="bi bi-arrow-right"></i></a>
+						</div>
+					</div>
+					<!--End feature items box -->
 				</div>
 			</div>
 		</div>
 	</div>
-	<!--==================================================-->
-	<!-- End Euildint Feature Area -->
-	<!--==================================================-->
 
+	<!--==================================================-->
+	<!-- End Euildint Feature Style Two Area -->
+	<!--==================================================-->
 
 	<!--==================================================-->
 	<!-- Start Euildint About Area -->
 	<!--==================================================-->
-	<div class="about-area wow animate__slideInUp">
+	<div class="about-area style-two wow animate__slideInUp">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-6 col-md-12">
-					<div class="about-thumb wow animate__slideInUp">
-						<img src="assets/images/about/about.jpg" alt="">
-						<div class="about-shape">
-							<img src="assets/images/about/about-shape.png" alt="">
+					<div class="about-thumb style-two wow animate__slideInUp">
+						<img src="assets/images/about/about2.jpg" alt="">
+						<!-- statr about counter -->
+						<div class="about-counter">
+							<div class="about-numbar">
+								<h4 class="counter">12</h4>
+								<span>+</span>
+							</div>
+							<div class="about-counter-text">
+								<h5>Years of Experience
+									Construction Services</h5>
+							</div>
 						</div>
+						<!-- End about counter -->
 					</div>
 				</div>
 				<div class="col-lg-6 col-md-12">
@@ -155,7 +212,7 @@
 						</div>
 						<!-- End process bar -->
 						<div class="row">
-							<div class="col-lg-6 col-md-6">
+							<div class="col-lg-6">
 								<!--start about single box -->
 								<div class="about-single-box">
 									<div class="about-icon">
@@ -168,7 +225,7 @@
 								</div>
 								<!--end about single box -->
 							</div>
-							<div class="col-lg-6 col-md-6">
+							<div class="col-lg-6 col-mdd-6">
 								<!--start about single box -->
 								<div class="about-single-box">
 									<div class="about-icon">
@@ -182,8 +239,13 @@
 								<!--end about single box -->
 							</div>
 						</div>
-						<div class="eulding-btn about">
-							<a href="#">Read More <i class="bi bi-arrow-up-right-circle-fill"></i></a>
+						<div class="about-bottom">
+							<div class="eulding-btn about">
+								<a href="#">Read More <i class="bi bi-arrow-up-right-circle-fill"></i></a>
+							</div>
+							<div class="about-signiture">
+								<img src="assets/images/about/about-sine.png" alt="">
+							</div>
 						</div>
 					</div>
 				</div>
@@ -195,30 +257,105 @@
 	<!--==================================================-->
 
 	<!--==================================================-->
-	<!-- Start Euildint Contact Area -->
+	<!-- Start Euildint History Area -->
 	<!--==================================================-->
-	<div class="contact-area wow animate__slideInUp">
+	<div class="heistory-area animate__slideInUp">
 		<div class="container">
-			<div class="row align-items-center">
-				<div class="col-lg-7 col-md-12">
+			<div class="row history-bg">
+				<div class="col-lg-4 col-md-12">
+					<!-- start section title -->
 					<div class="section-title">
-						<div class="section-main-title contact">
-							<h2>Contact us Today And Let us</h2>
-							<h2>Know What you Need</h2>
+						<div class="section-shape">
+							<img src="assets/images/about/section-shape.png" alt="">
+						</div>
+						<div class="section-sub-title">
+							<h4>our history</h4>
+						</div>
+						<div class="section-main-title">
+							<h2>Company History,</h2>
+							<h2>Present And The</h2>
+							<h2>Future</h2>
 						</div>
 					</div>
-					<div class="contact-discription">
-						<p>When does a mere internet 'SEO' company grow into a trusted partner that stays in front of the latest industry trends? When it's time to partner with Mocer, that's when. saidul islam</p>
-					</div>
-					<div class="eulding-btn">
-						<a href="contact.html">Contact Us <i class="bi bi-arrow-up-right-circle-fill"></i></a>
+					<!-- End section title -->
+				</div>
+				<div class="col-lg-4 col-md-6">
+					<div class="history-single-box">
+						<div class="history-content">
+							<h4><a href="#">We Started From 1999</a></h4>
+							<p>Lorem ipsum dolor sit amet, consec tetur adipiscing elit. at euis mod dapibus to do.</p>
+							<a href="#">Discover More <i class="bi bi-arrow-right"></i></a>
+						</div>
 					</div>
 				</div>
-				<div class="col-lg-5 col-md-6">
-					<div class="contact-thumb wow animate__slideInRight">
-						<img src="assets/images/resource/contact-thumb.png" alt="">
-						<div class="contact-shape bounce-animate">
-							<img src="assets/images/resource/contact-shape.png" alt="">
+				<div class="col-lg-4 col-md-6">
+					<div class="history-items-box">
+						<div class="history-items-thumb">
+							<img src="assets/images/resource/history1.png" alt="">
+							<div class="history-items-content">
+								<div class="history-text">
+									<h4><a href="#">Our Goal is To Make The Future Work Easier</a></h4>		
+								</div>
+								<div class="history-icon">
+									<a href="#"><i class="bi bi-arrow-right"></i></a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-12">
+					<div class="row mt-30">
+						<div class="col-lg-5 col-md-6">
+							<div class="history-single-box">
+								<div class="history-content">
+									<h4><a href="#">We Started From 1999</a></h4>
+									<p>Lorem ipsum dolor sit amet, consec tetur adipiscing elit. at euis mod dapibus to do.</p>
+									<a href="#">Discover More <i class="bi bi-arrow-right"></i></a>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-7 col-md-12">
+							<div class="counter-area">
+								<div class="row">
+									<div class="col-lg-4 col-md-4">
+										<!-- start counter single box -->
+										<div class="counter-single-box">
+											<div class="counter-numbar">
+												<h4 class="counter">39</h4>
+											</div>
+											<div class="counter-content">
+												<h5>Different Kind of Products</h5>
+											</div>
+										</div>
+										<!-- End counter single box -->
+									</div>
+									<div class="col-lg-4 col-md-4">
+										<!-- start counter single box -->
+										<div class="counter-single-box">
+											<div class="counter-numbar">
+												<h4 class="counter">1850</h4>
+											</div>
+											<div class="counter-content">
+												<h5>Expert Engineers Are Working</h5>
+											</div>
+										</div>
+										<!-- End counter single box -->
+									</div>
+									<div class="col-lg-4 col-md-4">
+										<!-- start counter single box -->
+										<div class="counter-single-box">
+											<div class="counter-numbar">
+												<h4 class="counter">40</h4>
+												<span>K</span>
+											</div>
+											<div class="counter-content">
+												<h5>Export Valule in Last 10 Years</h5>
+											</div>
+										</div>
+										<!-- End counter single box -->
+									</div>
+								</div>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -226,13 +363,38 @@
 		</div>
 	</div>
 	<!--==================================================-->
-	<!-- End Euildint Contact Area -->
+	<!-- End Euildint History Area -->
 	<!--==================================================-->
 
 	<!--==================================================-->
-	<!-- Start Euildint Service Area -->
+	<!-- Start Euildint Call Do Bg Area -->
 	<!--==================================================-->
-	<div class="service-area wow animate__slideInUp">
+	<div class="call-do-action-area animate__slideInUp">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12">
+					<div class="single-video text-center">
+						<div class="video-icon">
+							<a class="video-vemo-icon venobox vbox-item" data-vbtype="youtube" data-autoplay="true" href="https://youtu.be/BS4TUd7FJSg"><i class="bi bi-play"></i></a>
+						</div>
+						<div class="call-do-title">
+							<h2>Offers Excellentcom Bination</h2>
+							<h2>of Location & Quality</h2>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	 </div>
+
+	<!--==================================================-->
+	<!-- End Euildint Call Do Bg Area -->
+	<!--==================================================-->
+
+	<!--==================================================-->
+	<!-- Start Euildint Service Style Two Area -->
+	<!--==================================================-->
+	<div class="service-area animate__slideInUp">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-12">
@@ -254,229 +416,60 @@
 			</div>
 			<div class="row">
 				<div class="col-lg-4 col-md-6">
-					<!-- start service single box -->
-					<div class="service-single-box wow animate__slideInUp">
-						<div class="service-thumb">
-							<img src="assets/images/resource/service1.png" alt="">
+					<!-- start service items box -->
+					<div class="service-items-box">
+						<div class="service-items-content">
+							<h4><a href="service-details.html">Mechanical Works</a></h4>
+							<p>Long established fact that reader will be distracted by the</p>
 						</div>
-						<div class="service-content">
-							<div class="service-icon">
-								<img src="assets/images/resource/service-icon.png" alt="">
+						<div class="service-items-thumb">
+							<img src="assets/images/service/service1.png" alt="">
+							<div class="service-items-icon">
+								<img src="assets/images/service/sercve-icon1.png" alt="">
 							</div>
-							<div class="service-text">
-								<h4><a href="service-details.html">Mechanical Works</a></h4>
-								<p>Consectetur adipiscing elit, sed dots eiusmod tempor incid saidul</p>
-								<a href="#">Read More <i class="bi bi-arrow-right"></i></a>
-							</div>
-						</div>
-						<div class="service-title">
-							<h4>Petroleum Refinery</h4>
 						</div>
 					</div>
-					<!-- End service single box -->
+					<!-- End service items box -->
 				</div>
 				<div class="col-lg-4 col-md-6">
-					<!-- start service single box -->
-					<div class="service-single-box wow animate__slideInUp">
-						<div class="service-thumb">
-							<img src="assets/images/resource/service2.png" alt="">
+					<!-- start service items box -->
+					<div class="service-items-box">
+						<div class="service-items-content">
+							<h4><a href="service-details.html">Petroleum Refinery</a></h4>
+							<p>Long established fact that reader will be distracted by the</p>
 						</div>
-						<div class="service-content">
-							<div class="service-icon">
-								<img src="assets/images/resource/service-icon.png" alt="">
+						<div class="service-items-thumb">
+							<img src="assets/images/service/service2.png" alt="">
+							<div class="service-items-icon">
+								<img src="assets/images/service/sercve-icon2.png" alt="">
 							</div>
-							<div class="service-text">
-								<h4><a href="service-details.html">Mechanical Works</a></h4>
-								<p>Consectetur adipiscing elit, sed dots eiusmod tempor incid saidul</p>
-								<a href="#">Read More <i class="bi bi-arrow-right"></i></a>
-							</div>
-						</div>
-						<div class="service-title">
-							<h4>Petroleum Refinery</h4>
 						</div>
 					</div>
-					<!-- End service single box -->
+					<!-- End service items box -->
 				</div>
 				<div class="col-lg-4 col-md-6">
-					<!-- start service single box -->
-					<div class="service-single-box wow animate__slideInUp">
-						<div class="service-thumb">
-							<img src="assets/images/resource/service3.png" alt="">
+					<!-- start service items box -->
+					<div class="service-items-box">
+						<div class="service-items-content">
+							<h4><a href="service-details.html">Industrial Works</a></h4>
+							<p>Long established fact that reader will be distracted by the</p>
 						</div>
-						<div class="service-content">
-							<div class="service-icon">
-								<img src="assets/images/resource/service-icon.png" alt="">
+						<div class="service-items-thumb">
+							<img src="assets/images/service/service3.png" alt="">
+							<div class="service-items-icon">
+								<img src="assets/images/service/sercve-icon3.png" alt="">
 							</div>
-							<div class="service-text">
-								<h4><a href="service-details.html">Mechanical Works</a></h4>
-								<p>Consectetur adipiscing elit, sed dots eiusmod tempor incid saidul</p>
-								<a href="#">Read More <i class="bi bi-arrow-right"></i></a>
-							</div>
-						</div>
-						<div class="service-title">
-							<h4>Petroleum Refinery</h4>
 						</div>
 					</div>
-					<!-- End service single box -->
+					<!-- End service items box -->
 				</div>
 			</div>
 		</div>
 	</div>
 	<!--==================================================-->
-	<!-- End Euildint Service Area -->
+	<!-- End Euildint Service Style Two Area -->
 	<!--==================================================-->
 
-	<!--==================================================-->
-	<!-- Start Euildint Pricing Area -->
-	<!--==================================================-->
-	<div class="pricing-area wow animate__slideInUp">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-12">
-					<!-- start section title -->
-					<div class="section-title text-center">
-						<div class="section-shape">
-							<img src="assets/images/about/section-shape.png" alt="">
-						</div>
-						<div class="section-sub-title">
-							<h4>Pricing Plan</h4>
-						</div>
-						<div class="section-main-title pricing">
-							<h2>Our Best Price Plan</h2>
-						</div>
-					</div>
-					<!-- End section title -->
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-lg-4 col-md-6">
-					<!-- start pricing single box -->
-					<div class="pricing-single-box wow animate__slideInUp">
-						<div class="pricing-content">
-							<div class="pricing-title">
-								<h3>Business Plan</h3>
-							</div>
-							<div class="pricing-rate">
-								<h3>$424<span>/Per Month</span></h3>
-							</div>
-							<div class="pricing-list">
-								<span class="active"><i class="bi bi-check"></i> Five brand monitors</span>
-								<span class="active"><i class="bi bi-check"></i> 12-month fixed price</span>
-								<span><i class="bi bi-x"></i> Transmission charge</span>
-								<span><i class="bi bi-x"></i> Marketing strategy</span>
-								<span><i class="bi bi-x"></i> Free Server Domain</span>
-							</div>
-						</div>
-						<div class="pircing-btn">
-							<a href="#">Purchase Now</a>
-						</div>
-					</div>
-					<!-- End pricing single box -->
-				</div>
-				<div class="col-lg-4 col-md-6">
-					<!-- start pricing single box -->
-					<div class="pricing-single-box wow animate__slideInUp">
-						<div class="pricing-content">
-							<div class="pricing-title">
-								<h3>Business Plan</h3>
-							</div>
-							<div class="pricing-rate">
-								<h3>$500<span>/Per Years</span></h3>
-							</div>
-							<div class="pricing-list">
-								<span class="active"><i class="bi bi-check"></i> Five brand monitors</span>
-								<span class="active"><i class="bi bi-check"></i> 12-month fixed price</span>
-								<span><i class="bi bi-x"></i> Transmission charge</span>
-								<span><i class="bi bi-x"></i> Marketing strategy</span>
-								<span><i class="bi bi-x"></i> Free Server Domain</span>
-							</div>
-						</div>
-						<div class="pircing-btn">
-							<a href="#">Purchase Now</a>
-						</div>
-					</div>
-					<!-- End pricing single box -->
-				</div>
-				<div class="col-lg-4 col-md-6">
-					<!-- start pricing single box -->
-					<div class="pricing-single-box wow animate__slideInUp">
-						<div class="pricing-content">
-							<div class="pricing-title">
-								<h3>Business Plan</h3>
-							</div>
-							<div class="pricing-rate">
-								<h3>$300<span>/Per Month</span></h3>
-							</div>
-							<div class="pricing-list">
-								<span class="active"><i class="bi bi-check"></i> Five brand monitors</span>
-								<span class="active"><i class="bi bi-check"></i> 12-month fixed price</span>
-								<span><i class="bi bi-x"></i> Transmission charge</span>
-								<span><i class="bi bi-x"></i> Marketing strategy</span>
-								<span><i class="bi bi-x"></i> Free Server Domain</span>
-							</div>
-						</div>
-						<div class="pircing-btn">
-							<a href="#">Purchase Now</a>
-						</div>
-					</div>
-					<!-- End pricing single box -->
-				</div>
-			</div>
-		</div>
-	</div>
-	<!--==================================================-->
-	<!-- Start Euildint Pricing Area -->
-	<!--==================================================-->
-
-	<!--==================================================-->
-	<!-- Start Euildint Faq Area -->
-	<!--==================================================-->
-	<div class="faq-area wow animate__slideInUp">
-		<div class="container">
-			<div class="row">
-				<div class="col-lg-6 col-md-12">
-					<div class="section-title wow animate__slideInUp">
-						<div class="section-main-title">
-							<h2>Our Brief History, Our</h2>
-							<h2>Goals & Motivation</h2>
-						</div>
-					</div>
-					<div class="faq-thumb">
-						<img src="assets/images/resource/faq-img.png" alt="">
-					</div>
-				</div>
-				<div class="col-lg-6 col-md-12">
-					<!-- start accordion -->
-					<div class="tab_container wow animate__slideInUp">
-						<div id="tab1" class="tab_content">
-							<ul class="accordion">
-								<li>
-									<a class="active"><span> What services does your business provide? </span></a>
-									<p style="display: block;"> <span style="display: block;">How much do your services cost?</span>Our pricing varies depending on the specific services you require and the scope of your project. We offer customized solutions to fit each client's unique needs and budget. Please contact us for a quote.</p>
-								</li>
-								<li>
-									<a class=""><span>Do you offer any guarantees or refunds? </span></a>
-									<p style="display: none;"> <span style="display: block;">How much do your services cost?</span>Our pricing varies depending on the specific services you require and the scope of your project. We offer customized solutions to fit each client's unique needs and budget. Please contact us for a quote.</p>
-								</li>
-								<li>
-									<a><span>How do I get started with your services? </span></a>
-									<p> <span style="display: block;">How much do your services cost?</span>Our pricing varies depending on the specific services you require and the scope of your project. We offer customized solutions to fit each client's unique needs and budget. Please contact us for a quote.</p>
-								</li>
-								<li>
-									<a><span> How do I get started with your services?</span></a>
-									<p> <span style="display: block;">How much do your services cost?</span>Our pricing varies depending on the specific services you require and the scope of your project. We offer customized solutions to fit each client's unique needs and budget. Please contact us for a quote.</p>
-								</li>
-							</ul>
-						</div>
-					</div>
-					<!-- End accordion -->
-				</div>
-			</div>
-		</div>
-	</div>
-	<!--==================================================-->
-	<!-- End Euildint Faq Area -->
-	<!--==================================================-->
 
 	<!--==================================================-->
 	<!-- Start Euildint Brand Area -->
@@ -523,11 +516,10 @@
 	<!-- End Euildint Brand Area -->
 	<!--==================================================-->
 
-
 	<!--==================================================-->
-	<!-- Start Euildint Project Area -->
+	<!-- Start Euildint Team Area -->
 	<!--==================================================-->
-	<div class="project-area wow animate__slideInUp">
+	<div class="team-area animate__slideInUp">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-12">
@@ -537,94 +529,118 @@
 							<img src="assets/images/about/section-shape.png" alt="">
 						</div>
 						<div class="section-sub-title">
-							<h4>LATEST PROJECTS</h4>
+							<h4>OUR WORKERS</h4>
 						</div>
 						<div class="section-main-title">
-							<h2>Let's Checkout Our Recently </h2>
-							<h2>Completed Work</h2>
+							<h2>Working With Excellentour </h2>
+							<h2>Great Team</h2>
 						</div>
 					</div>
 					<!-- End section title -->
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-lg-6 col-md-6">
-					<!-- start project single box -->
-					<div class="project-single-box wow animate__slideInUp">
-						<div class="project-thumb">
-							<img src="assets/images/project/project1.jpg" alt="">
-							<div class="project-content">
-								<div class="project-text">
-									<h4><a href="project-details.html">Oil Mill Construction</a></h4>
-									<span>Building Renovation</span>
-								</div>
-								<div class="project-icon">
-									<a href="#"><i class="bi bi-arrow-right"></i></a>
-								</div>
+				<div class="col-lg-3 col-md-6">
+					<!-- start team items-box -->
+					<div class="team-items-box wow animate__zoomIn">
+						<div class="team-thumb">
+							<img src="assets/images/team/team1.png" alt="">
+							<div class="team-icon style-two">
+								<ul>
+									<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+									<li><a href="#"><i class="fab fa-twitter"></i></a></li>
+									<li><a href="#"><i class="fab fa-vimeo-v"></i></a></li>
+									<li><a href="#"><i class="fab fa-instagram"></i></a></li>
+								</ul>
+							</div>
+							<div class="team-main-icon style-two">
+								<a href="#"><i class="bi bi-plus-lg"></i></a>
+							</div>
+							<div class="team-content">
+								<h4><a href="team-details.html">Kevin Martin</a></h4>
+								<span>Ceo Transport</span>
 							</div>
 						</div>
 					</div>
-					<!-- End project single box -->
+					<!-- End team items-box -->
 				</div>
-				<div class="col-lg-6 col-md-6 mt-50">
-					<!-- start project single box -->
-					<div class="project-single-box two wow animate__slideInUp">
-						<div class="project-thumb">
-							<img src="assets/images/project/project2.jpg" alt="">
-							<div class="project-content">
-								<div class="project-text">
-									<h4><a href="project-details.html">Oil Mill Construction</a></h4>
-									<span>Building Renovation</span>
-								</div>
-								<div class="project-icon">
-									<a href="#"><i class="bi bi-arrow-right"></i></a>
-								</div>
+				<div class="col-lg-3 col-md-6">
+					<!-- start team items-box -->
+					<div class="team-items-box wow animate__zoomIn">
+						<div class="team-thumb">
+							<img src="assets/images/team/team2.png" alt="">
+							<div class="team-icon style-two">
+								<ul>
+									<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+									<li><a href="#"><i class="fab fa-twitter"></i></a></li>
+									<li><a href="#"><i class="fab fa-vimeo-v"></i></a></li>
+									<li><a href="#"><i class="fab fa-instagram"></i></a></li>
+								</ul>
+							</div>
+							<div class="team-main-icon style-two">
+								<a href="#"><i class="bi bi-plus-lg"></i></a>
+							</div>
+							<div class="team-content">
+								<h4><a href="team-details.html">Roten Barsaw</a></h4>
+								<span>Founder</span>
 							</div>
 						</div>
 					</div>
-					<!-- End project single box -->
+					<!-- End team items-box -->
 				</div>
-				<div class="col-lg-6 col-md-6">
-					<!-- start project single box -->
-					<div class="project-single-box three wow animate__slideInUp">
-						<div class="project-thumb">
-							<img src="assets/images/project/project3.jpg" alt="">
-							<div class="project-content">
-								<div class="project-text">
-									<h4><a href="project-details.html">Oil Mill Construction</a></h4>
-									<span>Building Renovation</span>
-								</div>
-								<div class="project-icon">
-									<a href="#"><i class="bi bi-arrow-right"></i></a>
-								</div>
+				<div class="col-lg-3 col-md-6">
+					<!-- start team items-box -->
+					<div class="team-items-box wow animate__zoomIn">
+						<div class="team-thumb">
+							<img src="assets/images/team/team3.png" alt="">
+							<div class="team-icon style-two">
+								<ul>
+									<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+									<li><a href="#"><i class="fab fa-twitter"></i></a></li>
+									<li><a href="#"><i class="fab fa-vimeo-v"></i></a></li>
+									<li><a href="#"><i class="fab fa-instagram"></i></a></li>
+								</ul>
+							</div>
+							<div class="team-main-icon style-two">
+								<a href="#"><i class="bi bi-plus-lg"></i></a>
+							</div>
+							<div class="team-content">
+								<h4><a href="team-details.html">Barsaw Albart</a></h4>
+								<span>Founder</span>
 							</div>
 						</div>
 					</div>
-					<!-- End project single box -->
+					<!-- End team items-box -->
 				</div>
-				<div class="col-lg-6 col-md-6">
-					<!-- start project single box -->
-					<div class="project-single-box four wow animate__slideInUp">
-						<div class="project-thumb">
-							<img src="assets/images/project/project4.jpg" alt="">
-							<div class="project-content">
-								<div class="project-text">
-									<h4><a href="project-details.html">Oil Mill Construction</a></h4>
-									<span>Building Renovation</span>
-								</div>
-								<div class="project-icon">
-									<a href="#"><i class="bi bi-arrow-right"></i></a>
-								</div>
+				<div class="col-lg-3 col-md-6">
+					<!-- start team items-box -->
+					<div class="team-items-box wow animate__zoomIn">
+						<div class="team-thumb">
+							<img src="assets/images/team/team4.png" alt="">
+							<div class="team-icon style-two">
+								<ul>
+									<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+									<li><a href="#"><i class="fab fa-twitter"></i></a></li>
+									<li><a href="#"><i class="fab fa-vimeo-v"></i></a></li>
+									<li><a href="#"><i class="fab fa-instagram"></i></a></li>
+								</ul>
+							</div>
+							<div class="team-main-icon style-two">
+								<a href="#"><i class="bi bi-plus-lg"></i></a>
+							</div>
+							<div class="team-content">
+								<h4><a href="team-details.html">Roten Burl</a></h4>
+								<span>Founder</span>
 							</div>
 						</div>
 					</div>
-					<!-- End project single box -->
+					<!-- End team items-box -->
 				</div>
 			</div>
 		</div>
 	</div>
 	<!--==================================================-->
-	<!-- End Euildint Project Area -->
+	<!-- End Euildint Team Area -->
 	<!--==================================================-->
 
 	<!--==================================================-->
@@ -791,27 +807,31 @@
 			<div class="row">
 				<div class="col-lg-4 col-md-6">
 					<!-- start blog single box -->
-					<div class="blog-single-box wow animate__slideInUp">
-						<div class="blog-content">
-							<div class="blog-title">
-								<h4><a href="blog-details.html">Digital Privacy Changes And 
-									The Impact On Advertising</a></h4>
+					<div class="blog-single-box style-two wow animate__slideInUp">
+						<div class="blog-thumb">
+							<img src="assets/images/blog/blog1.png" alt="">
+						</div>
+						<div class="blog-content style-two">
+							<div class="blog-meta style-two">
+								<div class="blog-meta-date">
+									<h5>15</h5>
+									<span>May</span>
+								</div>
+								<div class="blog-meta-info">
+									<span><i class="bi bi-person"></i>By Admin</span>
+									<span><i class="bi bi-chat-left"></i>Comment (5)</span>
+								</div>
 							</div>
-							<div class="blog-meta">
-								<span><i class="bi bi-calendar4-week"></i> 15 Nov, 2023</span>
-								<span><i class="bi bi-chat-left"></i> 12 Comment</span>
+							<div class="blog-title style-two">
+								<h4><a href="blog-details.html">Marying Complexity, Provide Long-Term Guarantees</a></h4>
 							</div>
-							<div class="blog-discription">
-								<p>Dolor sed maecenas quis faucibus justo nibh ultricies praesent justo dolorIf you are going to use </p>
-							</div>
-							<div class="blog-bottom-shape">
-								<img src="assets/images/blog/blog-shape.png" alt="">
-							</div>
-							<div class="blog-bottom-title">
-								<h4>Admin</h4>
-							</div>
-							<div class="blog-btn">
-								<a href="#">Learn More <i class="bi bi-chevron-right"></i></a>
+							<div class="blog-bottom">
+								<div class="blog-btn style-two">
+									<a href="#">Read More</a>
+								</div>
+								<div class="blog-icon">
+									<a href="#"><i class="bi bi-arrow-right"></i></a>
+								</div>
 							</div>
 						</div>
 					</div>
@@ -819,26 +839,31 @@
 				</div>
 				<div class="col-lg-4 col-md-6">
 					<!-- start blog single box -->
-					<div class="blog-single-box wow animate__slideInUp">
-						<div class="blog-content">
-							<div class="blog-title">
-								<h4><a href="blog-details.html">How to Onboard New Clients the Right Way</a></h4>
+					<div class="blog-single-box style-two wow animate__slideInUp">
+						<div class="blog-thumb">
+							<img src="assets/images/blog/blog2.png" alt="">
+						</div>
+						<div class="blog-content style-two">
+							<div class="blog-meta style-two">
+								<div class="blog-meta-date">
+									<h5>15</h5>
+									<span>May</span>
+								</div>
+								<div class="blog-meta-info">
+									<span><i class="bi bi-person"></i>By Admin</span>
+									<span><i class="bi bi-chat-left"></i>Comment (5)</span>
+								</div>
 							</div>
-							<div class="blog-meta">
-								<span><i class="bi bi-calendar4-week"></i> 15 Nov, 2023</span>
-								<span><i class="bi bi-chat-left"></i> 12 Comment</span>
+							<div class="blog-title style-two">
+								<h4><a href="blog-details.html">Karying Complexity, Provide Long-Term Guarantees</a></h4>
 							</div>
-							<div class="blog-discription">
-								<p>Dolor sed maecenas quis faucibus justo nibh ultricies praesent justo dolorIf you are going to use </p>
-							</div>
-							<div class="blog-bottom-shape">
-								<img src="assets/images/blog/blog-shape.png" alt="">
-							</div>
-							<div class="blog-bottom-title">
-								<h4>Admin</h4>
-							</div>
-							<div class="blog-btn">
-								<a href="#">Learn More <i class="bi bi-chevron-right"></i></a>
+							<div class="blog-bottom">
+								<div class="blog-btn style-two">
+									<a href="#">Read More</a>
+								</div>
+								<div class="blog-icon">
+									<a href="#"><i class="bi bi-arrow-right"></i></a>
+								</div>
 							</div>
 						</div>
 					</div>
@@ -846,26 +871,31 @@
 				</div>
 				<div class="col-lg-4 col-md-6">
 					<!-- start blog single box -->
-					<div class="blog-single-box wow animate__slideInUp">
-						<div class="blog-content">
-							<div class="blog-title">
-								<h4><a href="blog-details.html">How Marketing Compliance Your Marketing Strategy</a></h4>
+					<div class="blog-single-box style-two wow animate__slideInUp">
+						<div class="blog-thumb">
+							<img src="assets/images/blog/blog3.png" alt="">
+						</div>
+						<div class="blog-content style-two">
+							<div class="blog-meta style-two">
+								<div class="blog-meta-date">
+									<h5>15</h5>
+									<span>May</span>
+								</div>
+								<div class="blog-meta-info">
+									<span><i class="bi bi-person"></i>By Admin</span>
+									<span><i class="bi bi-chat-left"></i>Comment (5)</span>
+								</div>
 							</div>
-							<div class="blog-meta">
-								<span><i class="bi bi-calendar4-week"></i> 15 Nov, 2023</span>
-								<span><i class="bi bi-chat-left"></i> 12 Comment</span>
+							<div class="blog-title style-two">
+								<h4><a href="blog-details.html">Barying Complexity, Provide Long-Term Guarantees</a></h4>
 							</div>
-							<div class="blog-discription">
-								<p>Dolor sed maecenas quis faucibus justo nibh ultricies praesent justo dolorIf you are going to use </p>
-							</div>
-							<div class="blog-bottom-shape">
-								<img src="assets/images/blog/blog-shape.png" alt="">
-							</div>
-							<div class="blog-bottom-title">
-								<h4>Admin</h4>
-							</div>
-							<div class="blog-btn">
-								<a href="#">Learn More <i class="bi bi-chevron-right"></i></a>
+							<div class="blog-bottom">
+								<div class="blog-btn style-two">
+									<a href="#">Read More</a>
+								</div>
+								<div class="blog-icon">
+									<a href="#"><i class="bi bi-arrow-right"></i></a>
+								</div>
 							</div>
 						</div>
 					</div>
@@ -876,54 +906,6 @@
 	</div>
 	<!--==================================================-->
 	<!-- End Euildint Blog Area -->
-	<!--==================================================-->
-
-	<!--==================================================-->
-	<!-- Start Euildint Sidebar Area -->
-	<!--==================================================-->
-	<div class="sidebar-group info-group">
-		<div class="sidebar-widget">
-			<div class="sidebar-widget-container">
-				<div class="widget-heading">
-					<a href="#" class="close-side-widget">
-						<i class="bi bi-x-lg"></i>
-					</a>
-				</div>
-				<div class="sidebar-textwidget">
-					<div class="sidebar-info-contents">
-						<div class="content-inner">
-							<div class="sidebar-logo">
-								<a href="index.html"><img src="assets/images/logo2.png" alt="logo"></a>
-							</div>
-							<div class="about-box">
-								<h2>About Us</h2>
-								<p class="text">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
-							</div>
-							<div class="contact-info">
-								<h2>Contact Info</h2>
-								<ul class="list-style-one">
-									<li><i class="bi bi-geo-alt-fill"></i>6391 Elgin St. Celina, Delaware</li>
-									<li><i class="bi bi-telephone-fill"></i>(+001) 123-456-789</li>
-									<li><i class="bi bi-envelope"></i> info@example.com</li>
-									<li><i class="bi bi-alarm-fill"></i> Week Days: 08.00 to 10.00
-									</li>
-								</ul>
-							</div>
-							<ul class="social-box">
-								<li class="facebook"><a href="#" class="fab fa-facebook-f"></a></li>
-								<li class="twitter"><a href="#" class="fab fa-instagram"></a></li>
-								<li class="linkedin"><a href="#" class="fab fa-twitter"></a></li>
-								<li class="instagram"><a href="#" class="fab fa-pinterest-p"></a></li>
-								<li class="youtube"><a href="#" class="fab fa-linkedin-in"></a></li>
-							</ul>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-	<!--==================================================-->
-	<!-- End Euildint Sidebar Area -->
 	<!--==================================================-->
 
 <?php require 'footer.php'; ?>
