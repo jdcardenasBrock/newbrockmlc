@@ -12,7 +12,7 @@
 						</div>
 						<div class="bratcome-text">
 							<ul>
-								<li><a href="index.html">Home</a></li>
+								<li><a href="/">Home</a></li>
 								<li>Contact</li>
 							</ul>
 						</div>
@@ -38,8 +38,7 @@
 						</div>
 						<div class="contact-content">
 							<h4>Phone Number</h4>
-							<span>012-345-6789</span>
-							<span>539-737-1380</span>
+							<span>(888) 774-6498</span>
 						</div>
 					</div>
 				</div>
@@ -50,8 +49,7 @@
 						</div>
 						<div class="contact-content">
 							<h4>E-mail</h4>
-							<span>inquiry@example.com</span>
-							<span>info@example.com</span>
+							<span>info@brockmlc.com</span>
 						</div>
 					</div>
 				</div>
@@ -62,8 +60,8 @@
 						</div>
 						<div class="contact-content">
 							<h4>Address</h4>
-							<span>27 Division St, New York</span>
-							<span>NY 10002, USA</span>
+							<span>PO Box 598, </span>
+							<span>Barnardsville, NC 28709 USA</span>
 						</div>
 					</div>
 				</div>
@@ -71,7 +69,7 @@
 			<div class="row contact">
 				<div class="contact-box">
 					<div class="contact-title">
-						<h2>Have be any question?</h2>
+						<h2>Have you any question?</h2>
 						<h2>feel free to Contact</h2>
 					</div>
 					<form action="https://formspree.io/f/myyleorq" method="POST" id="it-form">
@@ -134,7 +132,7 @@
 		<div class="container-fluid p-0">
 			<div class="row">
 				<div class="col-lg-12 col-md-12">
-					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7496149.95373021!2d85.84621250756469!3d23.452185887261447!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30adaaed80e18ba7%3A0xf2d28e0c4e1fc6b!2sBangladesh!5e0!3m2!1sen!2sbd!4v1635150422284!5m2!1sen!2sbd" width="1920" height="608" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+				<iframe src="https://www.google.com/maps/d/embed?mid=1VzrD0aebBTEuSNlMzEIoqP29E829zCM&ehbc=2E312F" width="640" height="480"></iframe>
 				</div>
 			</div>
 		</div>
