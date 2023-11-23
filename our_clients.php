@@ -163,7 +163,7 @@
 	<!-- Start Euildint Map Area -->
 	<!--==================================================-->
 	<div class="map-area">
-		<div class="container-fluid p-0">
+		<div class="container-fluid p-0" style="margin-top:210px">
             <div class="row">
 				<div class="col-lg-12">
 					<!-- start section title -->
