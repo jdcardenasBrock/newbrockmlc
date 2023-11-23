@@ -10,7 +10,7 @@ echo '
             <div class="col-lg-3 col-md-6">
                 <div class="footer-wiget wow animate__zoomIn" style="visibility: visible;">
                     <div class="footer-wiget-log">
-                        <a href="index.html"><img src="assets/images/logo_negativo.png" alt="" width="187" height="60"></a>
+                        <a href="index.html"><img src="assets/images/footer/footer-logo.png" alt=""></a>
                     </div>
                     <div class="footer-wiget-text">
                         <p>A farm is a plot of land that is used to grow crops and raise livestock, as in our farm, we raise sheep and sell their wool the word farm is also.</p>
