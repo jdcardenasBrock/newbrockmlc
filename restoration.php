@@ -58,10 +58,10 @@
                                 <span>17 Aug 2023 </span>
                                 <span class="meta">Construction</span>
                             </div> -->
-                            <!-- <div class="blog-standard-content">
-                                <h4><a href="#">Best Practices Construction Law Construction</a></h4>
-                                <p>Why Roofing are factmake 17 Reason EasierForesee the pain & trouble that are bounds too ensue equalidea off denouncing pleasures and praising pain was borncomplete account and expound the actual teachings the great the master-builder of human happiness. In a free hour...</p>
-                            </div> -->
+                            <div class="blog-standard-content">
+                                <h4><a href="#">Sitework Division</a></h4>
+                                <!-- <p>Why Roofing are factmake 17 Reason EasierForesee the pain & trouble that are bounds too ensue equalidea off denouncing pleasures and praising pain was borncomplete account and expound the actual teachings the great the master-builder of human happiness. In a free hour...</p> -->
+                            </div>
                             <!-- <div class="eulding-btn standard">
                                 <a href="#">Read More <i class="bi bi-arrow-up-right-circle-fill"></i></a>
                             </div> -->
@@ -90,18 +90,18 @@
 										</div>
 									</div>
 								</div>
-								<div class="blog-standard-meta">
+								<!-- <div class="blog-standard-meta">
 									<span>By Admin</span>
 									<span>17 Aug 2023 </span>
 									<span class="meta">Construction</span>
-								</div>
+								</div> -->
 								<div class="blog-standard-content">
-									<h4><a href="#">All the Greatest Moments of Thoroughbred</a></h4>
-									<p>Why Roofing are factmake 17 Reason EasierForesee the pain & trouble that are bounds too ensue equalidea off denouncing pleasures and praising pain was borncomplete account and expound the actual teachings the great the master-builder of human happiness. In a free hour...</p>
+									<h4><a href="#">Gallery</a></h4>
+									<!-- <p>Why Roofing are factmake 17 Reason EasierForesee the pain & trouble that are bounds too ensue equalidea off denouncing pleasures and praising pain was borncomplete account and expound the actual teachings the great the master-builder of human happiness. In a free hour...</p> -->
 								</div>
-								<div class="eulding-btn standard">
+								<!-- <div class="eulding-btn standard">
 									<a href="#">Read More <i class="bi bi-arrow-up-right-circle-fill"></i></a>
-								</div>
+								</div> -->
 							</div>
 							<!-- End blog single box -->
 						</div>                  
