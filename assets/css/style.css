@@ -441,7 +441,7 @@ Tags: architect, building company, construction, construction template, construc
 .feature-single-box::before {
     position: absolute;
     content: "";
-    background: #FF6600;
+    background: #266041;
     left: 0;
     top: 0;
     right:0;
@@ -514,7 +514,7 @@ Tags: architect, building company, construction, construction template, construc
 /* single box two */
 
 .feature-single-box.active {
-    background: #FF6600;
+    background: #266041;
     padding: 41px 23px 42px;
 }
 
@@ -899,7 +899,7 @@ Tags: architect, building company, construction, construction template, construc
     position: absolute;
     content: "";
     height: 70px;
-    background:#FF6600;
+    background:#266041;
     width: 0;
     left: 0;
     right: 0;
@@ -936,7 +936,7 @@ Tags: architect, building company, construction, construction template, construc
 }
 
 .pricing-single-box:hover .pricing-rate h3{
-    color: #FF6600;
+    color: #266041;
 }
 
 .pricing-rate h3 span {
@@ -971,7 +971,7 @@ Tags: architect, building company, construction, construction template, construc
 }
 
 .pricing-list span.active i {
-    background: #FF6600;
+    background: #266041;
 }
 
 .pircing-btn a {
@@ -1086,7 +1086,7 @@ Tags: architect, building company, construction, construction template, construc
 ===================================================*/
 
 .brand-area {
-    background: #FF6600;
+    background: #266041;
     padding: 75px 0 75px;
 }
 
@@ -1416,7 +1416,7 @@ Tags: architect, building company, construction, construction template, construc
 }
 
 .blog-single-box:hover .blog-title h4 a{
-    color: #FF6600;
+    color: #266041;
 }
 
 .blog-meta {
@@ -1434,7 +1434,7 @@ Tags: architect, building company, construction, construction template, construc
 .blog-meta span i {
     margin-right: 10px;
     font-size: 17px;
-    color: #FF6600;
+    color: #266041;
 }
 
 .blog-discription p {
@@ -1479,7 +1479,7 @@ Tags: architect, building company, construction, construction template, construc
 }
 
 .blog-single-box:hover .blog-btn a{
-    color: #FF6600;
+    color: #266041;
 }
 
 .blog-btn a i {
@@ -1526,7 +1526,7 @@ Tags: architect, building company, construction, construction template, construc
 }
 
 .footer-wiget-social ul li a i {
-    color: #FF6600;
+    color: #266041;
     font-size: 20px;
     background: #FFF;
     transition: .5s;
@@ -1597,7 +1597,7 @@ Tags: architect, building company, construction, construction template, construc
 }
 
 .footer-wiget-menu ul li a:hover {
-    color: #FF6600;
+    color: #266041;
     margin-left: 10px;
 }
 
