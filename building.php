@@ -12,7 +12,7 @@
                     </div>
                     <div class="bratcome-text">
                         <ul>
-                            <li><a href="index.html">Home</a></li>
+                            <li><a href="index.php">Home</a></li>
                             <li>Building</li>
                         </ul>
                     </div>
@@ -44,32 +44,32 @@
 							<img src="assets/images/about/section-shape.png" alt="">
 						</div>
 						<div class="section-sub-title">
-							<h4>Superior Construction</h4>
+							<h4>What else we do.</h4>
 						</div>
 						<div class="section-main-title about">
-							<h2>We Make Finest Architectural</h2>
-							<h2>Design With Great Passion</h2>
+							<h2>Specialist in commercial building</h2>
 						</div>
 					</div>
 					<div class="about-content wow animate__slideInUp">
 						<div class="about-discribtion">
-							<p>Quisque dignissim enim diam, eget pulvinar ex viverra id. Nulla a lobortis lectus, id volutpat magna. Morbi consequat porttitor fermentum. Nulla vestibulum tincidunt viverra. Vestibulum accumsan</p>
+							<p>Our premier project management solutions are trusted by industrial, commercial, and municipalities across the United States. Brock Mountain strives to deliver optimal performance, rapid response, and predictable results on budget and on time.
+                                <br> No matter the project, we have the experience, equipment, and ability to meet your needs</p>
 						</div>
 						<!-- start process bar -->
 						<div class="process-ber-plugin">
 							<span class="process-bar">Customer Satisficed </span>
 							<div id="bar1" class="barfiller">
 								<div class="tipWrap" style="display: inline;">
-									<span class="tip" style="left: 468.814px; transition: left 7s ease-in-out 0s;">78%</span>
+									<span class="tip" style="left: 468.814px; transition: left 7s ease-in-out 0s;">100%</span>
 								</div>
-								<span class="fill" data-percentage="78" style="background: rgb(22, 181, 151); width: 505.791px; transition: width 7s ease-in-out 0s;"></span>
+								<span class="fill" data-percentage="100" style="background: rgb(22, 181, 151); width: 505.791px; transition: width 7s ease-in-out 0s;"></span>
 							</div>  
 							<span class="process-bar">Residential Roofing</span>
 							<div id="bar2" class="barfiller">
 								<div class="tipWrap" style="display: inline;">
-									<span class="tip" style="left: 403.254px; transition: left 7s ease-in-out 0s;">55%</span>
+									<span class="tip" style="left: 403.254px; transition: left 7s ease-in-out 0s;">90%</span>
 								</div>
-								<span class="fill my-class" data-percentage="55" style="background: rgb(22, 181, 151); width: 438.352px; transition: width 7s ease-in-out 0s;"></span>
+								<span class="fill my-class" data-percentage="90" style="background: rgb(22, 181, 151); width: 438.352px; transition: width 7s ease-in-out 0s;"></span>
 							</div>
 						</div>
 						<!-- End process bar -->
@@ -101,9 +101,6 @@
 								<!--end about single box -->
 							</div>
 						</div>
-						<div class="eulding-btn about">
-							<a href="#">Read More <i class="bi bi-arrow-up-right-circle-fill"></i></a>
-						</div>
 					</div>
 				</div>
 			</div>
@@ -121,14 +118,14 @@
 			<div class="row align-items-center">
 				<div class="col-lg-8 col-md-12">
 					<div class="call-do-title style-two">
-						<h2>Offers Excellentcom Bination</h2>
-						<h2>of Location & Quality</h2>
+						<h2>Brock Mountain meets the rigorous </h2>
+						<h2>demands of commercial building.</h2>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-12">
 					<div class="single-video style-three text-center">
 						<div class="video-icon style-three">
-							<a class="video-vemo-icon venobox vbox-item" data-vbtype="youtube" data-autoplay="true" href="https://youtu.be/BS4TUd7FJSg"><i class="bi bi-play"></i></a>
+							<a class="video-vemo-icon venobox vbox-item" data-vbtype="youtube" data-autoplay="true" href="https://i.vimeocdn.com/video/1473605326-a54dffdfd057f0ab09efdace070b4a59f1a093de34f0f44eed35ec8def8be37e-d"><i class="bi bi-play"></i></a>
 						</div>
 					</div>
 				</div>
@@ -143,7 +140,7 @@
 	<!--==================================================-->
 	<!-- Start Euildint About Area -->
 	<!--==================================================-->
-	<div class="about-area style-two wow animate__slideInUp">
+	<div class="about-area style-two wow animate__slideInUp" style="margin: 210px;">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-6 col-md-12">
