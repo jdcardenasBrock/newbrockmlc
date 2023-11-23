@@ -10,7 +10,7 @@ echo '
 	<meta name="description" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!-- Favicon -->
-	<link rel="icon" type="image/png" sizes="56x56" href="assets/images/fav-icon/icon.png">
+	<link rel="icon" type="image/png" sizes="56x56" href="assets/images/fav-icon/icon.ico">
 	<!-- bootstrap CSS -->
 	<link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css" media="all">
 	<!-- carousel CSS -->
@@ -75,10 +75,10 @@ echo '
 				</div>
 				<div class="col-lg-6 col-md-6">
 					<div class="topbar-menu">
-						<ul>
-							<li class="line"><a href="#">Help</a></li>
-							<li><a href="#">Support</a></li>
-							<li><a href="#">Contact</a></li>
+						<ul><li class="line">
+							<li><a href="index.php">Home</a></li>
+							<li class="line">
+							<li><a href="contact.php">Our Contact</a></li>
 						</ul>
 					</div>
 				</div>
@@ -131,53 +131,11 @@ echo '
 		<div class="mobile-menu">
 			<nav class="Edulin_menu">
 				<ul class="nav_scroll">
-					<li><a href="#">Home</a>
-						<div class="sub-menu">
-							<ul>
-								<li><a href="index.html">Home One</a></li>
-								<li><a href="index-two.html">Home Two</a></li>
-								<li><a href="index-three.html">Home Three</a></li>
-							</ul>
-						</div>
-						</li>
-						<li><a href="about-us.html">About</a></li>
-						<li><a href="#">Pages <i class="fas fa-chevron-down"></i></a>
-							<div class="sub-menu">
-								<ul>
-									<li><a href="project-pages.html">Project</a></li>
-									<li><a href="project-details.html">Project Details</a></li>
-									<li><a href="team.html">Team</a></li>
-									<li><a href="team-details.html">Team Details</a></li>
-									<li><a href="pricing.html">Pricing</a></li>
-								</ul>
-								</div>
-						</li>
-						<li><a href="#">Services</a>
-							<div class="sub-menu">
-								<ul>
-									<li><a href="service.html">Services</a></li>
-									<li><a href="service-details.html">Service Details</a></li>
-								</ul>
-							</div>
-						</li>
-						<li><a href="#">Blog <i class="fas fa-chevron-down"></i></a>
-							<div class="sub-menu">
-								<ul>
-									<li><a href="blog-grid.html">Blog Grid</a></li>
-									<li><a href="blog-standard.html">Blog Standard</a></li>
-									<li><a href="blog-details.html">Blog Details</a></li>
-								</ul>
-								</div>
-						</li>
-						<li><a href="#">Projects</a>
-							<div class="sub-menu">
-								<ul>
-									<li><a href="project-pages.html">Project</a></li>
-									<li><a href="project-details.html">Project Details</a></li>
-								</ul>
-							</div>
-						</li>
-					<li><a href="contact.html">Contact</a></li>
+					<li><a href="index.php">Home</a></li>
+					<li><a href="restoration.php">Restoration</a></li>
+					<li><a href="building.php">Bulding</a></li>
+					<li><a href="our_clients.php">Our Clients</a></li>
+					<li><a href="contact.php">Our Contact</a></li>
 				</ul>
 			</nav>
 		</div>

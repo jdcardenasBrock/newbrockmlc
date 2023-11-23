@@ -1,6 +1,6 @@
 a.meanmenu-reveal{display:none}
 .mean-container .mean-bar {
-  background: #235f55;
+  background: #272a2c;
   float: left;
   min-height: 60px;
   padding: 4px 0 0;
@@ -121,7 +121,7 @@ a.meanmenu-reveal{display:none}
 }
 .mean-container .mean-bar::before {
     color: #fff;
-    content: "Euildint";
+    background-image: src('/assets/images/logo2.png');
     font-size: 28px;
     font-weight: 600;
     left: 10px;
