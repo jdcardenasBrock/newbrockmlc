@@ -471,41 +471,32 @@
 	<!--==================================================-->
 
 
+
 	<!--==================================================-->
-	<!-- Start Euildint Brand Area -->
+	<!-- Start Euildint Contact Area -->
 	<!--==================================================-->
-	<div class="brand-area wow animate__slideInUp">
-		<div class="container-fluid">
-			<div class="row">
-				<div class="brand_list owl-carousel">
-					<div class="col-lg-12">
-						<div class="brand-thumb">
-							<a href="#"><img src="assets/images/brand/brand1.png" alt=""></a>
+	<div class="contact-area wow animate__slideInUp">
+		<div class="container">
+			<div class="row align-items-center">
+				<div class="col-lg-7 col-md-12">
+					<div class="section-title">
+						<div class="section-main-title contact">
+							<h2>Contact us Today And Let us</h2>
+							<h2>Know What you Need</h2>
 						</div>
 					</div>
-					<div class="col-lg-12">
-						<div class="brand-thumb">
-							<a href="#"><img src="assets/images/brand/brand2.png" alt=""></a>
-						</div>
+					<div class="contact-discription">
+						<p>When does a mere internet 'SEO' company grow into a trusted partner that stays in front of the latest industry trends? When it's time to partner with Mocer, that's when. saidul islam</p>
 					</div>
-					<div class="col-lg-12">
-						<div class="brand-thumb">
-							<a href="#"><img src="assets/images/brand/brand3.png" alt=""></a>
-						</div>
+					<div class="eulding-btn">
+						<a href="#">Contact Us <i class="bi bi-arrow-up-right-circle-fill"></i></a>
 					</div>
-					<div class="col-lg-12">
-						<div class="brand-thumb">
-							<a href="#"><img src="assets/images/brand/brand4.png" alt=""></a>
-						</div>
-					</div>
-					<div class="col-lg-12">
-						<div class="brand-thumb">
-							<a href="#"><img src="assets/images/brand/brand5.png" alt=""></a>
-						</div>
-					</div>
-					<div class="col-lg-12">
-						<div class="brand-thumb">
-							<a href="#"><img src="assets/images/brand/brand6.png" alt=""></a>
+				</div>
+				<div class="col-lg-5 col-md-6">
+					<div class="contact-thumb wow animate__slideInRight">
+						<img src="assets/images/resource/contact-thumb.png" alt="">
+						<div class="contact-shape">
+							<img src="assets/images/resource/contact-shape.png" alt="">
 						</div>
 					</div>
 				</div>
@@ -513,10 +504,12 @@
 		</div>
 	</div>
 	<!--==================================================-->
-	<!-- End Euildint Brand Area -->
+	<!-- End Euildint Contact Area -->
 	<!--==================================================-->
 
-	
+
+
+
 	<!--==================================================-->
 	<!-- Start Euildint Testimonial Area -->
 	<!--==================================================-->
@@ -656,4 +649,123 @@
 	<!-- End Euildint Testimonial Area -->
 	<!--==================================================-->
 
+
+	<!--==================================================-->
+	<!-- Start Euildint Faq Area -->
+	<!--==================================================-->
+	<div class="faq-area style-two wow animate__slideInUp">
+		<div class="container">
+			<div class="row align-items-center">
+				<div class="col-lg-6 col-md-12">
+					<div class="faq-content">
+						<div class="section-title">
+							<div class="section-sub-title faq">
+								<h4>Frequently Asked Questions</h4>
+							</div>
+							<div class="section-main-title faq">
+								<h2>Questions & Answers</h2>
+							</div>
+							<div class="faq-discripition">
+								<p>Providing legal advice, contract drafting, compliance assistance, intellectual property protection, and other legal support for businesses. Creating visual content, such as logos, brochures, infographics. The timeline for seeing results depends on the specific services you choose and the current state of your business. </p>
+							</div>
+						</div>
+						<!-- start accordion -->
+						<div class="tab_container wow animate__slideInUp">
+							<div id="tab1" class="tab_content">
+								<ul class="accordion">
+									<li class="faq">
+										<a class="active"><span> What services does your business provide? </span></a>
+										<p class="faq" style="display: block;"> <span style="display: block;">How much do your services cost?</span>Our pricing varies depending on the specific services you require and the scope of your project. We offer customized solutions to fit each client's unique needs and budget. Please contact us for a quote.</p>
+									</li>
+									<li class="faq">
+										<a class=""><span>Do you offer any guarantees or refunds? </span></a>
+										<p class="faq" style="display: none;"> <span style="display: block;">How much do your services cost?</span>Our pricing varies depending on the specific services you require and the scope of your project. We offer customized solutions to fit each client's unique needs and budget. Please contact us for a quote.</p>
+									</li>
+									<li class="faq">
+										<a><span>How do I get started with your services? </span></a>
+										<p class="faq"> <span style="display: block;">How much do your services cost?</span>Our pricing varies depending on the specific services you require and the scope of your project. We offer customized solutions to fit each client's unique needs and budget. Please contact us for a quote.</p>
+									</li>
+									<li class="faq">
+										<a><span> How do I get started with your services?</span></a>
+										<p class="faq"> <span style="display: block;">How much do your services cost?</span>Our pricing varies depending on the specific services you require and the scope of your project. We offer customized solutions to fit each client's unique needs and budget. Please contact us for a quote.</p>
+									</li>
+								</ul>
+							</div>
+						</div>
+						<!-- End accordion -->
+					</div>
+				</div>
+				<div class="col-lg-6 col-md-12">
+					<div class="single-video style-two text-center">
+						<div class="video-icon style-two">
+							<a class="video-vemo-icon venobox vbox-item" data-vbtype="youtube" data-autoplay="true" href="https://youtu.be/BS4TUd7FJSg"><i class="bi bi-play"></i></a>
+						</div>
+						<div class="faq-single-box wow animate__slideInUp">
+							<div class="faq-item-content">
+								<div class="faq-icon-thumb">
+									<img src="assets/images/resource/faq-icon.png" alt="">
+								</div>
+								<div class="faq-title">
+									<h4>We Have Many Happy Clients Allover World Wide</h4>
+									<span><i class="bi bi-chevron-double-right"></i> Award Wining Agency</span>
+									<span><i class="bi bi-chevron-double-right"></i> Higest Success Rates</span>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--==================================================-->
+	<!-- End Euildint Faq Area -->
+	<!--==================================================-->
+
+
+		<!--==================================================-->
+	<!-- Start Euildint Brand Area -->
+	<!--==================================================-->
+	<div class="brand-area wow animate__slideInUp">
+		<div class="container-fluid">
+			<div class="row">
+				<div class="brand_list owl-carousel">
+					<div class="col-lg-12">
+						<div class="brand-thumb">
+							<a href="#"><img src="assets/images/brand/brand1.png" alt=""></a>
+						</div>
+					</div>
+					<div class="col-lg-12">
+						<div class="brand-thumb">
+							<a href="#"><img src="assets/images/brand/brand2.png" alt=""></a>
+						</div>
+					</div>
+					<div class="col-lg-12">
+						<div class="brand-thumb">
+							<a href="#"><img src="assets/images/brand/brand3.png" alt=""></a>
+						</div>
+					</div>
+					<div class="col-lg-12">
+						<div class="brand-thumb">
+							<a href="#"><img src="assets/images/brand/brand4.png" alt=""></a>
+						</div>
+					</div>
+					<div class="col-lg-12">
+						<div class="brand-thumb">
+							<a href="#"><img src="assets/images/brand/brand5.png" alt=""></a>
+						</div>
+					</div>
+					<div class="col-lg-12">
+						<div class="brand-thumb">
+							<a href="#"><img src="assets/images/brand/brand6.png" alt=""></a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--==================================================-->
+	<!-- End Euildint Brand Area -->
+	<!--==================================================-->
+
+	
 <?php require 'footer.php'; ?>
