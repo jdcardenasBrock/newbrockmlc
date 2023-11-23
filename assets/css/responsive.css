@@ -96,9 +96,10 @@
     margin-left: 22px;
 }
 
+/* 
 .header-call-section {
     display: none;
-}
+} */
 
 /* slider style two css */
 
@@ -503,7 +504,7 @@
 /* header style two css */
 
 .header-area.style-two .container-fluid.p-90 {
-    padding: 0 25px;
+    padding: 0 16px;
 }
 
 .header-munu.style-two ul li {
@@ -514,9 +515,9 @@
     font-size: 14px;
 }
 
-.header-call-section {
+/* .header-call-section {
     display: none;
-}
+} */
 
 /* slider style two css */
 
