@@ -24,7 +24,7 @@
     <!--==================================================-->
 	<!-- Start Euildint Testimonial Area -->
 	<!--==================================================-->
-	<div class="testimonial-area wow animate__slideInUp">
+	<div class="testimonial-area wow animate__slideInUp mb-40" style="margin-top:210px">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-5 col-md-12">

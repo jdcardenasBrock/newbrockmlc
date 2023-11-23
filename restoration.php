@@ -76,8 +76,8 @@
         <div class="row align-items-center">
             <div class="col-lg-8 col-md-12">
                 <div class="call-do-title style-two">
-                    <h2>Offers Excellentcom Bination</h2>
-                    <h2>of Location & Quality</h2>
+                    <h2>Sitework</h2>
+                    <h2>Division</h2>
                 </div>
             </div>
             <div class="col-lg-4 col-md-12">
