@@ -168,12 +168,12 @@
 				<div class="col-lg-12">
 					<!-- start section title -->
 					<div class="section-title text-center">
-						<!-- <div class="section-shape">
+						<div class="section-shape">
 							<img src="assets/images/about/section-shape.png" alt="">
 						</div>
 						<div class="section-sub-title">
 							<h4>WHAT WE DO</h4>
-						</div> -->
+						</div>
 						<div class="section-main-title">
 							<h2>BMLC made projects</h2>
 							<h2>through the United Sates</h2>
