@@ -119,7 +119,7 @@ a.meanmenu-reveal{display:none}
 .mean-container a.meanmenu-reveal:hover span {
   background: #fff;
 }
-.mean-container .mean-bar::before {
+.mean-container .mean-bar img {
     color: #fff;
     width: 240px;
     font-size: 28px;
