@@ -129,6 +129,7 @@ echo '
 	<!--Mobile Menu Area -->
 	<div class="mobile-menu-area sticky d-sm-block d-md-block d-lg-none ">
 		<div class="mobile-menu">
+			<img src="/assets/images/logo2.png" width="180px" />
 			<nav class="Edulin_menu">
 				<ul class="nav_scroll">
 					<li><a href="index.php">Home</a></li>
