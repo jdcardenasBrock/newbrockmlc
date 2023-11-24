@@ -594,7 +594,7 @@
 							</div>
 							<!-- End testi single box -->
 						</div>
-						<div class="col-lg-6 col-md-6">
+						<div class="col-lg-6 col-md-6" style="margin-top: -60px">
 							<!-- start testi single box -->
 							<div class="testi-single-box wow animate__slideInUp">
 								<div class="testi-items-box">
@@ -640,7 +640,7 @@
 							</div>
 							<!-- End testi single box -->
 						</div>						
-						<div class="col-lg-6 col-md-6">
+						<div class="col-lg-6 col-md-6" style="margin-top: -80px">
 							<!-- start testi single box -->
 							<div class="testi-single-box four wow animate__slideInUp">
 								<div class="testi-items-box">
@@ -663,7 +663,8 @@
 							</div>
 							<!-- End testi single box -->
 						</div>
-						<div class="col-lg-6 col-md-6">							<!-- start testi single box -->
+						<div class="col-lg-6 col-md-6">
+							<!-- start testi single box -->
 							<div class="testi-single-box four wow animate__slideInUp">
 								<div class="testi-items-box">
 									<div class="testi-content">
@@ -685,7 +686,7 @@
 							</div>
 							<!-- End testi single box -->
 						</div>
-						<div class="col-lg-6 col-md-6">
+						<div class="col-lg-6 col-md-6" style="margin-top: -165px">
 							<!-- start testi single box -->
 							<div class="testi-single-box four wow animate__slideInUp">
 								<div class="testi-items-box">
