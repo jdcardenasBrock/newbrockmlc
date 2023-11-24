@@ -5,7 +5,7 @@
 		-webkit-line-clamp: 3;
 		-webkit-box-orient: vertical;
 		overflow: hidden; 
-		min-height: 100px;   
+		min-height: 80px;   
 	}	
 	.testi-title span{
 		display: -webkit-box;
