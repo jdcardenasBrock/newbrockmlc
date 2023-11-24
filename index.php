@@ -346,7 +346,7 @@
 			<div class="row">
 				<div class="col-lg-6 col-md-12">
 					<div class="about-thumb style-two wow animate__slideInUp">
-						<img src="assets/images/about/about2.jpg" alt="">
+						<img src="assets/images/home/Home_9-Sup_Construction.jpg" alt="">
 						<!-- statr about counter -->
 						<div class="about-counter">
 							<div class="about-numbar">
@@ -364,7 +364,7 @@
 				<div class="col-lg-6 col-md-12">
 					<div class="section-title">
 						<div class="section-shape">
-							<img src="assets/images/home/Home_9-Sup_Construction.jpg" alt="">
+							<img src="assets/images/about/section-shape.png" alt="">
 						</div>
 						<div class="section-sub-title">
 							<h4>Superior Construction</h4>
@@ -451,7 +451,7 @@
 					<!-- start section title -->
 					<div class="section-title">
 						<div class="section-shape">
-							<img src="assets/images/home/section-shape.png" alt="">
+							<img src="assets/images/about/section-shape.png" alt="">
 						</div>
 						<div class="section-sub-title">
 							<h4>our history</h4>
