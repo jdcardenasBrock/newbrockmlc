@@ -51,7 +51,7 @@
 				</div>
 			</div>
 			<div class="slide-item two">
-				<div class="image-layer" style="background-image: url('assets/images/slider/Home_3.jpg');"></div>
+				<div class="image-layer" style="background-image: url('assets/images/slider/Home_2.jpg');"></div>
 				<div class="container">
 					<div class="slider-content style-two wow animate__slideInLeft">
 						<div class="slider-sub-title">
