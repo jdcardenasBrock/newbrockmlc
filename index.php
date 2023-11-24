@@ -624,9 +624,9 @@
 							<p>Long established fact that reader will be distracted by the</p>
 						</div>
 						<div class="service-items-thumb">
-							<img src="assets/images/service/service2.png" alt="">
+							<img src="assets/images/home/Home_13-what_we_do-350.jpg" alt="">
 							<div class="service-items-icon">
-								<img src="assets/images/home/Home_13-what_we_do-350.jpg" alt="">
+								<img src="assets/images/service/sercve-icon2.png" alt="">
 							</div>
 						</div>
 					</div>
