@@ -6,7 +6,7 @@
 	<section class="banner-section">
 		<div class="banner-carousel owl-carousel">
 			<div class="slide-item one">
-				<div class="image-layer" style="background-image: url('assets/images/slider/slider-2.jpg');"></div>
+				<div class="image-layer" style="background-image: url('assets/images/slider/Home_1.jpg');"></div>
 				<div class="container">
 					<div class="slider-content style-two wow animate__slideInLeft">
 						<div class="slider-sub-title">
@@ -630,7 +630,53 @@
 											<span>Daytona Beach Shores</span>
 										</div>
 										<div class="testi-discription">
-											<p>What an amazing, blessed and anointed organization you have created. Thank you for doing so much good in this world. We will forever be grateful for Brock Mountain for saving our home and hopefully our generations long past when we are gone can have a safe place to enjoy because of Brock Mountain and their amazing staff! I have never seen an angel before but I think they may resemble the type of characteristics I saw in your staff. Kindest and Warmest Regards</p>
+											<p>What an amazing, blessed and anointed organization you have created.. We will forever be grateful for Brock Mountain for saving our home and hopefully our generations long past when we are gone can have a safe place to enjoy because of Brock Mountain and their amazing staff</p>
+										</div>
+										<div class="testi-icon-thumb">
+											<img src="assets/images/testimonial/testi-icon.png" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- End testi single box -->
+						</div>
+						<div class="col-lg-6 col-md-6 mt-180">
+							<!-- start testi single box -->
+							<div class="testi-single-box four wow animate__slideInUp">
+								<div class="testi-items-box">
+									<div class="testi-content">
+										<div class="testi-thumb">
+											<img src="assets/images/testimonial/testi4.png" alt="">
+										</div>
+										<div class="testi-title">
+											<!-- <h4>Latrice Bryant-Robinson </h4> -->
+											<span>Engineer representing the HOA</span>
+										</div>
+										<div class="testi-discription">
+											<p>"I simply can't understand how contractors that have been doing this for 30 years don't look as good as your first one. You have proven your abilities and I will be sending you lots of work!".</p>
+										</div>
+										<div class="testi-icon-thumb">
+											<img src="assets/images/testimonial/testi-icon.png" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- End testi single box -->
+						</div>
+						<div class="col-lg-6 col-md-6 mt-180">
+							<!-- start testi single box -->
+							<div class="testi-single-box four wow animate__slideInUp">
+								<div class="testi-items-box">
+									<div class="testi-content">
+										<div class="testi-thumb">
+											<img src="assets/images/testimonial/testi4.png" alt="">
+										</div>
+										<div class="testi-title">
+											<h4>Michelle Pace Wood</h4>
+											<!-- <span>Engineer representing the HOA</span> -->
+										</div>
+										<div class="testi-discription">
+											<p>“Shout out to Brock Mountain Land Company, LLC & Eric Burns for the great expansion & renovation job they did for Dwight & JR at Small Business Alternatives - Candler’s local accounting firm. If you need any work done. Let’s keep local money local. Thanks again Eric”</p>
 										</div>
 										<div class="testi-icon-thumb">
 											<img src="assets/images/testimonial/testi-icon.png" alt="">
