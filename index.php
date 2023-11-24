@@ -556,7 +556,7 @@
 										<div class="testi-thumb">
 											<img src="assets/images/testimonial/testi1.png" alt="">
 										</div>
-										<div class="testi-title" style="width: 70%">
+										<div class="testi-title">
 											<!-- <h4>March 29th</h4> -->
 											<span>A client well pleased with Team BMLC!</span>
 										</div>
