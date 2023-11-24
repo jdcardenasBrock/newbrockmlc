@@ -571,7 +571,75 @@
 							</div>
 							<!-- End testi single box -->
 						</div>
-						
+						<div class="col-lg-6 col-md-6 mt-180">
+							<!-- start testi single box -->
+							<div class="testi-single-box two wow animate__slideInUp">
+								<div class="testi-items-box">
+									<div class="testi-content">
+										<div class="testi-thumb">
+											<img src="assets/images/testimonial/testi2.png" alt="">
+										</div>
+										<div class="testi-title">
+											<!-- <h4>Guy Hawkins</h4> -->
+											<span>Building Engineer</span>
+										</div>
+										<div class="testi-discription">
+											<p>It has been a pleasure to watch a crew that is organized, moving along nicely with difficult sheet piling work I am an engineer and have been around construction most of my life and your crew is the best I have seen!!!"</p>
+										</div>
+										<div class="testi-icon-thumb">
+											<img src="assets/images/testimonial/testi-icon.png" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- End testi single box -->
+						</div>
+						<div class="col-lg-6 col-md-6">
+							<!-- start testi single box -->
+							<div class="testi-single-box wow animate__slideInUp">
+								<div class="testi-items-box">
+									<div class="testi-content">
+										<div class="testi-thumb">
+											<img src="assets/images/testimonial/testi3.png" alt="">
+										</div>
+										<div class="testi-title">
+											<!-- <h4>Alex Mitchell</h4> -->
+											<span>General Manager of Universal Engineering</span>
+										</div>
+										<div class="testi-discription">
+											<p>“Nicely done Quincey!  You guys are first class!”</p>
+										</div>
+										<div class="testi-icon-thumb">
+											<img src="assets/images/testimonial/testi-icon.png" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- End testi single box -->
+						</div>
+						<div class="col-lg-6 col-md-6 mt-180">
+							<!-- start testi single box -->
+							<div class="testi-single-box four wow animate__slideInUp">
+								<div class="testi-items-box">
+									<div class="testi-content">
+										<div class="testi-thumb">
+											<img src="assets/images/testimonial/testi4.png" alt="">
+										</div>
+										<div class="testi-title">
+											<h4>Latrice Bryant-Robinson </h4>
+											<span>Daytona Beach Shores</span>
+										</div>
+										<div class="testi-discription">
+											<p>What an amazing, blessed and anointed organization you have created. Thank you for doing so much good in this world. We will forever be grateful for Brock Mountain for saving our home and hopefully our generations long past when we are gone can have a safe place to enjoy because of Brock Mountain and their amazing staff! I have never seen an angel before but I think they may resemble the type of characteristics I saw in your staff. Kindest and Warmest Regards</p>
+										</div>
+										<div class="testi-icon-thumb">
+											<img src="assets/images/testimonial/testi-icon.png" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- End testi single box -->
+						</div>
 					</div>
 				</div>
 			</div>
