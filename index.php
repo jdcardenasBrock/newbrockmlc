@@ -5,11 +5,7 @@
 		-webkit-line-clamp: 3;
 		-webkit-box-orient: vertical;
 		overflow: hidden;    
-	}
-	.p-testimonials-home:hover{
-		display: block;
-		overflow: auto;
-	}
+	}	
 </style>
 <?php require 'header.php'; ?>
 
