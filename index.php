@@ -557,11 +557,11 @@
 											<img src="assets/images/testimonial/testi1.png" alt="">
 										</div>
 										<div class="testi-title">
-											<!-- <h4>Kevin Martin</h4> -->
+											<h4></h4>
 											<span>Building Engineer</span>
 										</div>
 										<div class="testi-discription">
-											<p>It has been a pleasure to watch a crew that is organized, moving along nicely with difficult sheet piling work I am an engineer and have been around construction most of my life and your crew is the best I have seen!!!"</p>
+											<p class="p-testimonials-home">It has been a pleasure to watch a crew that is organized, moving along nicely with difficult sheet piling work I am an engineer and have been around construction most of my life and your crew is the best I have seen!!!"</p>
 										</div>
 										<div class="testi-icon-thumb">
 											<img src="assets/images/testimonial/testi-icon.png" alt="">

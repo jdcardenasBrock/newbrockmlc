@@ -37,7 +37,20 @@ Tags: architect, building company, construction, construction template, construc
 =======================*/
 
 
+/* custom styles */
 
+.p-testimonials-home{
+    display: -webkit-box;
+    max-width: 200px;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.p-testimonials-home:hover{
+    display: block;
+    overflow: auto;
+}
 
 /*==================================================
  <-- Euildint Header Top Menu Area Css-->
