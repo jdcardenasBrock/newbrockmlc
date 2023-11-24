@@ -596,18 +596,18 @@
 						</div>
 						<div class="col-lg-6 col-md-6">
 							<!-- start testi single box -->
-							<div class="testi-single-box wow animate__slideInUp">
+							<div class="testi-single-box four wow animate__slideInUp">
 								<div class="testi-items-box">
 									<div class="testi-content">
 										<div class="testi-thumb">
-											<img src="assets/images/testimonial/testi1.png" alt="">
+											<img src="assets/images/testimonial/testi4.png" alt="">
 										</div>
 										<div class="testi-title">
-											<!-- <h4>March 29th</h4> -->
-											<span>A client well pleased with Team BMLC!</span>
+											<h4>Michelle Pace Wood</h4>
+											<!-- <span>Engineer representing the HOA</span> -->
 										</div>
 										<div class="testi-discription">
-											<p>“Said You were in a league of our own and amazing!  Good work team!”</p>
+											<p>“Shout out to Brock Mountain Land Company, LLC & Eric Burns for the great expansion & renovation job they did for Dwight & JR at Small Business Alternatives - Candler’s local accounting firm. If you need any work done. Let’s keep local money local. Thanks again Eric”</p>
 										</div>
 										<div class="testi-icon-thumb">
 											<img src="assets/images/testimonial/testi-icon.png" alt="">
@@ -616,7 +616,8 @@
 								</div>
 							</div>
 							<!-- End testi single box -->
-						</div>												
+						</div>
+																	
 						<div class="col-lg-6 col-md-6">
 							<!-- start testi single box -->
 							<div class="testi-single-box wow animate__slideInUp">
@@ -665,18 +666,18 @@
 						</div>
 						<div class="col-lg-6 col-md-6">
 							<!-- start testi single box -->
-							<div class="testi-single-box four wow animate__slideInUp">
+							<div class="testi-single-box wow animate__slideInUp">
 								<div class="testi-items-box">
 									<div class="testi-content">
 										<div class="testi-thumb">
-											<img src="assets/images/testimonial/testi4.png" alt="">
+											<img src="assets/images/testimonial/testi1.png" alt="">
 										</div>
 										<div class="testi-title">
-											<h4>Michelle Pace Wood</h4>
-											<!-- <span>Engineer representing the HOA</span> -->
+											<!-- <h4>March 29th</h4> -->
+											<span>A client well pleased with Team BMLC!</span>
 										</div>
 										<div class="testi-discription">
-											<p>“Shout out to Brock Mountain Land Company, LLC & Eric Burns for the great expansion & renovation job they did for Dwight & JR at Small Business Alternatives - Candler’s local accounting firm. If you need any work done. Let’s keep local money local. Thanks again Eric”</p>
+											<p>“Said You were in a league of our own and amazing!  Good work team!”</p>
 										</div>
 										<div class="testi-icon-thumb">
 											<img src="assets/images/testimonial/testi-icon.png" alt="">
@@ -685,7 +686,7 @@
 								</div>
 							</div>
 							<!-- End testi single box -->
-						</div>
+						</div>	
 						<div class="col-lg-6 col-md-6">
 							<!-- start testi single box -->
 							<div class="testi-single-box four wow animate__slideInUp">
