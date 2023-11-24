@@ -364,7 +364,7 @@
 				<div class="col-lg-6 col-md-12">
 					<div class="section-title">
 						<div class="section-shape">
-							<img src="assets/images/about/section-shape.png" alt="">
+							<img src="assets/images/home/Home_9-Sup_Construction.jpg" alt="">
 						</div>
 						<div class="section-sub-title">
 							<h4>Superior Construction</h4>
@@ -451,7 +451,7 @@
 					<!-- start section title -->
 					<div class="section-title">
 						<div class="section-shape">
-							<img src="assets/images/about/section-shape.png" alt="">
+							<img src="assets/images/home/section-shape.png" alt="">
 						</div>
 						<div class="section-sub-title">
 							<h4>our history</h4>
@@ -476,7 +476,7 @@
 				<div class="col-lg-4 col-md-6">
 					<div class="history-items-box">
 						<div class="history-items-thumb">
-							<img src="assets/images/resource/history1.png" alt="">
+							<img src="assets/images/home/Home_10-Our History1.jpg" alt="">
 							<div class="history-items-content">
 								<div class="history-text">
 									<h4><a href="#">Our Goal is To Make The Future Work Easier</a></h4>		
@@ -604,11 +604,11 @@
 					<!-- start service items box -->
 					<div class="service-items-box">
 						<div class="service-items-content">
-							<h4><a href="service-details.html">Mechanical Works</a></h4>
+							<h4><a href="#">Restoration</a></h4>
 							<p>Long established fact that reader will be distracted by the</p>
 						</div>
 						<div class="service-items-thumb">
-							<img src="assets/images/service/service1.png" alt="">
+							<img src="assets/images/home/Home_12-what_we_do-350.jpg" alt="">
 							<div class="service-items-icon">
 								<img src="assets/images/service/sercve-icon1.png" alt="">
 							</div>
@@ -620,34 +620,18 @@
 					<!-- start service items box -->
 					<div class="service-items-box">
 						<div class="service-items-content">
-							<h4><a href="service-details.html">Petroleum Refinery</a></h4>
+							<h4><a href="#">Building</a></h4>
 							<p>Long established fact that reader will be distracted by the</p>
 						</div>
 						<div class="service-items-thumb">
 							<img src="assets/images/service/service2.png" alt="">
 							<div class="service-items-icon">
-								<img src="assets/images/service/sercve-icon2.png" alt="">
+								<img src="assets/images/home/Home_13-what_we_do-350.jpg" alt="">
 							</div>
 						</div>
 					</div>
 					<!-- End service items box -->
-				</div>
-				<div class="col-lg-4 col-md-6">
-					<!-- start service items box -->
-					<div class="service-items-box">
-						<div class="service-items-content">
-							<h4><a href="service-details.html">Industrial Works</a></h4>
-							<p>Long established fact that reader will be distracted by the</p>
-						</div>
-						<div class="service-items-thumb">
-							<img src="assets/images/service/service3.png" alt="">
-							<div class="service-items-icon">
-								<img src="assets/images/service/sercve-icon3.png" alt="">
-							</div>
-						</div>
-					</div>
-					<!-- End service items box -->
-				</div>
+				</div>				
 			</div>
 		</div>
 	</div>
@@ -679,7 +663,7 @@
 				</div>
 				<div class="col-lg-5 col-md-6">
 					<div class="contact-thumb wow animate__slideInRight">
-						<img src="assets/images/resource/contact-thumb.png" alt="">
+						<img src="assets/images/home/Home_15-contact copia.png" alt="">
 						<div class="contact-shape">
 							<img src="assets/images/resource/contact-shape.png" alt="">
 						</div>
