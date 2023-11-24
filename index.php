@@ -548,7 +548,7 @@
 				</div>
 				<div class="col-lg-7 col-md-12">
 					<div class="row">
-						<div class="col-lg-6 col-md-6" style="max-height:250px">
+						<div class="col-lg-6 col-md-6">
 							<!-- start testi single box -->
 							<div class="testi-single-box two wow animate__slideInUp">
 								<div class="testi-items-box">
@@ -571,144 +571,7 @@
 							</div>
 							<!-- End testi single box -->
 						</div>
-						<div class="col-lg-6 col-md-6 mt-180" style="max-height:250px">
-							<!-- start testi single box -->
-							<div class="testi-single-box four wow animate__slideInUp">
-								<div class="testi-items-box">
-									<div class="testi-content">
-										<div class="testi-thumb">
-											<img src="assets/images/testimonial/testi4.png" alt="">
-										</div>
-										<div class="testi-title">
-											<h4>Latrice Bryant-Robinson </h4>
-											<span>Daytona Beach Shores</span>
-										</div>
-										<div class="testi-discription">
-											<p>What an amazing, blessed and anointed organization you have created.. We will forever be grateful for Brock Mountain for saving our home and hopefully our generations long past when we are gone can have a safe place to enjoy because of Brock Mountain and their amazing staff</p>
-										</div>
-										<div class="testi-icon-thumb">
-											<img src="assets/images/testimonial/testi-icon.png" alt="">
-										</div>
-									</div>
-								</div>
-							</div>
-							<!-- End testi single box -->
-						</div>
-						<div class="col-lg-6 col-md-6" style="max-height:250px">
-							<!-- start testi single box -->
-							<div class="testi-single-box wow animate__slideInUp">
-								<div class="testi-items-box">
-									<div class="testi-content">
-										<div class="testi-thumb">
-											<img src="assets/images/testimonial/testi1.png" alt="">
-										</div>
-										<div class="testi-title">
-											<!-- <h4>March 29th</h4> -->
-											<span>A client well pleased with Team BMLC!</span>
-										</div>
-										<div class="testi-discription">
-											<p>“Said You were in a league of our own and amazing!  Good work team!”</p>
-										</div>
-										<div class="testi-icon-thumb">
-											<img src="assets/images/testimonial/testi-icon.png" alt="">
-										</div>
-									</div>
-								</div>
-							</div>
-							<!-- End testi single box -->
-						</div>												
-						<div class="col-lg-6 col-md-6 mt-180" style="max-height:250px">
-							<!-- start testi single box -->
-							<div class="testi-single-box wow animate__slideInUp">
-								<div class="testi-items-box">
-									<div class="testi-content">
-										<div class="testi-thumb">
-											<img src="assets/images/testimonial/testi3.png" alt="">
-										</div>
-										<div class="testi-title">
-											<!-- <h4>Alex Mitchell</h4> -->
-											<span>General Manager of Universal Engineering</span>
-										</div>
-										<div class="testi-discription">
-											<p>“Nicely done Quincey!  You guys are first class!”</p>
-										</div>
-										<div class="testi-icon-thumb">
-											<img src="assets/images/testimonial/testi-icon.png" alt="">
-										</div>
-									</div>
-								</div>
-							</div>
-							<!-- End testi single box -->
-						</div>						
-						<div class="col-lg-6 col-md-6" style="max-height:250px">
-							<!-- start testi single box -->
-							<div class="testi-single-box four wow animate__slideInUp">
-								<div class="testi-items-box">
-									<div class="testi-content">
-										<div class="testi-thumb">
-											<img src="assets/images/testimonial/testi4.png" alt="">
-										</div>
-										<div class="testi-title">
-											<!-- <h4>Latrice Bryant-Robinson </h4> -->
-											<span>Engineer representing the HOA</span>
-										</div>
-										<div class="testi-discription">
-											<p>"I simply can't understand how contractors that have been doing this for 30 years don't look as good as your first one. You have proven your abilities and I will be sending you lots of work!".</p>
-										</div>
-										<div class="testi-icon-thumb">
-											<img src="assets/images/testimonial/testi-icon.png" alt="">
-										</div>
-									</div>
-								</div>
-							</div>
-							<!-- End testi single box -->
-						</div>
-						<div class="col-lg-6 col-md-6 mt-180" style="max-height:250px">
-							<!-- start testi single box -->
-							<div class="testi-single-box four wow animate__slideInUp">
-								<div class="testi-items-box">
-									<div class="testi-content">
-										<div class="testi-thumb">
-											<img src="assets/images/testimonial/testi4.png" alt="">
-										</div>
-										<div class="testi-title">
-											<h4>Michelle Pace Wood</h4>
-											<!-- <span>Engineer representing the HOA</span> -->
-										</div>
-										<div class="testi-discription">
-											<p>“Shout out to Brock Mountain Land Company, LLC & Eric Burns for the great expansion & renovation job they did for Dwight & JR at Small Business Alternatives - Candler’s local accounting firm. If you need any work done. Let’s keep local money local. Thanks again Eric”</p>
-										</div>
-										<div class="testi-icon-thumb">
-											<img src="assets/images/testimonial/testi-icon.png" alt="">
-										</div>
-									</div>
-								</div>
-							</div>
-							<!-- End testi single box -->
-						</div>
-						<div class="col-lg-6 col-md-6" style="max-height:250px">
-							<!-- start testi single box -->
-							<div class="testi-single-box four wow animate__slideInUp">
-								<div class="testi-items-box">
-									<div class="testi-content">
-										<div class="testi-thumb">
-											<img src="assets/images/testimonial/testi4.png" alt="">
-										</div>
-										<div class="testi-title">
-											<h4>Diana Janzen</h4>
-											<span>Board President, Family Renew Community</span>
-										</div>
-										<div class="testi-discription">
-											<p>Brock Mountain has made an impact that will stay with us for many years and benefit generations of our families. Thank you so much for your generosity, kindness and enthusiastic hard work!</p>
-										</div>
-										<div class="testi-icon-thumb">
-											<img src="assets/images/testimonial/testi-icon.png" alt="">
-										</div>
-									</div>
-								</div>
-							</div>
-							<!-- End testi single box -->
-						</div>
+						
 					</div>
 				</div>
 			</div>

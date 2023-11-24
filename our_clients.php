@@ -79,7 +79,7 @@
 										</div>
 									</div>
 								</div>
-							</div>
+							</div> 
 							<!-- End testi single box -->
 						</div>
 						<div class="col-lg-6 col-md-6 mt-180">
