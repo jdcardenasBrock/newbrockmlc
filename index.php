@@ -250,98 +250,12 @@
 	</section>
 	<!--==================================================-->
 	<!-- End Euildint Slider Style Two Area -->
-	<!--==================================================-->
-
-	<!--==================================================-->
-	<!-- Start Euildint Feature Style Two Area -->
-	<!--==================================================-->
-	<div class="feature-area style-two animate__slideInUp">
-		<div class="container-fluid">
-			<div class="row">
-				<div class="col-lg-3 col-md-6">
-					<!--start feature items box -->
-					<div class="feature-items-box">
-						<div class="feature-icon-box">
-							<div class="feature-icon-thumb">
-								<img src="assets/images/resource/feature-icn1.png" alt="">
-							</div>
-							<div class="feature-numbar">
-								<h5>01.</h5>
-							</div>
-						</div>
-						<div class="feature-text">
-							<h4><a href="#">Building Construction</a></h4>
-							<a href="#">Discover More <i class="bi bi-arrow-right"></i></a>
-						</div>
-					</div>
-					<!--End feature items box -->
-				</div>
-				<div class="col-lg-3 col-md-6">
-					<!--start feature items box -->
-					<div class="feature-items-box two">
-						<div class="feature-icon-box">
-							<div class="feature-icon-thumb">
-								<img src="assets/images/resource/feature-icn2.png" alt="">
-							</div>
-							<div class="feature-numbar">
-								<h5>02.</h5>
-							</div>
-						</div>
-						<div class="feature-text">
-							<h4><a href="#">Architecture Design</a></h4>
-							<a href="#">Discover More <i class="bi bi-arrow-right"></i></a>
-						</div>
-					</div>
-					<!--End feature items box -->
-				</div>
-				<div class="col-lg-3 col-md-6">
-					<!--start feature items box -->
-					<div class="feature-items-box">
-						<div class="feature-icon-box">
-							<div class="feature-icon-thumb">
-								<img src="assets/images/resource/feature-icn3.png" alt="">
-							</div>
-							<div class="feature-numbar">
-								<h5>03.</h5>
-							</div>
-						</div>
-						<div class="feature-text">
-							<h4><a href="#">Building Renovation</a></h4>
-							<a href="#">Discover More <i class="bi bi-arrow-right"></i></a>
-						</div>
-					</div>
-					<!--End feature items box -->
-				</div>
-				<div class="col-lg-3 col-md-6">
-					<!--start feature items box -->
-					<div class="feature-items-box">
-						<div class="feature-icon-box">
-							<div class="feature-icon-thumb">
-								<img src="assets/images/resource/feature-icn4.png" alt="">
-							</div>
-							<div class="feature-numbar">
-								<h5>04.</h5>
-							</div>
-						</div>
-						<div class="feature-text">
-							<h4><a href="#">Consulting Service</a></h4>
-							<a href="#">Discover More <i class="bi bi-arrow-right"></i></a>
-						</div>
-					</div>
-					<!--End feature items box -->
-				</div>
-			</div>
-		</div>
-	</div>
-
-	<!--==================================================-->
-	<!-- End Euildint Feature Style Two Area -->
-	<!--==================================================-->
+	<!--==================================================-->	
 
 	<!--==================================================-->
 	<!-- Start Euildint About Area -->
 	<!--==================================================-->
-	<div class="about-area style-two wow animate__slideInUp">
+	<div class="about-area style-two wow animate__slideInUp" style="padding-top: 220px">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-6 col-md-12">
@@ -645,32 +559,34 @@
 	<!-- Start Euildint Contact Area -->
 	<!--==================================================-->
 	<div class="contact-area wow animate__slideInUp">
-		<div class="container">
+		<!-- <div class="container"> -->
 			<div class="row align-items-center">
-				<div class="col-lg-7 col-md-12">
-					<div class="section-title">
-						<div class="section-main-title contact">
-							<h2>Contact us Today And Let us</h2>
-							<h2>Know What you Need</h2>
+				<div class="col-lg-8 col-md-12">
+					<div class="container">
+						<div class="section-title">
+							<div class="section-main-title contact">
+								<h2>Contact us Today And Let us</h2>
+								<h2>Know What you Need</h2>
+							</div>
 						</div>
-					</div>
-					<div class="contact-discription">
-						<p>When does a mere internet 'SEO' company grow into a trusted partner that stays in front of the latest industry trends? When it's time to partner with Mocer, that's when. saidul islam</p>
-					</div>
-					<div class="eulding-btn">
-						<a href="#">Contact Us <i class="bi bi-arrow-up-right-circle-fill"></i></a>
+						<div class="contact-discription">
+							<p>When does a mere internet 'SEO' company grow into a trusted partner that stays in front of the latest industry trends? When it's time to partner with Mocer, that's when. saidul islam</p>
+						</div>
+						<div class="eulding-btn">
+							<a href="#">Contact Us <i class="bi bi-arrow-up-right-circle-fill"></i></a>
+						</div>
 					</div>
 				</div>
-				<div class="col-lg-5 col-md-6">
+				<div class="col-lg-4 col-md-6">
 					<div class="contact-thumb wow animate__slideInRight">
 						<img src="assets/images/home/Home_15-contact copia.png" alt="">
-						<div class="contact-shape">
+						<!-- <div class="contact-shape">
 							<img src="assets/images/resource/contact-shape.png" alt="">
-						</div>
+						</div> -->
 					</div>
 				</div>
 			</div>
-		</div>
+		<!-- </div> -->
 	</div>
 	<!--==================================================-->
 	<!-- End Euildint Contact Area -->
@@ -925,7 +841,7 @@
 						<div class="video-icon style-two">
 							<a class="video-vemo-icon venobox vbox-item" data-vbtype="youtube" data-autoplay="true" href="https://youtu.be/BS4TUd7FJSg"><i class="bi bi-play"></i></a>
 						</div>
-						<div class="faq-single-box wow animate__slideInUp">
+						<div class="faq-single-box wow animate__slideInUp" style="box-shadow: 10px -10px 50px 5px black">
 							<div class="faq-item-content">
 								<div class="faq-icon-thumb">
 									<img src="assets/images/resource/faq-icon.png" alt="">
