@@ -1,3 +1,16 @@
+<style>
+	.p-testimonials-home{
+		display: -webkit-box;
+		max-width: 200px;
+		-webkit-line-clamp: 4;
+		-webkit-box-orient: vertical;
+		overflow: hidden;    
+	}
+	.p-testimonials-home:hover{
+		display: block;
+		overflow: auto;
+	}
+</style>
 <?php require 'header.php'; ?>
 
 	<!--==================================================-->
@@ -548,7 +561,7 @@
 				</div>
 				<div class="col-lg-7 col-md-12">
 					<div class="row">
-						<div class="col-lg-6 col-md-6">
+						<div class="col-lg-6 col-md-6 mt-80">
 							<!-- start testi single box -->
 							<div class="testi-single-box wow animate__slideInUp">
 								<div class="testi-items-box">
@@ -560,7 +573,7 @@
 											<h4></h4>
 											<span>Building Engineer</span>
 										</div>
-										<div class="testi-discription p-testimonials-home">
+										<div class="testi-discription">
 											<p class="p-testimonials-home">It has been a pleasure to watch a crew that is organized, moving along nicely with difficult sheet piling work I am an engineer and have been around construction most of my life and your crew is the best I have seen!!!"</p>
 										</div>
 										<div class="testi-icon-thumb">
