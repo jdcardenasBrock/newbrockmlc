@@ -39,12 +39,22 @@ Tags: architect, building company, construction, construction template, construc
 
 /* custom styles */
 
+/* .testi-discription p {
+    
+} */
+
 .p-testimonials-home{
     display: -webkit-box;
     max-width: 200px;
     -webkit-line-clamp: 4;
     -webkit-box-orient: vertical;
     overflow: hidden;
+    color: #747474;
+    font-family: Rubik;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
 }
 
 .p-testimonials-home:hover{
@@ -1307,15 +1317,6 @@ Tags: architect, building company, construction, construction template, construc
     font-size: 16px;
     font-weight: 500;
     transition: .5s;
-}
-
-.testi-discription p {
-    color: #747474;
-    font-family: Rubik;
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 26px;
 }
 
 .testi-icon-thumb {
