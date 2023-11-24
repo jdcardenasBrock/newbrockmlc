@@ -548,30 +548,7 @@
 				</div>
 				<div class="col-lg-7 col-md-12">
 					<div class="row">
-						<div class="col-lg-6 col-md-6">
-							<!-- start testi single box -->
-							<div class="testi-single-box wow animate__slideInUp">
-								<div class="testi-items-box">
-									<div class="testi-content">
-										<div class="testi-thumb">
-											<img src="assets/images/testimonial/testi1.png" alt="">
-										</div>
-										<div class="testi-title">
-											<!-- <h4>March 29th</h4> -->
-											<span>A client well pleased with Team BMLC!</span>
-										</div>
-										<div class="testi-discription">
-											<p>“Said You were in a league of our own and amazing!  Good work team!”</p>
-										</div>
-										<div class="testi-icon-thumb">
-											<img src="assets/images/testimonial/testi-icon.png" alt="">
-										</div>
-									</div>
-								</div>
-							</div>
-							<!-- End testi single box -->
-						</div>
-						<div class="col-lg-6 col-md-6 mt-180">
+					<div class="col-lg-6 col-md-6 mt-180">
 							<!-- start testi single box -->
 							<div class="testi-single-box two wow animate__slideInUp">
 								<div class="testi-items-box">
@@ -594,20 +571,20 @@
 							</div>
 							<!-- End testi single box -->
 						</div>
-						<div class="col-lg-6 col-md-6 mt-180">
+						<div class="col-lg-6 col-md-6">
 							<!-- start testi single box -->
 							<div class="testi-single-box wow animate__slideInUp">
 								<div class="testi-items-box">
 									<div class="testi-content">
 										<div class="testi-thumb">
-											<img src="assets/images/testimonial/testi3.png" alt="">
+											<img src="assets/images/testimonial/testi1.png" alt="">
 										</div>
 										<div class="testi-title">
-											<!-- <h4>Alex Mitchell</h4> -->
-											<span>General Manager of Universal Engineering</span>
+											<!-- <h4>March 29th</h4> -->
+											<span>A client well pleased with Team BMLC!</span>
 										</div>
 										<div class="testi-discription">
-											<p>“Nicely done Quincey!  You guys are first class!”</p>
+											<p>“Said You were in a league of our own and amazing!  Good work team!”</p>
 										</div>
 										<div class="testi-icon-thumb">
 											<img src="assets/images/testimonial/testi-icon.png" alt="">
@@ -616,7 +593,7 @@
 								</div>
 							</div>
 							<!-- End testi single box -->
-						</div>
+						</div>		
 						<div class="col-lg-6 col-md-6 mt-180">
 							<!-- start testi single box -->
 							<div class="testi-single-box four wow animate__slideInUp">
@@ -639,7 +616,30 @@
 								</div>
 							</div>
 							<!-- End testi single box -->
-						</div>
+						</div>				
+						<div class="col-lg-6 col-md-6 mt-180">
+							<!-- start testi single box -->
+							<div class="testi-single-box wow animate__slideInUp">
+								<div class="testi-items-box">
+									<div class="testi-content">
+										<div class="testi-thumb">
+											<img src="assets/images/testimonial/testi3.png" alt="">
+										</div>
+										<div class="testi-title">
+											<!-- <h4>Alex Mitchell</h4> -->
+											<span>General Manager of Universal Engineering</span>
+										</div>
+										<div class="testi-discription">
+											<p>“Nicely done Quincey!  You guys are first class!”</p>
+										</div>
+										<div class="testi-icon-thumb">
+											<img src="assets/images/testimonial/testi-icon.png" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- End testi single box -->
+						</div>						
 						<div class="col-lg-6 col-md-6 mt-180">
 							<!-- start testi single box -->
 							<div class="testi-single-box four wow animate__slideInUp">
