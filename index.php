@@ -513,7 +513,7 @@
 	<!--==================================================-->
 	<!-- Start Euildint Testimonial Area -->
 	<!--==================================================-->
-	<div class="testimonial-area wow animate__slideInUp">
+	<div class="testimonial-area wow animate__slideInUp mt-100 mb-100" >
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-5 col-md-12">
@@ -550,25 +550,25 @@
 					<div class="row">
 						<div class="col-lg-6 col-md-6">
 							<!-- start testi single box -->
-							<div class="testi-single-box two wow animate__slideInUp">
+							<div class="testi-single-box wow animate__slideInUp">
 								<div class="testi-items-box">
 									<div class="testi-content">
 										<div class="testi-thumb">
-											<img src="assets/images/testimonial/testi2.png" alt="">
+											<img src="assets/images/testimonial/testi1.png" alt="">
 										</div>
 										<div class="testi-title">
-											<!-- <h4>Guy Hawkins</h4> -->
-											<span>Building Engineer</span>
+											<h4>Kevin Martin</h4>
+											<span>Founder</span>
 										</div>
 										<div class="testi-discription">
-											<p>It has been a pleasure to watch a crew that is organized, moving along nicely with difficult sheet piling work I am an engineer and have been around construction most of my life and your crew is the best I have seen!!!"</p>
+											<p>Access the same project through five different dynamic views: a kanban board, Gantt chart,simple task list.</p>
 										</div>
 										<div class="testi-icon-thumb">
 											<img src="assets/images/testimonial/testi-icon.png" alt="">
 										</div>
 									</div>
 								</div>
-							</div>
+							</div> 
 							<!-- End testi single box -->
 						</div>
 						<div class="col-lg-6 col-md-6 mt-180">
@@ -581,6 +581,52 @@
 										</div>
 										<div class="testi-title">
 											<h4>Guy Hawkins</h4>
+											<span>Manager</span>
+										</div>
+										<div class="testi-discription">
+											<p>Access the same project through five different dynamic views: a kanban board, Gantt chart,simple task list.</p>
+										</div>
+										<div class="testi-icon-thumb">
+											<img src="assets/images/testimonial/testi-icon.png" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- End testi single box -->
+						</div>
+						<div class="col-lg-6 col-md-6">
+							<!-- start testi single box -->
+							<div class="testi-single-box wow animate__slideInUp">
+								<div class="testi-items-box">
+									<div class="testi-content">
+										<div class="testi-thumb">
+											<img src="assets/images/testimonial/testi3.png" alt="">
+										</div>
+										<div class="testi-title">
+											<h4>Alex Mitchell</h4>
+											<span>Manager</span>
+										</div>
+										<div class="testi-discription">
+											<p>Access the same project through five different dynamic views: a kanban board, Gantt chart,simple task list.</p>
+										</div>
+										<div class="testi-icon-thumb">
+											<img src="assets/images/testimonial/testi-icon.png" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- End testi single box -->
+						</div>
+						<div class="col-lg-6 col-md-6 mt-180">
+							<!-- start testi single box -->
+							<div class="testi-single-box four wow animate__slideInUp">
+								<div class="testi-items-box">
+									<div class="testi-content">
+										<div class="testi-thumb">
+											<img src="assets/images/testimonial/testi4.png" alt="">
+										</div>
+										<div class="testi-title">
+											<h4>Jessca Arow</h4>
 											<span>Manager</span>
 										</div>
 										<div class="testi-discription">
