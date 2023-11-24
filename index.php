@@ -1,14 +1,14 @@
 <style>
 	.testi-discription p{
 		display: -webkit-box;
-		max-width: 200px;
+		max-width: 100%;
 		-webkit-line-clamp: 3;
 		-webkit-box-orient: vertical;
 		overflow: hidden;    
 	}	
 	.testi-title span{
 		display: -webkit-box;
-		max-width: 200px;
+		max-width: 70%;
 		-webkit-line-clamp: 2;
 		-webkit-box-orient: vertical;
 		overflow: hidden; 
