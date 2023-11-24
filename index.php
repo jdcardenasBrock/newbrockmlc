@@ -548,7 +548,7 @@
 				</div>
 				<div class="col-lg-7 col-md-12">
 					<div class="row">
-					<div class="col-lg-6 col-md-6 mt-180">
+					<div class="col-lg-6 col-md-6 mt-80">
 							<!-- start testi single box -->
 							<div class="testi-single-box two wow animate__slideInUp">
 								<div class="testi-items-box">
@@ -571,7 +571,7 @@
 							</div>
 							<!-- End testi single box -->
 						</div>
-						<div class="col-lg-6 col-md-6 mt-180">
+						<div class="col-lg-6 col-md-6">
 							<!-- start testi single box -->
 							<div class="testi-single-box four wow animate__slideInUp">
 								<div class="testi-items-box">
@@ -617,7 +617,7 @@
 							</div>
 							<!-- End testi single box -->
 						</div>												
-						<div class="col-lg-6 col-md-6 mt-180">
+						<div class="col-lg-6 col-md-6">
 							<!-- start testi single box -->
 							<div class="testi-single-box wow animate__slideInUp">
 								<div class="testi-items-box">
@@ -640,7 +640,7 @@
 							</div>
 							<!-- End testi single box -->
 						</div>						
-						<div class="col-lg-6 col-md-6 mt-180">
+						<div class="col-lg-6 col-md-6">
 							<!-- start testi single box -->
 							<div class="testi-single-box four wow animate__slideInUp">
 								<div class="testi-items-box">
@@ -663,7 +663,7 @@
 							</div>
 							<!-- End testi single box -->
 						</div>
-						<div class="col-lg-6 col-md-6 mt-180">
+						<div class="col-lg-6 col-md-6">
 							<!-- start testi single box -->
 							<div class="testi-single-box four wow animate__slideInUp">
 								<div class="testi-items-box">
@@ -677,6 +677,29 @@
 										</div>
 										<div class="testi-discription">
 											<p>“Shout out to Brock Mountain Land Company, LLC & Eric Burns for the great expansion & renovation job they did for Dwight & JR at Small Business Alternatives - Candler’s local accounting firm. If you need any work done. Let’s keep local money local. Thanks again Eric”</p>
+										</div>
+										<div class="testi-icon-thumb">
+											<img src="assets/images/testimonial/testi-icon.png" alt="">
+										</div>
+									</div>
+								</div>
+							</div>
+							<!-- End testi single box -->
+						</div>
+						<div class="col-lg-6 col-md-6">
+							<!-- start testi single box -->
+							<div class="testi-single-box four wow animate__slideInUp">
+								<div class="testi-items-box">
+									<div class="testi-content">
+										<div class="testi-thumb">
+											<img src="assets/images/testimonial/testi4.png" alt="">
+										</div>
+										<div class="testi-title">
+											<h4>Diana Janzen</h4>
+											<span>Board President, Family Renew Community</span>
+										</div>
+										<div class="testi-discription">
+											<p>Brock Mountain has made an impact that will stay with us for many years and benefit generations of our families. Thank you so much for your generosity, kindness and enthusiastic hard work!</p>
 										</div>
 										<div class="testi-icon-thumb">
 											<img src="assets/images/testimonial/testi-icon.png" alt="">
