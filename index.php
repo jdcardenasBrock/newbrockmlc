@@ -560,7 +560,7 @@
 											<h4></h4>
 											<span>Building Engineer</span>
 										</div>
-										<div class="testi-discription">
+										<div class="testi-discription p-testimonials-home">
 											<p class="p-testimonials-home">It has been a pleasure to watch a crew that is organized, moving along nicely with difficult sheet piling work I am an engineer and have been around construction most of my life and your crew is the best I have seen!!!"</p>
 										</div>
 										<div class="testi-icon-thumb">
