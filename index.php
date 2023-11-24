@@ -663,8 +663,7 @@
 							</div>
 							<!-- End testi single box -->
 						</div>
-						<div class="col-lg-6 col-md-6">
-							<!-- start testi single box -->
+						<div class="col-lg-6 col-md-6">							<!-- start testi single box -->
 							<div class="testi-single-box four wow animate__slideInUp">
 								<div class="testi-items-box">
 									<div class="testi-content">
