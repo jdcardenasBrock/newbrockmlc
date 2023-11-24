@@ -548,7 +548,7 @@
 				</div>
 				<div class="col-lg-7 col-md-12">
 					<div class="row">
-					<div class="col-lg-6 col-md-6 mt-80">
+						<div class="col-lg-6 col-md-6" style="max-height:250px">
 							<!-- start testi single box -->
 							<div class="testi-single-box two wow animate__slideInUp">
 								<div class="testi-items-box">
@@ -571,7 +571,7 @@
 							</div>
 							<!-- End testi single box -->
 						</div>
-						<div class="col-lg-6 col-md-6">
+						<div class="col-lg-6 col-md-6 mt-180" style="max-height:250px">
 							<!-- start testi single box -->
 							<div class="testi-single-box four wow animate__slideInUp">
 								<div class="testi-items-box">
@@ -594,7 +594,7 @@
 							</div>
 							<!-- End testi single box -->
 						</div>
-						<div class="col-lg-6 col-md-6" style="margin-top: -60px">
+						<div class="col-lg-6 col-md-6" style="max-height:250px">
 							<!-- start testi single box -->
 							<div class="testi-single-box wow animate__slideInUp">
 								<div class="testi-items-box">
@@ -617,7 +617,7 @@
 							</div>
 							<!-- End testi single box -->
 						</div>												
-						<div class="col-lg-6 col-md-6">
+						<div class="col-lg-6 col-md-6 mt-180" style="max-height:250px">
 							<!-- start testi single box -->
 							<div class="testi-single-box wow animate__slideInUp">
 								<div class="testi-items-box">
@@ -640,7 +640,7 @@
 							</div>
 							<!-- End testi single box -->
 						</div>						
-						<div class="col-lg-6 col-md-6" style="margin-top: -80px">
+						<div class="col-lg-6 col-md-6" style="max-height:250px">
 							<!-- start testi single box -->
 							<div class="testi-single-box four wow animate__slideInUp">
 								<div class="testi-items-box">
@@ -663,7 +663,7 @@
 							</div>
 							<!-- End testi single box -->
 						</div>
-						<div class="col-lg-6 col-md-6">
+						<div class="col-lg-6 col-md-6 mt-180" style="max-height:250px">
 							<!-- start testi single box -->
 							<div class="testi-single-box four wow animate__slideInUp">
 								<div class="testi-items-box">
@@ -686,7 +686,7 @@
 							</div>
 							<!-- End testi single box -->
 						</div>
-						<div class="col-lg-6 col-md-6" style="margin-top: -165px">
+						<div class="col-lg-6 col-md-6" style="max-height:250px">
 							<!-- start testi single box -->
 							<div class="testi-single-box four wow animate__slideInUp">
 								<div class="testi-items-box">
