@@ -51,7 +51,175 @@
 				</div>
 			</div>
 			<div class="slide-item two">
-				<div class="image-layer" style="background-image: url('assets/images/slider/slider-3.jpg');"></div>
+				<div class="image-layer" style="background-image: url('assets/images/slider/Home_3.jpg');"></div>
+				<div class="container">
+					<div class="slider-content style-two wow animate__slideInLeft">
+						<div class="slider-sub-title">
+							<h4>Great Experience In Restoration</h4>
+						</div>
+						<div class="slider-main-title">
+							<h1>Brock Mountain meets the rigorous</h1>
+							<h1>demands of restoration.</h1>
+						</div>
+						<div class="slider-discripton">
+							<p>I have been a loyal customer of this auto parts company for years and I cannot recommend them enough. Their extensive selection of high-quality parts and accessories.of high-quality parts and</p>
+						</div>
+						<div class="eulding-btn">
+							<a href="#">Read More <i class="bi bi-arrow-up-right-circle-fill"></i></a>
+						</div>
+						<div class="slider-social-menu">
+							<ul>
+								<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+								<li><a href="#"><i class="fab fa-youtube"></i></a></li>
+								<li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+								<li><a href="#"><i class="fab fa-twitter"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="slide-item tres">
+				<div class="image-layer" style="background-image: url('assets/images/slider/Home_3.jpg');"></div>
+				<div class="container">
+					<div class="slider-content style-two wow animate__slideInLeft">
+						<div class="slider-sub-title">
+							<h4>Great Experience In Restoration</h4>
+						</div>
+						<div class="slider-main-title">
+							<h1>Brock Mountain meets the rigorous</h1>
+							<h1>demands of restoration.</h1>
+						</div>
+						<div class="slider-discripton">
+							<p>I have been a loyal customer of this auto parts company for years and I cannot recommend them enough. Their extensive selection of high-quality parts and accessories.of high-quality parts and</p>
+						</div>
+						<div class="eulding-btn">
+							<a href="#">Read More <i class="bi bi-arrow-up-right-circle-fill"></i></a>
+						</div>
+						<div class="slider-social-menu">
+							<ul>
+								<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+								<li><a href="#"><i class="fab fa-youtube"></i></a></li>
+								<li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+								<li><a href="#"><i class="fab fa-twitter"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="slide-item four">
+				<div class="image-layer" style="background-image: url('assets/images/slider/Home_4.jpg');"></div>
+				<div class="container">
+					<div class="slider-content style-two wow animate__slideInLeft">
+						<div class="slider-sub-title">
+							<h4>Great Experience In Restoration</h4>
+						</div>
+						<div class="slider-main-title">
+							<h1>Brock Mountain meets the rigorous</h1>
+							<h1>demands of restoration.</h1>
+						</div>
+						<div class="slider-discripton">
+							<p>I have been a loyal customer of this auto parts company for years and I cannot recommend them enough. Their extensive selection of high-quality parts and accessories.of high-quality parts and</p>
+						</div>
+						<div class="eulding-btn">
+							<a href="#">Read More <i class="bi bi-arrow-up-right-circle-fill"></i></a>
+						</div>
+						<div class="slider-social-menu">
+							<ul>
+								<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+								<li><a href="#"><i class="fab fa-youtube"></i></a></li>
+								<li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+								<li><a href="#"><i class="fab fa-twitter"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="slide-item five">
+				<div class="image-layer" style="background-image: url('assets/images/slider/Home_5.jpg');"></div>
+				<div class="container">
+					<div class="slider-content style-two wow animate__slideInLeft">
+						<div class="slider-sub-title">
+							<h4>Great Experience In Restoration</h4>
+						</div>
+						<div class="slider-main-title">
+							<h1>Brock Mountain meets the rigorous</h1>
+							<h1>demands of restoration.</h1>
+						</div>
+						<div class="slider-discripton">
+							<p>I have been a loyal customer of this auto parts company for years and I cannot recommend them enough. Their extensive selection of high-quality parts and accessories.of high-quality parts and</p>
+						</div>
+						<div class="eulding-btn">
+							<a href="#">Read More <i class="bi bi-arrow-up-right-circle-fill"></i></a>
+						</div>
+						<div class="slider-social-menu">
+							<ul>
+								<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+								<li><a href="#"><i class="fab fa-youtube"></i></a></li>
+								<li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+								<li><a href="#"><i class="fab fa-twitter"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="slide-item six">
+				<div class="image-layer" style="background-image: url('assets/images/slider/Home_6.jpg');"></div>
+				<div class="container">
+					<div class="slider-content style-two wow animate__slideInLeft">
+						<div class="slider-sub-title">
+							<h4>Great Experience In Restoration</h4>
+						</div>
+						<div class="slider-main-title">
+							<h1>Brock Mountain meets the rigorous</h1>
+							<h1>demands of restoration.</h1>
+						</div>
+						<div class="slider-discripton">
+							<p>I have been a loyal customer of this auto parts company for years and I cannot recommend them enough. Their extensive selection of high-quality parts and accessories.of high-quality parts and</p>
+						</div>
+						<div class="eulding-btn">
+							<a href="#">Read More <i class="bi bi-arrow-up-right-circle-fill"></i></a>
+						</div>
+						<div class="slider-social-menu">
+							<ul>
+								<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+								<li><a href="#"><i class="fab fa-youtube"></i></a></li>
+								<li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+								<li><a href="#"><i class="fab fa-twitter"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="slide-item seven">
+				<div class="image-layer" style="background-image: url('assets/images/slider/Home_7.jpg');"></div>
+				<div class="container">
+					<div class="slider-content style-two wow animate__slideInLeft">
+						<div class="slider-sub-title">
+							<h4>Great Experience In Restoration</h4>
+						</div>
+						<div class="slider-main-title">
+							<h1>Brock Mountain meets the rigorous</h1>
+							<h1>demands of restoration.</h1>
+						</div>
+						<div class="slider-discripton">
+							<p>I have been a loyal customer of this auto parts company for years and I cannot recommend them enough. Their extensive selection of high-quality parts and accessories.of high-quality parts and</p>
+						</div>
+						<div class="eulding-btn">
+							<a href="#">Read More <i class="bi bi-arrow-up-right-circle-fill"></i></a>
+						</div>
+						<div class="slider-social-menu">
+							<ul>
+								<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+								<li><a href="#"><i class="fab fa-youtube"></i></a></li>
+								<li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+								<li><a href="#"><i class="fab fa-twitter"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="slide-item eight">
+				<div class="image-layer" style="background-image: url('assets/images/slider/Home_8.jpg');"></div>
 				<div class="container">
 					<div class="slider-content style-two wow animate__slideInLeft">
 						<div class="slider-sub-title">
