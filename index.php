@@ -558,7 +558,7 @@
 										</div>
 										<div class="testi-title">
 											<!-- <h4>March 29th</h4> -->
-											<span style="border: 1px solid black">A client well pleased with Team BMLC!</span>
+											<span style="border: 1px solid black; width: 70%">A client well pleased with Team BMLC!</span>
 										</div>
 										<div class="testi-discription">
 											<p>“Said You were in a league of our own and amazing!  Good work team!”</p>
