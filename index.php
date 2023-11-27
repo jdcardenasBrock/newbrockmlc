@@ -16,7 +16,7 @@
 		overflow: hidden; 
 	}
 	.slider-description, .slider-main-title{
-		text-shadow: 1px 1px 2px black;
+		text-shadow: 1px 4px 6px black;
 	}
 	.slider-main-title{
 		min-height: 350px;
