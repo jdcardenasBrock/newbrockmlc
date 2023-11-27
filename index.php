@@ -18,9 +18,9 @@
 	.slider-description, .slider-main-title{
 		text-shadow: 1px 1px 2px black;
 	}
-	.slider-sub-title h4, .slider-discripton p{
+	/* .slider-sub-title h4, .slider-discripton p{
 		display:none;
-	}
+	} */
 </style>
 	<!--==================================================-->
 	<!-- Start Euildint Slider Style Two Area -->
@@ -32,14 +32,14 @@
 				<div class="container">
 					<div class="slider-content style-two wow animate__slideInLeft">
 						<div class="slider-sub-title">
-							<h4>Great Experience In Building</h4>
+							<!-- <h4>Great Experience In Building</h4> -->
 						</div>
 						<div class="slider-main-title">
 							<h1>Brock Mountain meets the rigorous</h1>
 							<h1>demands of commercial building.</h1>
 						</div>
 						<div class="slider-discripton">
-							<p>I have been a loyal customer of this auto parts company for years and I cannot recommend them enough. Their extensive selection of high-quality parts and accessories.of high-quality parts and</p>
+							<!-- <p>I have been a loyal customer of this auto parts company for years and I cannot recommend them enough. Their extensive selection of high-quality parts and accessories.of high-quality parts and</p> -->
 						</div>
 						<div class="eulding-btn">
 							<a href="building.php">Read More <i class="bi bi-arrow-up-right-circle-fill"></i></a>
@@ -60,14 +60,14 @@
 				<div class="container">
 					<div class="slider-content style-two wow animate__slideInLeft">
 						<div class="slider-sub-title">
-							<h4>Great Experience In Restoration</h4>
+							<!-- <h4>Great Experience In Restoration</h4> -->
 						</div>
 						<div class="slider-main-title">
 							<h1>Brock Mountain meets the rigorous</h1>
 							<h1>demands of restoration.</h1>
 						</div>
 						<div class="slider-discripton">
-							<p>I have been a loyal customer of this auto parts company for years and I cannot recommend them enough. Their extensive selection of high-quality parts and accessories.of high-quality parts and</p>
+							<!-- <p>I have been a loyal customer of this auto parts company for years and I cannot recommend them enough. Their extensive selection of high-quality parts and accessories.of high-quality parts and</p> -->
 						</div>
 						<div class="eulding-btn">
 							<a href="#">Read More <i class="bi bi-arrow-up-right-circle-fill"></i></a>
@@ -88,14 +88,14 @@
 				<div class="container">
 					<div class="slider-content style-two wow animate__slideInLeft">
 						<div class="slider-sub-title">
-							<h4>Great Experience In Restoration</h4>
+							<!-- <h4>Great Experience In Restoration</h4> -->
 						</div>
 						<div class="slider-main-title">
 							<h1>Brock Mountain meets the rigorous</h1>
 							<h1>demands of restoration.</h1>
 						</div>
 						<div class="slider-discripton">
-							<p>I have been a loyal customer of this auto parts company for years and I cannot recommend them enough. Their extensive selection of high-quality parts and accessories.of high-quality parts and</p>
+							<!-- <p>I have been a loyal customer of this auto parts company for years and I cannot recommend them enough. Their extensive selection of high-quality parts and accessories.of high-quality parts and</p> -->
 						</div>
 						<div class="eulding-btn">
 							<a href="#">Read More <i class="bi bi-arrow-up-right-circle-fill"></i></a>
@@ -116,14 +116,14 @@
 				<div class="container">
 					<div class="slider-content style-two wow animate__slideInLeft">
 						<div class="slider-sub-title">
-							<h4>Great Experience In Restoration</h4>
+							<!-- <h4>Great Experience In Restoration</h4> -->
 						</div>
 						<div class="slider-main-title">
 							<h1>Brock Mountain meets the rigorous</h1>
 							<h1>demands of restoration.</h1>
 						</div>
 						<div class="slider-discripton">
-							<p>I have been a loyal customer of this auto parts company for years and I cannot recommend them enough. Their extensive selection of high-quality parts and accessories.of high-quality parts and</p>
+							<!-- <p>I have been a loyal customer of this auto parts company for years and I cannot recommend them enough. Their extensive selection of high-quality parts and accessories.of high-quality parts and</p> -->
 						</div>
 						<div class="eulding-btn">
 							<a href="#">Read More <i class="bi bi-arrow-up-right-circle-fill"></i></a>
@@ -144,14 +144,14 @@
 				<div class="container">
 					<div class="slider-content style-two wow animate__slideInLeft">
 						<div class="slider-sub-title">
-							<h4>Great Experience In Restoration</h4>
+							<!-- <h4>Great Experience In Restoration</h4> -->
 						</div>
 						<div class="slider-main-title">
 							<h1>Brock Mountain meets the rigorous</h1>
 							<h1>demands of restoration.</h1>
 						</div>
 						<div class="slider-discripton">
-							<p>I have been a loyal customer of this auto parts company for years and I cannot recommend them enough. Their extensive selection of high-quality parts and accessories.of high-quality parts and</p>
+							<!-- <p>I have been a loyal customer of this auto parts company for years and I cannot recommend them enough. Their extensive selection of high-quality parts and accessories.of high-quality parts and</p> -->
 						</div>
 						<div class="eulding-btn">
 							<a href="#">Read More <i class="bi bi-arrow-up-right-circle-fill"></i></a>
@@ -172,14 +172,14 @@
 				<div class="container">
 					<div class="slider-content style-two wow animate__slideInLeft">
 						<div class="slider-sub-title">
-							<h4>Great Experience In Restoration</h4>
+							<!-- <h4>Great Experience In Restoration</h4> -->
 						</div>
 						<div class="slider-main-title">
 							<h1>Brock Mountain meets the rigorous</h1>
 							<h1>demands of restoration.</h1>
 						</div>
 						<div class="slider-discripton">
-							<p>I have been a loyal customer of this auto parts company for years and I cannot recommend them enough. Their extensive selection of high-quality parts and accessories.of high-quality parts and</p>
+							<!-- <p>I have been a loyal customer of this auto parts company for years and I cannot recommend them enough. Their extensive selection of high-quality parts and accessories.of high-quality parts and</p> -->
 						</div>
 						<div class="eulding-btn">
 							<a href="#">Read More <i class="bi bi-arrow-up-right-circle-fill"></i></a>
@@ -200,14 +200,14 @@
 				<div class="container">
 					<div class="slider-content style-two wow animate__slideInLeft">
 						<div class="slider-sub-title">
-							<h4>Great Experience In Restoration</h4>
+							<!-- <h4>Great Experience In Restoration</h4> -->
 						</div>
 						<div class="slider-main-title">
 							<h1>Brock Mountain meets the rigorous</h1>
 							<h1>demands of restoration.</h1>
 						</div>
 						<div class="slider-discripton">
-							<p>I have been a loyal customer of this auto parts company for years and I cannot recommend them enough. Their extensive selection of high-quality parts and accessories.of high-quality parts and</p>
+							<!-- <p>I have been a loyal customer of this auto parts company for years and I cannot recommend them enough. Their extensive selection of high-quality parts and accessories.of high-quality parts and</p> -->
 						</div>
 						<div class="eulding-btn">
 							<a href="#">Read More <i class="bi bi-arrow-up-right-circle-fill"></i></a>
@@ -228,14 +228,14 @@
 				<div class="container">
 					<div class="slider-content style-two wow animate__slideInLeft">
 						<div class="slider-sub-title">
-							<h4>Great Experience In Restoration</h4>
+							<!-- <h4>Great Experience In Restoration</h4> -->
 						</div>
 						<div class="slider-main-title">
 							<h1>Brock Mountain meets the rigorous</h1>
 							<h1>demands of restoration.</h1>
 						</div>
 						<div class="slider-discripton">
-							<p>I have been a loyal customer of this auto parts company for years and I cannot recommend them enough. Their extensive selection of high-quality parts and accessories.of high-quality parts and</p>
+							<!-- <p>I have been a loyal customer of this auto parts company for years and I cannot recommend them enough. Their extensive selection of high-quality parts and accessories.of high-quality parts and</p> -->
 						</div>
 						<div class="eulding-btn">
 							<a href="#">Read More <i class="bi bi-arrow-up-right-circle-fill"></i></a>
