@@ -595,7 +595,7 @@
 							</div>
 						</div>
 						<div class="contact-discription">
-							<p>Brock Mountain Land Company, LLC provides clients the very best in excavation and building services. We take pride and are very passionate in the detail of each job.</p>
+							<p>Brock Mountain Land Company, LLC provides clients the very best in excavation and building services. We take pride and are very passionate in the detail of each job...</p>
 						</div>
 						<div class="eulding-btn">
 							<a href="contact.php">Contact Us <i class="bi bi-arrow-up-right-circle-fill"></i></a>
@@ -664,7 +664,7 @@
 								<div class="testi-items-box">
 									<div class="testi-content">
 										<div class="testi-thumb">
-											<img src="assets/images/testimonial/testi1.png" alt="">
+											<!-- <img src="assets/images/testimonial/testi1.png" alt=""> -->
 										</div>
 										<div class="testi-title">
 											<h4></h4>
@@ -687,7 +687,7 @@
 								<div class="testi-items-box">
 									<div class="testi-content">
 										<div class="testi-thumb">
-											<img src="assets/images/testimonial/testi2.png" alt="">
+											<!-- <img src="assets/images/testimonial/testi2.png" alt=""> -->
 										</div>
 										<div class="testi-title">
 											<h4>
@@ -712,7 +712,7 @@
 								<div class="testi-items-box">
 									<div class="testi-content">
 										<div class="testi-thumb">
-											<img src="assets/images/testimonial/testi3.png" alt="">
+											<!-- <img src="assets/images/testimonial/testi3.png" alt=""> -->
 										</div>
 										<div class="testi-title">
 											<h4>
@@ -737,7 +737,7 @@
 								<div class="testi-items-box">
 									<div class="testi-content">
 										<div class="testi-thumb">
-											<img src="assets/images/testimonial/testi4.png" alt="">
+											<!-- <img src="assets/images/testimonial/testi4.png" alt=""> -->
 										</div>
 										<div class="testi-title">
 											<h4>
@@ -762,7 +762,7 @@
 								<div class="testi-items-box">
 									<div class="testi-content">
 										<div class="testi-thumb">
-											<img src="assets/images/testimonial/testi3.png" alt="">
+											<!-- <img src="assets/images/testimonial/testi3.png" alt=""> -->
 										</div>
 										<div class="testi-title">
 											<h4>
@@ -787,7 +787,7 @@
 								<div class="testi-items-box">
 									<div class="testi-content">
 										<div class="testi-thumb">
-											<img src="assets/images/testimonial/testi4.png" alt="">
+											<!-- <img src="assets/images/testimonial/testi4.png" alt=""> -->
 										</div>
 										<div class="testi-title">
 											<h4>
