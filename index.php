@@ -286,30 +286,35 @@
 				<div class="col-lg-6 col-md-12">
 					<div class="section-title">
 						<div class="section-shape">
-							<img src="assets/images/about/section-shape.png" alt="">
+							<img src="assets/images/resource/section-shape.png" alt="">
 						</div>
 						<div class="section-sub-title">
 							<h4>Superior Construction</h4>
 						</div>
 						<div class="section-main-title about">
-							<h2>We Make Finest Architectural</h2>
-							<h2>Design With Great Passion</h2>
+							<h2>Exceeding The Demands Of Commercial Sitework&</h2>
+							<h2>Building Through Innovation & Dependability</h2>
 						</div>
 					</div>
 					<div class="about-content wow animate__slideInUp">
 						<div class="about-discribtion">
-							<p>Quisque dignissim enim diam, eget pulvinar ex viverra id. Nulla a lobortis lectus, id volutpat magna. Morbi consequat porttitor fermentum. Nulla vestibulum tincidunt viverra. Vestibulum accumsan</p>
+							<p>Meeting the demands of commercial construction requires expertise, experience, and readily available skilled resource.
+							Brock Mountain offers virtually unlimited flexibility for construction, sitework, building and stormwater management. This unparalleled combination of capabilities results in extreme accuracy delivered on time and on-budget.</p>
 						</div>
 						<!-- start process bar -->
 						<div class="process-ber-plugin">
-							<span class="process-bar">Customer Satisficed </span>
+							<span class="process-bar">
+								Nationwide Projects Coverage
+							</span>
 							<div id="bar1" class="barfiller">
 								<div class="tipWrap" style="display: inline;">
 									<span class="tip" style="left: 468.814px; transition: left 7s ease-in-out 0s;">78%</span>
 								</div>
 								<span class="fill" data-percentage="78" style="background: rgb(22, 181, 151); width: 505.791px; transition: width 7s ease-in-out 0s;"></span>
 							</div>  
-							<span class="process-bar">Residential Roofing</span>
+							<span class="process-bar">
+								Project increase Comparing With Last Year
+							</span>
 							<div id="bar2" class="barfiller">
 								<div class="tipWrap" style="display: inline;">
 									<span class="tip" style="left: 403.254px; transition: left 7s ease-in-out 0s;">55%</span>
@@ -323,11 +328,11 @@
 								<!--start about single box -->
 								<div class="about-single-box">
 									<div class="about-icon">
-										<img src="assets/images/about/about-icon1.png" alt="">
+										<img src="assets/images/resource/about-icon1.png" alt="">
 									</div>
 									<div class="about-text">
-										<h4>Worldwide Service</h4>
-										<p>Lorem ipsum is simply velit anod ipas aliquet enean quis.</p>
+										<h4>Nationwide Service</h4>
+										<p>Write some related text here.</p>
 									</div>
 								</div>
 								<!--end about single box -->
@@ -336,11 +341,11 @@
 								<!--start about single box -->
 								<div class="about-single-box">
 									<div class="about-icon">
-										<img src="assets/images/about/about-icon2.png" alt="">
+										<img src="assets/images/resource/about-icon2.png" alt="">
 									</div>
 									<div class="about-text">
-										<h4>Awward Winner</h4>
-										<p>Lorem ipsum is simply velit anod ipas aliquet enean quis.</p>
+										<h4>Award Winner</h4>
+										<p>Write some related text here.</p>
 									</div>
 								</div>
 								<!--end about single box -->
@@ -373,7 +378,7 @@
 					<!-- start section title -->
 					<div class="section-title">
 						<div class="section-shape">
-							<img src="assets/images/about/section-shape.png" alt="">
+							<img src="assets/images/resource/section-shape.png" alt="">
 						</div>
 						<div class="section-sub-title">
 							<h4>our history</h4>
@@ -508,7 +513,7 @@
 					<!-- start section title -->
 					<div class="section-title text-center">
 						<div class="section-shape">
-							<img src="assets/images/about/section-shape.png" alt="">
+							<img src="assets/images/resource/section-shape.png" alt="">
 						</div>
 						<div class="section-sub-title">
 							<h4>WHAT WE DO</h4>
@@ -613,7 +618,7 @@
 					<!-- start section title -->
 					<div class="section-title">
 						<div class="section-shape">
-							<img src="assets/images/about/section-shape.png" alt="">
+							<img src="assets/images/resource/section-shape.png" alt="">
 						</div>
 						<div class="section-sub-title">
 							<h4>TESTIMONIALS</h4>
