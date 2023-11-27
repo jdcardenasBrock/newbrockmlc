@@ -495,7 +495,7 @@
 				<div class="col-lg-12">
 					<div class="single-video text-center">
 						<div class="video-icon">
-							<a class="video-vemo-icon venobox vbox-item" data-vbtype="" data-autoplay="true" href="https://newbrockmlc.mcardi.com/assets/videos/Commercial%20Building%20Division%20Promo.mp4"><i class="bi bi-play"></i></a>							
+							<a class="video-vemo-icon venobox vbox-item" data-vbtype="video" data-autoplay="true" href="https://newbrockmlc.mcardi.com/assets/videos/Commercial%20Building%20Division%20Promo.mp4"><i class="bi bi-play"></i></a>							
 						</div>
 						<div class="call-do-title">
 							<h2>Specialist In Commercial </h2>
