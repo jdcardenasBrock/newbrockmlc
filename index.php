@@ -23,7 +23,12 @@
 	}
 	/* .slider-sub-title h4, .slider-discripton p{
 		display:none;
-	} */		
+	} */	
+	@media (min-width: 768px) { 
+		#testimonial-mt{
+			margin-top: -155px;
+		}
+	 }	
 </style>
 	<!--==================================================-->
 	<!-- Start Euildint Slider Style Two Area -->
@@ -626,7 +631,8 @@
 	<div class="testimonial-area wow animate__slideInUp mt-100 mb-100" >
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-5 col-md-12">
+				<a href="our_clients.php">
+				<div class="col-lg-5 col-md-12">					
 					<!-- start section title -->
 					<div class="section-title">
 						<div class="section-shape">
@@ -686,7 +692,7 @@
 							</div> 
 							<!-- End testi single box -->
 						</div>
-						<div class="col-lg-6 col-md-6 mt-180">
+						<div class="col-lg-6 col-md-6 mt-180" id="testimonial-mt">
 							<!-- start testi single box -->
 							<div class="testi-single-box two wow animate__slideInUp">
 								<div class="testi-items-box">
@@ -813,6 +819,7 @@
 						</div>
 					</div>
 				</div>
+				</a>
 			</div>
 		</div>
 	</div>
