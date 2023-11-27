@@ -29,11 +29,13 @@
 	}	
 	.vbox-inline{
 		width: 960px;
-    	height: 720px;
+    	height: auto;
 		margin-top: -200px !important;
+		overflow: hidden;
 	}
 	.vbox-inline video{
 		width: 100% !important;
+		height: auto;
 	}
 	@media (min-width: 768px) { 
 		#testimonial-mt{
