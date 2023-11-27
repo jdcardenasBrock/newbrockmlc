@@ -526,7 +526,7 @@
 					<!-- End section title -->
 				</div>
 			</div>
-			<div class="row">
+			<div class="row d-flex justify-content-around">
 				<div class="col-lg-4 col-md-6">
 					<!-- start service single box -->
 					<div class="service-single-box wow animate__slideInUp">
