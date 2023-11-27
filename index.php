@@ -32,6 +32,9 @@
     	height: 720px;
 		margin-top: -200px !important;
 	}
+	.vbox-inline video{
+		width: 100% !important;
+	}
 	@media (min-width: 768px) { 
 		#testimonial-mt{
 			margin-top: -155px;
