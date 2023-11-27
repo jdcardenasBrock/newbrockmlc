@@ -15,7 +15,7 @@
 		-webkit-box-orient: vertical;
 		overflow: hidden; 
 	}
-	.slider-description, .slider-main-title, .section-main-title.contact, .contact-discription{
+	.slider-description, .slider-main-title, .section-main-title.contact, .contact-discription, .faq-title h4{
 		text-shadow: 1px 4px 6px black;
 	}
 	.slider-main-title{
@@ -39,9 +39,9 @@
 		width: 80% !important;
 		height: 80%;
 	}
-	.faq-single-box:after{
+	/* .faq-single-box:after{
 		background: linear-gradient(to bottom, rgba(255,0,0,0) 0%,rgba(255,0,0,0.65) 100%);
-	}
+	} */
 	@media (min-width: 768px) { 
 		#testimonial-mt{
 			margin-top: -155px;
