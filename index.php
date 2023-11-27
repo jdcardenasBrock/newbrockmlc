@@ -39,7 +39,7 @@
 						</div>
 						<div class="slider-main-title">
 							<h1>Brock Mountain meets the rigorous</h1>
-							<h1>demands of commercial building.</h1>
+							<h1>demands of restoration.</h1>
 						</div>
 						<div class="slider-discripton">
 							<!-- <p>I have been a loyal customer of this auto parts company for years and I cannot recommend them enough. Their extensive selection of high-quality parts and accessories.of high-quality parts and</p> -->
@@ -67,7 +67,7 @@
 						</div>
 						<div class="slider-main-title">
 							<h1>Brock Mountain meets the rigorous</h1>
-							<h1>demands of restoration.</h1>
+							<h1>demands of building.</h1>
 						</div>
 						<div class="slider-discripton">
 							<!-- <p>I have been a loyal customer of this auto parts company for years and I cannot recommend them enough. Their extensive selection of high-quality parts and accessories.of high-quality parts and</p> -->
@@ -123,7 +123,7 @@
 						</div>
 						<div class="slider-main-title">
 							<h1>Brock Mountain meets the rigorous</h1>
-							<h1>demands of restoration.</h1>
+							<h1>demands of building.</h1>
 						</div>
 						<div class="slider-discripton">
 							<!-- <p>I have been a loyal customer of this auto parts company for years and I cannot recommend them enough. Their extensive selection of high-quality parts and accessories.of high-quality parts and</p> -->
@@ -179,7 +179,7 @@
 						</div>
 						<div class="slider-main-title">
 							<h1>Brock Mountain meets the rigorous</h1>
-							<h1>demands of restoration.</h1>
+							<h1>demands of building.</h1>
 						</div>
 						<div class="slider-discripton">
 							<!-- <p>I have been a loyal customer of this auto parts company for years and I cannot recommend them enough. Their extensive selection of high-quality parts and accessories.of high-quality parts and</p> -->
@@ -235,7 +235,7 @@
 						</div>
 						<div class="slider-main-title">
 							<h1>Brock Mountain meets the rigorous</h1>
-							<h1>demands of restoration.</h1>
+							<h1>demands of building.</h1>
 						</div>
 						<div class="slider-discripton">
 							<!-- <p>I have been a loyal customer of this auto parts company for years and I cannot recommend them enough. Their extensive selection of high-quality parts and accessories.of high-quality parts and</p> -->
