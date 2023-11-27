@@ -495,7 +495,7 @@
 				<div class="col-lg-12">
 					<div class="single-video text-center">
 						<div class="video-icon">
-							<div id="titi" style="display:none;" width="90%">
+							<div id="building_video" style="display:none; width: 90%">
 								<video controls preload="metadata">
 									<source src="assets/videos/Commercial_Building_Division_Promo.mp4" type="video/mp4">
 									Your browser does not support the video tag.
