@@ -29,6 +29,7 @@
 	}	
 	.vbox-inline{
 		width: 100%;
+		height: auto;
 	}
 	@media (min-width: 768px) { 
 		#testimonial-mt{
