@@ -948,7 +948,7 @@
 								<!-- <div class="faq-icon-thumb">
 									<img src="assets/images/resource/faq-icon.png" alt="">
 								</div> -->
-								<div class="faq-title" style="margin-bottom: 200px">
+								<div class="faq-title" style="margin-bottom: 215px">
 									<h4>We Have Many Happy Clients Allover World Wide</h4>
 									<!-- <span><i class="bi bi-chevron-double-right"></i> Award Wining Agency</span>
 									<span><i class="bi bi-chevron-double-right"></i> Higest Success Rates</span> -->
