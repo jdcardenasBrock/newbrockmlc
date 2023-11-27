@@ -24,6 +24,12 @@
 	/* .slider-sub-title h4, .slider-discripton p{
 		display:none;
 	} */
+	.service-single-box-one::before {    
+    	background: url(../images/home/Home_12 whatwedo-1.jpg);
+	}
+	.service-single-box-two::before {    
+    	background: url(../images/home/Home_13 whatwedo-1.jpg);
+	}
 </style>
 	<!--==================================================-->
 	<!-- Start Euildint Slider Style Two Area -->
@@ -529,9 +535,9 @@
 			<div class="row d-flex justify-content-around">
 				<div class="col-lg-4 col-md-6">
 					<!-- start service single box -->
-					<div class="service-single-box wow animate__slideInUp">
+					<div class="service-single-box service-single-box-one wow animate__slideInUp">
 						<div class="service-thumb">
-							<img src="assets/images/resource/service1.png" alt="">
+							<img src="assets/images/home/Home_12 whatwedo-2.jpg" alt="">
 						</div>
 						<div class="service-content">
 							<div class="service-icon">
@@ -551,9 +557,9 @@
 				</div>
 				<div class="col-lg-4 col-md-6">
 					<!-- start service single box -->
-					<div class="service-single-box wow animate__slideInUp">
+					<div class="service-single-box service-single-box-two wow animate__slideInUp">
 						<div class="service-thumb">
-							<img src="assets/images/resource/service2.png" alt="">
+							<img src="assets/images/home/Home_13 whatwedo-2.jpg" alt="">
 						</div>
 						<div class="service-content">
 							<div class="service-icon">

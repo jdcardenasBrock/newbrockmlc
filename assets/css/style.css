@@ -777,13 +777,13 @@ Tags: architect, building company, construction, construction template, construc
     z-index: 1;
     overflow: hidden;
 }
-
+ 
 .service-single-box::before {
     position: absolute;
     content: "";
     height: 100%;
     width: 0;
-    background: url(../images/resource/service-hover.png);
+    /* background: url(../images/resource/service-hover.png); */
     right: 0;
     top: 0;
     z-index: -1;
