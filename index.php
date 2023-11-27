@@ -642,8 +642,8 @@
 							<h4>TESTIMONIALS</h4>
 						</div>
 						<div class="section-main-title">
-							<h2><a href="our_clients.php">Our Happy Clients</a></h2>
-							<h2><a href="our_clients.php">Says About Us</a></h2>
+							<h2><a href="our_clients.php" style="text-decoration: none;">Our Happy Clients</a></h2>
+							<h2><a href="our_clients.php" style="text-decoration: none;">Says About Us</a></h2>
 						</div>
 					</div>
 					<!-- End section title -->
@@ -651,16 +651,21 @@
 						<div class="testi_list owl-carousel">
 							<div class="col-lg-12">
 								<div class="testi-text">
-									<p>"Just did another close up tour of the beach.  Seeing a lot of your work.  Well Done!  I'm impressed beyond words!!!!  Thank you for what you do!  I'm telling everyone I know"<br>
+									<p>
+									<a href="our_clients.php" style="text-decoration: none;">	
+									"Just did another close up tour of the beach.  Seeing a lot of your work.  Well Done!  I'm impressed beyond words!!!!  Thank you for what you do!  I'm telling everyone I know"<br>
 									<strong>(Matt Reinhart - Volusia County Commissioner)</strong>
+									</a>
 									</p>
 								</div>
 							</div>
 							<div class="col-lg-12">
 								<div class="testi-text">
 									<p>
+									<a href="our_clients.php" style="text-decoration: none;">
 									“Your team has done the unthinkable. “Your efforts are extremely appreciated and more work is coming on other projects””<br>
 									<strong>(Property Manager)</strong>
+									</a>
 									</p>
 								</div>
 							</div>
@@ -682,8 +687,14 @@
 											<span>A client well pleased with Team BMLC!</span>
 										</div>
 										<div class="testi-discription">
-											<p>“You were in a league of our own and amazing!  Good work team!”</p>
-										</div>
+											
+											<p>
+												<a href="our_clients.php" style="text-decoration: none;">
+												“You were in a league of our own and amazing!  Good work team!”
+												</a>
+											</p>
+	 										
+											</div>
 										<div class="testi-icon-thumb">
 											<img src="assets/images/testimonial/testi-icon.png" alt="">
 										</div>
@@ -707,8 +718,14 @@
 											<span>Building Engineer</span>
 										</div>
 										<div class="testi-discription">
-											<p>It has been a pleasure to watch a crew that is organized, moving along nicely with difficult sheet piling work. I am an engineer and have been around construction most of my life and your crew is the best I have seen!"</p>
-										</div>
+											
+											<p>
+												<a href="our_clients.php" style="text-decoration: none;">
+												It has been a pleasure to watch a crew that is organized, moving along nicely with difficult sheet piling work. I am an engineer and have been around construction most of my life and your crew is the best I have seen!"
+												</a>
+											</p>
+	 										
+											</div>
 										<div class="testi-icon-thumb">
 											<img src="assets/images/testimonial/testi-icon.png" alt="">
 										</div>
@@ -732,8 +749,14 @@
 											<span>General Manager of Universal Engineering</span>
 										</div>
 										<div class="testi-discription">
-											<p>“Nicely done Quincey!  You guys are first class!”</p>
-										</div>
+											
+											<p>
+												<a href="our_clients.php" style="text-decoration: none;">
+												“Nicely done Quincey!  You guys are first class!”
+												</a>
+											</p>
+	 										
+											</div>
 										<div class="testi-icon-thumb">
 											<img src="assets/images/testimonial/testi-icon.png" alt="">
 										</div>
@@ -757,8 +780,14 @@
 											<span>Latrice Bryant-Robinson Daytona Beach Shores</span>
 										</div>
 										<div class="testi-discription">
-											<p>What an amazing, blessed and anointed organization you have created.. We will forever be grateful for Brock Mountain for saving our home and hopefully our generations long past when we are gone can have a safe place to enjoy because of Brock Mountain and their amazing staff!</p>
-										</div>
+											
+											<p>
+												<a href="our_clients.php" style="text-decoration: none;">
+												What an amazing, blessed and anointed organization you have created.. We will forever be grateful for Brock Mountain for saving our home and hopefully our generations long past when we are gone can have a safe place to enjoy because of Brock Mountain and their amazing staff!
+												</a>
+											</p>
+	 										
+											</div>
 										<div class="testi-icon-thumb">
 											<img src="assets/images/testimonial/testi-icon.png" alt="">
 										</div>
@@ -782,8 +811,14 @@
 											<span>Engineer representing the HOA</span>
 										</div>
 										<div class="testi-discription">
-											<p>"I simply can't understand how contractors that have been doing this for 30 years don't look as good as your first one. You have proven your abilities and I will be sending you lots of work!".</p>
-										</div>
+											
+											<p>
+												<a href="our_clients.php" style="text-decoration: none;">
+												"I simply can't understand how contractors that have been doing this for 30 years don't look as good as your first one. You have proven your abilities and I will be sending you lots of work!".
+												</a>
+											</p>
+	 										
+											</div>
 										<div class="testi-icon-thumb">
 											<img src="assets/images/testimonial/testi-icon.png" alt="">
 										</div>
@@ -807,8 +842,14 @@
 											<span>Michelle Pace Wood</span>
 										</div>
 										<div class="testi-discription">
-											<p>“Shout out to Brock Mountain Land Company, LLC & Eric Burns for the great expansion & renovation job they did for Dwight & JR at Small Business Alternatives - Candler’s local accounting firm. If you need any work done. Let’s keep local money local. Thanks again Eric”</p>
-										</div>
+											
+											<p>
+												<a href="our_clients.php" style="text-decoration: none;">
+												“Shout out to Brock Mountain Land Company, LLC & Eric Burns for the great expansion & renovation job they did for Dwight & JR at Small Business Alternatives - Candler’s local accounting firm. If you need any work done. Let’s keep local money local. Thanks again Eric”
+												</a>
+											</p>
+	 										
+											</div>
 										<div class="testi-icon-thumb">
 											<img src="assets/images/testimonial/testi-icon.png" alt="">
 										</div>
