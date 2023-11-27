@@ -565,7 +565,7 @@
 							</div>
 							<div class="service-text">
 								<h4><a href="service-details.html">Restoration</a></h4>
-								<p>Brock Mountain Meets The Rigorous Demands of Restoration</p>
+								<p>Our sitework teams & equipment accessibility combined with our...</p>
 								<a href="restoration.php">Read More <i class="bi bi-arrow-right"></i></a>
 							</div>
 						</div>
@@ -587,7 +587,7 @@
 							</div>
 							<div class="service-text">
 								<h4><a href="service-details.html">Building</a></h4>
-								<p>Brock Mountain Meets The Rigorous Demands of Building</p>
+								<p>Our premier project management solutions are trusted by industrial...</p>
 								<a href="building.php">Read More <i class="bi bi-arrow-right"></i></a>
 							</div>
 						</div>
@@ -906,7 +906,7 @@
 								<h2>Questions & Answers</h2>
 							</div>
 							<div class="faq-discripition">
-								<p>Providing legal advice, contract drafting, compliance assistance, intellectual property protection, and other legal support for businesses. Creating visual content, such as logos, brochures, infographics. The timeline for seeing results depends on the specific services you choose and the current state of your business. </p>
+								<p>Write some related text here</p>
 							</div>
 						</div>
 						<!-- start accordion -->
@@ -937,18 +937,18 @@
 				</div>
 				<div class="col-lg-6 col-md-12">
 					<div class="single-video style-two text-center">
-						<div class="video-icon style-two">
+						<!-- <div class="video-icon style-two">
 							<a class="video-vemo-icon venobox vbox-item" data-vbtype="youtube" data-autoplay="true" href="https://youtu.be/BS4TUd7FJSg"><i class="bi bi-play"></i></a>
-						</div>
+						</div> -->
 						<div class="faq-single-box wow animate__slideInUp" style="box-shadow: 10px -10px 50px 5px black">
 							<div class="faq-item-content">
-								<div class="faq-icon-thumb">
+								<!-- <div class="faq-icon-thumb">
 									<img src="assets/images/resource/faq-icon.png" alt="">
-								</div>
+								</div> -->
 								<div class="faq-title">
 									<h4>We Have Many Happy Clients Allover World Wide</h4>
-									<span><i class="bi bi-chevron-double-right"></i> Award Wining Agency</span>
-									<span><i class="bi bi-chevron-double-right"></i> Higest Success Rates</span>
+									<!-- <span><i class="bi bi-chevron-double-right"></i> Award Wining Agency</span>
+									<span><i class="bi bi-chevron-double-right"></i> Higest Success Rates</span> -->
 								</div>
 							</div>
 						</div>
