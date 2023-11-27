@@ -24,10 +24,10 @@
 	/* .slider-sub-title h4, .slider-discripton p{
 		display:none;
 	} */
-	.service-single-box-one::before {    
+	#service-single-box-one::before {    
     	background: url(assets/images/home/Home_12 whatwedo-1.jpg);
 	}
-	.service-single-box-two::before {    
+	#service-single-box-two::before {    
     	background: url(/assets/images/home/Home_13 whatwedo-1.jpg);
 	}
 </style>
@@ -535,7 +535,7 @@
 			<div class="row d-flex justify-content-around">
 				<div class="col-lg-4 col-md-6">
 					<!-- start service single box -->
-					<div class="service-single-box service-single-box-one wow animate__slideInUp">
+					<div class="service-single-box wow animate__slideInUp" id="service-single-box-one">
 						<div class="service-thumb">
 							<img src="assets/images/home/Home_12 whatwedo-2.jpg" alt="">
 						</div>
@@ -557,7 +557,7 @@
 				</div>
 				<div class="col-lg-4 col-md-6">
 					<!-- start service single box -->
-					<div class="service-single-box service-single-box-two wow animate__slideInUp">
+					<div class="service-single-box wow animate__slideInUp" id="service-single-box-two">
 						<div class="service-thumb">
 							<img src="assets/images/home/Home_13 whatwedo-2.jpg" alt="">
 						</div>
