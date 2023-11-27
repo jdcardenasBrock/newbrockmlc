@@ -23,11 +23,7 @@
 	}
 	/* .slider-sub-title h4, .slider-discripton p{
 		display:none;
-	} */
-	
-	#service-single-box-two::before {    
-    	background: url(/assets/images/home/Home_13 whatwedo-1.jpg);
-	}
+	} */		
 </style>
 	<!--==================================================-->
 	<!-- Start Euildint Slider Style Two Area -->
