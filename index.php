@@ -23,7 +23,10 @@
 	}
 	/* .slider-sub-title h4, .slider-discripton p{
 		display:none;
-	} */	
+	} */
+	.testimonial-area a:hover{
+		color: #141422;
+	}	
 	@media (min-width: 768px) { 
 		#testimonial-mt{
 			margin-top: -155px;
