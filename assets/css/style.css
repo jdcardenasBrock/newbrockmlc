@@ -57,7 +57,7 @@ Tags: architect, building company, construction, construction template, construc
 ===================================================*/
 
 .topbar-area {
-    background: #235f55;
+    background: #266041;
     padding: 3px 0;
     position: relative;
     z-index: 1;
@@ -87,7 +87,7 @@ Tags: architect, building company, construction, construction template, construc
 .topbar-discription a {
     font-size: 14px;
     font-weight: 400;
-    color: #235f55;
+    color: #266041;
     display: inline-block;
 }
 
@@ -174,7 +174,7 @@ Tags: architect, building company, construction, construction template, construc
 }
 
 .header-munu ul li a:hover{
-    color:#235f55;
+    color:#266041;
 }
 
 .header-munu ul li a::before {
@@ -185,7 +185,7 @@ Tags: architect, building company, construction, construction template, construc
     left: 0;
     right: 0;
     top: 58px;
-    background: #235f55;
+    background: #266041;
     margin: auto;
     transition: .5s;
 }
@@ -231,7 +231,7 @@ Tags: architect, building company, construction, construction template, construc
 }
 
 .header-social ul li a.acitve i {
-    color: #235f55;
+    color: #266041;
 }
 
 /* sticky css */
@@ -266,7 +266,7 @@ Tags: architect, building company, construction, construction template, construc
     -webkit-box-shadow: 0px 1px 3px rgb(0 0 0 / 30%);
     transition: .5s;
     visibility: hidden;
-    border-top: 2px solid #235f55;
+    border-top: 2px solid #266041;
     opacity: 0;
     z-index: 11;
 }
@@ -289,7 +289,7 @@ Tags: architect, building company, construction, construction template, construc
 
 .header-munu ul .sub-menu ul li a:hover {
     margin-left: 7px !important;
-    color: #235f55;
+    color: #266041;
 }
 
 .header-munu ul .sub-menu ul li a::before {
@@ -354,7 +354,7 @@ Tags: architect, building company, construction, construction template, construc
     color: #FFF;
     font-size: 18px;
     font-weight: 500;
-    background: #235f55;
+    background: #266041;
     padding: 14px 28px;
     border-radius: 3px;
     position: relative;
@@ -364,7 +364,7 @@ Tags: architect, building company, construction, construction template, construc
 }
 
 .eulding-btn a:hover{
-    color: #235f55;
+    color: #266041;
 }
 
 .eulding-btn a::before{
@@ -563,7 +563,7 @@ Tags: architect, building company, construction, construction template, construc
 
 .section-sub-title h4 {
     font-size: 22px;
-    color: #235f55;
+    color: #266041;
     font-weight: 500;
     text-transform: uppercase;
     line-height: 26px;
@@ -684,7 +684,7 @@ Tags: architect, building company, construction, construction template, construc
 
 .about-area .barfiller .tip {
     font-size: 16px;
-    color: #235f55;
+    color: #266041;
     font-weight: 500;
     top: -37px;
     padding: 1px 6px;
@@ -706,7 +706,7 @@ Tags: architect, building company, construction, construction template, construc
 }
 
 .about-area span.fill {
-    background: #235f55!important;
+    background: #266041!important;
     border-radius: 7px;
 }
 
@@ -859,7 +859,7 @@ Tags: architect, building company, construction, construction template, construc
 }
 
 .service-text a i {
-    color: #235f55;
+    color: #266041;
     margin-left: 5px;
     font-size: 17px;
 }
@@ -879,7 +879,7 @@ Tags: architect, building company, construction, construction template, construc
 
 .service-title h4 {
     font-size: 24px;
-    color: #235f55;
+    color: #266041;
     font-weight: 500;
 }
 
@@ -1061,7 +1061,7 @@ Tags: architect, building company, construction, construction template, construc
 
 .accordion li p span {
     margin-bottom: 13px;
-    color: #235f55;
+    color: #266041;
     font-size: 16px;
     font-weight: 500;
 }
@@ -1934,7 +1934,7 @@ Tags: architect, building company, construction, construction template, construc
 }
 
 .slider-social-menu ul li a:hover i{
-    border: 1px solid #235f55;
+    border: 1px solid #266041;
 }
 
 .slider-social-menu ul li a i::after{
@@ -1944,7 +1944,7 @@ Tags: architect, building company, construction, construction template, construc
     right: 0;
     top: 0;
     bottom: 0;
-    background: #235f55;
+    background: #266041;
     margin:auto;
     transform: scale(0);
     z-index: -1;
@@ -2005,7 +2005,7 @@ Tags: architect, building company, construction, construction template, construc
     background: #272a2c;
     text-align: center;
     border-radius: 50%;
-    color: #235f55;
+    color: #266041;
     font-size: 16px;
     font-weight: 400;
     transition: .5s;
@@ -2034,11 +2034,11 @@ Tags: architect, building company, construction, construction template, construc
 }
 
 .feature-items-box:hover .feature-text a{
-    color: #235f55;
+    color: #266041;
 }
 
 .feature-text a i {
-    color: #235f55;
+    color: #266041;
     margin-left: 3px;
 }
 
@@ -2058,7 +2058,7 @@ Tags: architect, building company, construction, construction template, construc
     bottom: 0;
     width: 280px;
     height: 250px;
-    background: #235f55;
+    background: #266041;
     padding: 60px 41px 0;
 }
 
@@ -2146,7 +2146,7 @@ Tags: architect, building company, construction, construction template, construc
 }
 
 .history-single-box:hover .history-content a{
-    color: #235f55;
+    color: #266041;
 }
 
 /* history items box css */
@@ -2183,7 +2183,7 @@ Tags: architect, building company, construction, construction template, construc
 }
 
 .history-items-box:hover .history-text h4 a{
-    color: #235f55;
+    color: #266041;
 }
 
 .history-icon a i {
@@ -2244,7 +2244,7 @@ Tags: architect, building company, construction, construction template, construc
 .video-icon a {
     height: 120px;
     width: 120px;
-    background: #235f55;
+    background: #266041;
     text-align: center;
     display: inline-block;
     border: 10px solid #fff;
@@ -2294,7 +2294,7 @@ Tags: architect, building company, construction, construction template, construc
 }
 
 .service-items-box:hover .service-items-content h4 a{
-    color: #235f55;
+    color: #266041;
 }
 
 .service-items-content p {
@@ -2325,7 +2325,7 @@ Tags: architect, building company, construction, construction template, construc
 }
 
 .service-items-box:hover .service-items-icon{
-    background: #235f55;
+    background: #266041;
 }
 
 .service-items-icon img{
@@ -2368,7 +2368,7 @@ Tags: architect, building company, construction, construction template, construc
 
 .team-icon ul {
     list-style: none;
-    background: #235f55;
+    background: #266041;
     padding: 3px 12px 11px;
 }
 
@@ -2411,7 +2411,7 @@ Tags: architect, building company, construction, construction template, construc
     left: 0;
     right: 0;
     bottom: 0;
-    background: #235f55;
+    background: #266041;
     transform: scale(0);
     z-index: -1;
     transition: .5s;
@@ -2448,7 +2448,7 @@ Tags: architect, building company, construction, construction template, construc
 }
 
 .team-items-box:hover .team-content h4 a{
-    color: #235f55;
+    color: #266041;
 }
 
 .team-content span {
@@ -2552,7 +2552,7 @@ Tags: architect, building company, construction, construction template, construc
 }
 
 .blog-single-box.style-two:hover .blog-meta-info span i{
-    color: #235f55;
+    color: #266041;
 }
 
 .blog-title.style-two {
@@ -2582,7 +2582,7 @@ Tags: architect, building company, construction, construction template, construc
 }
 
 .blog-single-box.style-two:hover .blog-icon a i{
-    color: #235f55;
+    color: #266041;
 }
 
 
@@ -2655,13 +2655,13 @@ section.banner-section.style-three {
 }
 
 .about-list ul li:hover{
-    color: #235f55;
+    color: #266041;
 }
 
 .about-list ul li i {
     font-size: 20px;
     margin-right: 9px;
-    color: #235f55;
+    color: #266041;
 }
 
 
@@ -2683,7 +2683,7 @@ section.banner-section.style-three {
     content: "";
     height: 3px;
     width: 0;
-    background: #235f55;
+    background: #266041;
     left: 0;
     top: 0;
     right: 0;
@@ -2716,7 +2716,7 @@ section.banner-section.style-three {
     content: "";
     width: 100%;
     height: 100%;
-    background:#235f55;
+    background:#266041;
     top: 0;
     left: 0;
     right: 0;
@@ -2768,7 +2768,7 @@ section.banner-section.style-three {
 .service-items-icon-two i {
     height: 40px;
     width: 40px;
-    background: #235f55;
+    background: #266041;
     display: inline-block;
     text-align: center;
     line-height: 40px;
@@ -2817,7 +2817,7 @@ section.banner-section.style-three {
 }
 
 .service-disctription span a {
-    color: #235f55;
+    color: #266041;
     font-size: 18px;
     font-weight: 400;
     text-decoration-line: underline;
@@ -2896,7 +2896,7 @@ section.banner-section.style-three {
 }
 
 .faq-icon-thumb {
-    background: #235f55;
+    background: #266041;
     display: inline-block;
     height: 80px;
     width: 80px;
@@ -2957,7 +2957,7 @@ section.banner-section.style-three {
     height: 20px;
     line-height: 21px;
     display: inline-block;
-    background: #235f55;
+    background: #266041;
     text-align: center;
     border-radius: 50%;
     font-size: 10px;
@@ -3030,7 +3030,7 @@ section.banner-section.style-three {
     left: 0;
     right: 0;
     top: 0;
-    background: #235f55;
+    background: #266041;
     transform: scale(0);
     z-index: -1;
     border-radius: 50%;
@@ -3064,7 +3064,7 @@ section.banner-section.style-three {
 }
 
 .work-process-single-box:hover .work-process-content h4 a  {
-    color: #235f55;
+    color: #266041;
   } 
   
 .work-process-content p {
@@ -3183,7 +3183,7 @@ section.banner-section.style-three {
 }
 
 .testi-rating i {
-    color: #235f55;
+    color: #266041;
     font-size: 18px;
     margin-right: 5px;
 }
@@ -3236,7 +3236,7 @@ section.banner-section.style-three {
 .bratcome-text ul li {
     display: inline-block;
     margin-right: 15px;
-    color: #235f55;
+    color: #266041;
     font-size: 18px;
     font-weight: 500;
     line-height: 28px;
@@ -3244,7 +3244,7 @@ section.banner-section.style-three {
 
 .bratcome-text ul li a {
     display: inline-block;
-    color: #235f55;
+    color: #266041;
     font-size: 18px;
     line-height: 28px;
     font-weight: 500;
@@ -3304,7 +3304,7 @@ section.banner-section.style-three {
 }
 
 .service-details-content h4 a:hover{
-    color: #235f55;
+    color: #266041;
 }
 
 /* widget search box */
@@ -3328,11 +3328,11 @@ section.banner-section.style-three {
     position: relative;
     color: #606060;
     font-weight: 400;
-    border: 1px solid #235f55;
+    border: 1px solid #266041;
 }
 
 .widget_search input::placeholder {
-    color: #235f55;
+    color: #266041;
     font-size: 16px;
     font-weight: 500;
 }
@@ -3347,7 +3347,7 @@ button.icons {
     top: 0;
     height: 60px;
     width: 60px;
-    background: #235f55;
+    background: #266041;
     border-radius: 0 3px 3px 0;
 }
 
@@ -3375,7 +3375,7 @@ button.icons {
     content: "";
     height: 2px;
     width: 58px;
-    background: #235f55;
+    background: #266041;
     left: 0;
     bottom: -10px;
 }
@@ -3401,7 +3401,7 @@ button.icons {
     right: 0;
     margin: auto;
     transition: all 0.5s linear 0s;
-    background-color: #235f55;
+    background-color: #266041;
     content: "";
     z-index: -1;
 }
@@ -3459,7 +3459,7 @@ button.icons {
     width: 0%;
     right: 0;
     margin: auto;
-    background: #235f55;
+    background: #266041;
     z-index: -1;
     border-radius: 3px;
     transition: .5s;
@@ -3489,7 +3489,7 @@ button.icons {
 
 .blog-quote-conent i {
     font-size: 30px;
-    color: #235f55;
+    color: #266041;
 }
 
 .blog-quote-conent p {
@@ -3501,7 +3501,7 @@ button.icons {
 }
 
 .blog-quote-conent h4 {
-    color: #235f55;
+    color: #266041;
     font-size: 24px;
     font-weight: 500;
     position: relative;
@@ -3513,7 +3513,7 @@ button.icons {
     content: "";
     height: 3px;
     width: 40px;
-    background: #235f55;
+    background: #266041;
     top: 14px;
     left: -50px;
 }
@@ -3539,7 +3539,7 @@ button.icons {
     width: 90px;
     background: #fff;
     border: 10px solid #fff;
-    color: #235f55;
+    color: #266041;
     text-align: center;
     font-size: 50px;
     display: inline-block;
@@ -3565,7 +3565,7 @@ button.icons {
 }
 
 .blog-standard-meta span:hover{
-    color: #235f55;
+    color: #266041;
 }
 
 .blog-standard-meta span::before {
@@ -3588,7 +3588,7 @@ button.icons {
 }
 
 .blog-standard-content h4 a:hover{
-    color: #235f55;
+    color: #266041;
 }
 
 .blog-standard-content p {
@@ -3676,7 +3676,7 @@ button.icons {
     left: 0;
     right: 0;
     bottom: 0;
-    background: #235f55;
+    background: #266041;
     transform: scale(0);
     border-radius:50%;
     z-index: -1;
@@ -3708,7 +3708,7 @@ button.icons {
 
 .recent-widget-meta span i {
     margin-right: 5px;
-    color: #235f55;
+    color: #266041;
 }
 
 .recent-widget-title h4 a {
@@ -3721,7 +3721,7 @@ button.icons {
 }
 
 .recent-widget-title h4 a:hover{
-    color: #235f55;
+    color: #266041;
 }
 
 
@@ -3760,7 +3760,7 @@ button.icons {
 }
 
 .blog-details-meta span i{
-    color: #235f55;
+    color: #266041;
     margin-right: 5px;
 }
 
@@ -3786,11 +3786,11 @@ button.icons {
 }
 
 .blog-details-list ul li:hover{
-    color: #235f55;
+    color: #266041;
 }
 
 .blog-details-list ul li.active {
-    color: #235f55;
+    color: #266041;
 }
 
 .blog-details-list ul li i {
@@ -3842,7 +3842,7 @@ button.icons {
     width: 0%;
     right: 0;
     margin: auto;
-    background: #235f55;
+    background: #266041;
     z-index: -1;
     border-radius: 3px;
     transition: .5s;
@@ -3865,11 +3865,11 @@ button.icons {
     width: 45px;
     height: 45px;
     line-height: 45px;
-    border: 1px solid #235f55;
+    border: 1px solid #266041;
     display: inline-block;
     text-align: center;
     border-radius: 50%;
-    color: #235f55;
+    color: #266041;
     position: relative;
     z-index: 1;
     transition: .5s;
@@ -3886,7 +3886,7 @@ button.icons {
     left: 0;
     right: 0;
     bottom: 0;
-    background: #235f55;
+    background: #266041;
     border-radius: 50%;
     transform: scale(0);
     z-index: -1;
@@ -3959,7 +3959,7 @@ button.icons {
 
 .blog-details-area .owl-prev i {
     background: none;
-    color: #235f55;
+    color: #266041;
     margin-right: -10px;
     font-size: 16px;
 }
@@ -3976,7 +3976,7 @@ button.icons {
 
 .blog-details-area .owl-next i {
     background: none;
-    color: #235f55;
+    color: #266041;
     margin-left: -10px;
     font-size: 16px;
 }
@@ -4002,7 +4002,7 @@ button.icons {
     bottom: -10px;
     width: 70px;
     height: 3px;
-    background: #235f55;
+    background: #266041;
     content: "";
     left: 0;
 }
@@ -4096,7 +4096,7 @@ button.icons {
     width: 0%;
     right: 0;
     margin: auto;
-    background: #235f55;
+    background: #266041;
     z-index: -1;
     border-radius: 3px;
     transition: .5s;
@@ -4121,7 +4121,7 @@ button.icons {
     bottom: -10px;
     width: 70px;
     height: 3px;
-    background: #235f55;
+    background: #266041;
     content: "";
     left: 0;
 }
@@ -4166,7 +4166,7 @@ button.icons {
     width: 210px;
     height: 60px;
     border-radius: 3px;
-    background-color: #235f55;
+    background-color: #266041;
     border: 0;
     outline: 0;
     font-size: 19px;
@@ -4265,7 +4265,7 @@ button.icons {
 
 .project-rating i {
     margin: 12px 5px 30px;
-    color: #235f55;
+    color: #266041;
 }
 
 .project-details-area .title h4 {
@@ -4297,7 +4297,7 @@ button.icons {
     -moz-border-radius: 50%;
     -ms-border-radius: 50%;
     -o-border-radius: 50%;
-    background: #235f55;
+    background: #266041;
 }
 
 
@@ -4381,7 +4381,7 @@ button.icons {
     left: 0;
     right: 0;
     bottom: 0;
-    background: #235f55;
+    background: #266041;
     border-radius: 50%;
     transform: scale(0);
     transition: .5s;
@@ -4451,7 +4451,7 @@ span.process-bar {
 }
 
 span.fill {
-    background: #235f55!important;
+    background: #266041!important;
     border-radius: 3px;
 }
 
@@ -4527,7 +4527,7 @@ span.fill {
 
 .contact-icon i {
     font-size: 40px;
-    color: #235f55;
+    color: #266041;
 }
 
 .contact-content h4 {
@@ -4681,7 +4681,7 @@ span.fill {
 .sidebar-group ul.list-style-one li i {
     font-size: 20px;
     font-weight: 600;
-    color: #235f55;
+    color: #266041;
     margin: 0 10px 0 0px;
 }
 
@@ -4712,7 +4712,7 @@ span.fill {
 
 .sidebar-group ul.social-box li a:hover {
     background: var(--primary-color);
-    color: #235f55;
+    color: #266041;
 }
 
 
@@ -5002,7 +5002,7 @@ span.flaticon-multiply i {
     color: #fff;
     top: 3px;
     z-index: 1;
-    background: #235f55;
+    background: #266041;
 }
 
 .top-wrap .go-top-button i {
@@ -5025,7 +5025,7 @@ span.flaticon-multiply i {
     animation: ripple 1.6s ease-out infinite;
     opacity: 0;
     background-image: -moz-linear-gradient(0deg, #69DDCC 0%, #69DDCC 100%);
-    background-image: -webkit-linear-gradient(0deg, #235f55 0%, #235f55 100%);
+    background-image: -webkit-linear-gradient(0deg, #266041 0%, #266041 100%);
     border-radius: 100%;
 }
 
@@ -5085,7 +5085,7 @@ span.flaticon-multiply i {
     border-radius: 50%;
     transition: all 1s 1s ease;
     border: 3px solid transparent;
-    border-top-color: #235f55;
+    border-top-color: #266041;
     -webkit-animation: spin 1.5s linear infinite;
     -moz-animation: spin 1.5s linear infinite;
     -o-animation: spin 1.5s linear infinite;
