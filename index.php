@@ -513,7 +513,7 @@
 					<!-- start section title -->
 					<div class="section-title text-center">
 						<div class="section-shape">
-							<img src="assets/images/about/section-shape.png" alt="">
+							<img src="assets/images/resource/section-shape.png" alt="">
 						</div>
 						<div class="section-sub-title">
 							<h4>WHAT WE DO</h4>
@@ -527,7 +527,7 @@
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-lg-6 col-md-6">
+				<div class="col-lg-4 col-md-6">
 					<!-- start service single box -->
 					<div class="service-single-box wow animate__slideInUp">
 						<div class="service-thumb">
@@ -549,7 +549,7 @@
 					</div>
 					<!-- End service single box -->
 				</div>
-				<div class="col-lg-6 col-md-6">
+				<div class="col-lg-4 col-md-6">
 					<!-- start service single box -->
 					<div class="service-single-box wow animate__slideInUp">
 						<div class="service-thumb">
