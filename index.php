@@ -18,7 +18,7 @@
 	.slider-description, .slider-main-title{
 		text-shadow: 1px 1px 2px black;
 	}
-	.slider-sub-title, .slider-discripton{
+	.slider-sub-title h4, .slider-discripton p{
 		display:none;
 	}
 </style>
