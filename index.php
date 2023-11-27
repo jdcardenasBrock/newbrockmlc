@@ -29,7 +29,7 @@
 	}	
 	.vbox-inline{
 		width: 960px;
-    	height: auto;
+    	height: 720px;
 		margin-top: -200px !important;
 		overflow: hidden;
 	}
