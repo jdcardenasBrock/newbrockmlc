@@ -19,7 +19,7 @@
 		text-shadow: 1px 4px 6px black;
 	}
 	.slider-main-title{
-		min-height: 350px;
+		min-height: 300px;
 	}
 	/* .slider-sub-title h4, .slider-discripton p{
 		display:none;
