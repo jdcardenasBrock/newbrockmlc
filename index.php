@@ -543,7 +543,7 @@
 								<a href="#">Read More <i class="bi bi-arrow-right"></i></a>
 							</div>
 						</div>
-						<div class="service-title" style="right: -50%">
+						<div class="service-title" style="right: -51%">
 							<h4>Restoration</h4>
 						</div>
 					</div>
