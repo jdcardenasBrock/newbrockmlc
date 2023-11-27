@@ -402,9 +402,9 @@
 				<div class="col-lg-4 col-md-6">
 					<div class="history-single-box">
 						<div class="history-content">
-							<h4><a href="#">We Started From 1999</a></h4>
-							<p>Lorem ipsum dolor sit amet, consec tetur adipiscing elit. at euis mod dapibus to do.</p>
-							<a href="#">Discover More <i class="bi bi-arrow-right"></i></a>
+							<h4><a href="contact.php">We Started From 1999</a></h4>
+							<p>Write some related text here</p>
+							<a href="contact.php">Discover More <i class="bi bi-arrow-right"></i></a>
 						</div>
 					</div>
 				</div>
@@ -414,10 +414,10 @@
 							<img src="assets/images/home/Home_10-Our History1.jpg" alt="">
 							<div class="history-items-content">
 								<div class="history-text">
-									<h4><a href="#">Our Goal is To Make The Future Work Easier</a></h4>		
+									<h4><a href="contact.php">Our Goal is To Make The Future Work Easier</a></h4>		
 								</div>
 								<div class="history-icon">
-									<a href="#"><i class="bi bi-arrow-right"></i></a>
+									<a href="contact.php"><i class="bi bi-arrow-right"></i></a>
 								</div>
 							</div>
 						</div>
@@ -428,9 +428,9 @@
 						<div class="col-lg-5 col-md-6">
 							<div class="history-single-box">
 								<div class="history-content">
-									<h4><a href="#">We Started From 1999</a></h4>
-									<p>Lorem ipsum dolor sit amet, consec tetur adipiscing elit. at euis mod dapibus to do.</p>
-									<a href="#">Discover More <i class="bi bi-arrow-right"></i></a>
+									<h4><a href="contact.php">Some data about us</a></h4>
+									<p>Write some related text here</p>
+									<a href="contact.php">Discover More <i class="bi bi-arrow-right"></i></a>
 								</div>
 							</div>
 						</div>
