@@ -495,8 +495,6 @@
 				<div class="col-lg-12">
 					<div class="single-video text-center">
 						<div class="video-icon">
-							<a class="video-vemo-icon venobox vbox-item" data-autoplay="true" data-vbtype="inline" href="#building_video"><i class="bi bi-play"></i>
-							
 							<div id="building_video" style="display:none;">
 								<video constrols preload="metadata">
 									<source src="assets/videos/Commercial Building Division Promo.mp4" type="video/mp4">
@@ -504,8 +502,7 @@
 									Your browser does not support the video tag.
 								</video>
 							</div>
-							
-						</a>							
+							<a class="video-vemo-icon venobox vbox-item" data-autoplay="true" data-vbtype="inline" href="#building_video"><i class="bi bi-play"></i></a>							
 						</div>
 						<div class="call-do-title">
 							<h2>Specialist In Commercial </h2>
