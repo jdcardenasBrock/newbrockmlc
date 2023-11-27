@@ -631,7 +631,7 @@
 	<div class="testimonial-area wow animate__slideInUp mt-100 mb-100" >
 		<div class="container">
 			<div class="row">
-				<a href="our_clients.php">
+				
 				<div class="col-lg-5 col-md-12">					
 					<!-- start section title -->
 					<div class="section-title">
@@ -642,8 +642,8 @@
 							<h4>TESTIMONIALS</h4>
 						</div>
 						<div class="section-main-title">
-							<h2>Our Happy Clients </h2>
-							<h2>Says About Us</h2>
+							<h2><a href="our_clients.php">Our Happy Clients</a></h2>
+							<h2><a href="our_clients.php">Says About Us</a></h2>
 						</div>
 					</div>
 					<!-- End section title -->
@@ -819,7 +819,7 @@
 						</div>
 					</div>
 				</div>
-				</a>
+				
 			</div>
 		</div>
 	</div>
