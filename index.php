@@ -15,7 +15,7 @@
 		-webkit-box-orient: vertical;
 		overflow: hidden; 
 	}
-	.slider-description, .slider-main-title, .section-main-title.contact{
+	.slider-description, .slider-main-title, .section-main-title.contact, .contact-discription{
 		text-shadow: 1px 4px 6px black;
 	}
 	.slider-main-title{
