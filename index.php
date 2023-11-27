@@ -540,7 +540,7 @@
 							<div class="service-text">
 								<h4><a href="service-details.html">Restoration</a></h4>
 								<p>Brock Mountain Meets The Rigorous Demands of Restoration</p>
-								<a href="#">Read More <i class="bi bi-arrow-right"></i></a>
+								<a href="restoration.php">Read More <i class="bi bi-arrow-right"></i></a>
 							</div>
 						</div>
 						<div class="service-title" style="right: -51%">
@@ -562,7 +562,7 @@
 							<div class="service-text">
 								<h4><a href="service-details.html">Building</a></h4>
 								<p>Brock Mountain Meets The Rigorous Demands of Building</p>
-								<a href="#">Read More <i class="bi bi-arrow-right"></i></a>
+								<a href="building.php">Read More <i class="bi bi-arrow-right"></i></a>
 							</div>
 						</div>
 						<div class="service-title" style="right: -47%">
@@ -586,7 +586,7 @@
 	<div class="contact-area wow animate__slideInUp">
 		<!-- <div class="container"> -->
 			<div class="row align-items-center">
-				<div class="col-lg-8 col-md-12">
+				<div class="col-lg-8 col-md-12" style="padding-left: 15%">
 					<div class="container">
 						<div class="section-title">
 							<div class="section-main-title contact">
@@ -595,10 +595,10 @@
 							</div>
 						</div>
 						<div class="contact-discription">
-							<p>When does a mere internet 'SEO' company grow into a trusted partner that stays in front of the latest industry trends? When it's time to partner with Mocer, that's when. saidul islam</p>
+							<p>Brock Mountain Land Company, LLC provides clients the very best in excavation and building services. We take pride and are very passionate in the detail of each job.</p>
 						</div>
 						<div class="eulding-btn">
-							<a href="#">Contact Us <i class="bi bi-arrow-up-right-circle-fill"></i></a>
+							<a href="contac.php">Contact Us <i class="bi bi-arrow-up-right-circle-fill"></i></a>
 						</div>
 					</div>
 				</div>
