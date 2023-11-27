@@ -504,16 +504,16 @@
 	<!--==================================================-->
 
 	<!--==================================================-->
-	<!-- Start Euildint Service Style Two Area -->
+	<!-- Start Euildint Service Area -->
 	<!--==================================================-->
-	<div class="service-area animate__slideInUp">
+	<div class="service-area wow animate__slideInUp">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-12">
 					<!-- start section title -->
 					<div class="section-title text-center">
 						<div class="section-shape">
-							<img src="assets/images/resource/section-shape.png" alt="">
+							<img src="assets/images/about/section-shape.png" alt="">
 						</div>
 						<div class="section-sub-title">
 							<h4>WHAT WE DO</h4>
@@ -528,42 +528,76 @@
 			</div>
 			<div class="row">
 				<div class="col-lg-4 col-md-6">
-					<!-- start service items box -->
-					<div class="service-items-box">
-						<div class="service-items-content">
-							<h4><a href="#">Restoration</a></h4>
-							<p>Long established fact that reader will be distracted by the</p>
+					<!-- start service single box -->
+					<div class="service-single-box wow animate__slideInUp">
+						<div class="service-thumb">
+							<img src="assets/images/resource/service1.png" alt="">
 						</div>
-						<div class="service-items-thumb">
-							<img src="assets/images/home/Home_12-what_we_do-350.jpg" alt="">
-							<div class="service-items-icon">
-								<img src="assets/images/service/sercve-icon1.png" alt="">
+						<div class="service-content">
+							<div class="service-icon">
+								<img src="assets/images/resource/service-icon.png" alt="">
+							</div>
+							<div class="service-text">
+								<h4><a href="service-details.html">Mechanical Works</a></h4>
+								<p>Consectetur adipiscing elit, sed dots eiusmod tempor incid saidul</p>
+								<a href="#">Read More <i class="bi bi-arrow-right"></i></a>
 							</div>
 						</div>
+						<div class="service-title">
+							<h4>Petroleum Refinery</h4>
+						</div>
 					</div>
-					<!-- End service items box -->
+					<!-- End service single box -->
 				</div>
 				<div class="col-lg-4 col-md-6">
-					<!-- start service items box -->
-					<div class="service-items-box">
-						<div class="service-items-content">
-							<h4><a href="#">Building</a></h4>
-							<p>Long established fact that reader will be distracted by the</p>
+					<!-- start service single box -->
+					<div class="service-single-box wow animate__slideInUp">
+						<div class="service-thumb">
+							<img src="assets/images/resource/service2.png" alt="">
 						</div>
-						<div class="service-items-thumb">
-							<img src="assets/images/home/Home_13-what_we_do-350.jpg" alt="">
-							<div class="service-items-icon">
-								<img src="assets/images/service/sercve-icon2.png" alt="">
+						<div class="service-content">
+							<div class="service-icon">
+								<img src="assets/images/resource/service-icon.png" alt="">
+							</div>
+							<div class="service-text">
+								<h4><a href="service-details.html">Mechanical Works</a></h4>
+								<p>Consectetur adipiscing elit, sed dots eiusmod tempor incid saidul</p>
+								<a href="#">Read More <i class="bi bi-arrow-right"></i></a>
 							</div>
 						</div>
+						<div class="service-title">
+							<h4>Petroleum Refinery</h4>
+						</div>
 					</div>
-					<!-- End service items box -->
-				</div>				
+					<!-- End service single box -->
+				</div>
+				<div class="col-lg-4 col-md-6">
+					<!-- start service single box -->
+					<div class="service-single-box wow animate__slideInUp">
+						<div class="service-thumb">
+							<img src="assets/images/resource/service3.png" alt="">
+						</div>
+						<div class="service-content">
+							<div class="service-icon">
+								<img src="assets/images/resource/service-icon.png" alt="">
+							</div>
+							<div class="service-text">
+								<h4><a href="service-details.html">Mechanical Works</a></h4>
+								<p>Consectetur adipiscing elit, sed dots eiusmod tempor incid saidul</p>
+								<a href="#">Read More <i class="bi bi-arrow-right"></i></a>
+							</div>
+						</div>
+						<div class="service-title">
+							<h4>Petroleum Refinery</h4>
+						</div>
+					</div>
+					<!-- End service single box -->
+				</div>
 			</div>
 		</div>
 	</div>
 	<!--==================================================-->
-	<!-- End Euildint Service Style Two Area -->
+	<!-- End Euildint Service Area -->
 	<!--==================================================-->
 
 
