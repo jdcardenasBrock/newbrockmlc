@@ -495,19 +495,13 @@
 				<div class="col-lg-12">
 					<div class="single-video text-center">
 						<div class="video-icon">
-						<div id="titi" style="display:none;">
-							<video controls preload="metadata">
-								<source src="assets/videos/Commercial_Building_Division_Promo.mp4" type="video/mp4">
-								Your browser does not support the video tag.
-							</video>
+							<div id="titi" style="display:none;" width="90%">
+								<video controls preload="metadata">
+									<source src="assets/videos/Commercial_Building_Division_Promo.mp4" type="video/mp4">
+									Your browser does not support the video tag.
+								</video>
 							</div>
-
-						<div class="pulse-container">
-								<div class="pulse-box">
-								<a class="venobox play-icon icon-center" data-autoplay="true" data-vbtype="inline"
-									href="#titi"><i class="fa fa-play text-secondary"></i></a>
-								</div>
-							</div>							
+							<a class="video-vemo-icon venobox vbox-item" data-autoplay="true" data-vbtype="inline" href="#building_video"><i class="bi bi-play"></i></a>							
 						</div>
 						<div class="call-do-title">
 							<h2>Specialist In Commercial </h2>
