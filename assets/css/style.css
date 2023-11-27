@@ -2837,6 +2837,7 @@ section.banner-section.style-three {
     background: url(../images/home/brock_team-scaled-2.jpg);
     background-repeat: no-repeat;
     background-position: center;
+    background-size: cover;
 }
 
 .faq-content {

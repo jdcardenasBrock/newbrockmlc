@@ -401,14 +401,14 @@
 					<div class="faq-content">
 						<div class="section-title">
 							<div class="section-sub-title faq">
-								<h4>Frequently Asked Questions</h4>
+								<!-- <h4>Frequently Asked Questions</h4> -->
 							</div>
 							<div class="section-main-title faq">
-								<h2>Questions & Answers</h2>
+								<h2>We work with excelent people!</h2>
 							</div>
-							<div class="faq-discripition">
+							<!-- <div class="faq-discripition">
 								<p>Providing legal advice, contract drafting, compliance assistance, intellectual property protection, and other legal support for businesses. Creating visual content, such as logos, brochures, infographics. The timeline for seeing results depends on the specific services you choose and the current state of your business. </p>
-							</div>
+							</div> -->
 						</div>
 						<!-- start accordion -->
 						<!-- <div class="tab_container wow animate__slideInUp">
