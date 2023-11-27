@@ -30,6 +30,7 @@
 	.vbox-inline{
 		width: 100%;
 		height: auto;
+		margin-top: -100px;
 	}
 	@media (min-width: 768px) { 
 		#testimonial-mt{
