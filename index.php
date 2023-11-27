@@ -1,3 +1,4 @@
+<?php require 'header.php'; ?>
 <style>
 	.testi-discription p{
 		display: -webkit-box;
@@ -14,9 +15,10 @@
 		-webkit-box-orient: vertical;
 		overflow: hidden; 
 	}
+	.slider-description, .slider-main-title{
+		text-shadow: 1px 1px 2px black;
+	}
 </style>
-<?php require 'header.php'; ?>
-
 	<!--==================================================-->
 	<!-- Start Euildint Slider Style Two Area -->
 	<!--==================================================-->
