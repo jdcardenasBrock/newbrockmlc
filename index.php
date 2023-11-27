@@ -645,8 +645,8 @@
 							<h4>TESTIMONIALS</h4>
 						</div>
 						<div class="section-main-title">
-							<h2><a href="our_clients.php" style="text-decoration: none;">Our Happy Clients</a></h2>
-							<h2><a href="our_clients.php" style="text-decoration: none;">Says About Us</a></h2>
+							<a href="our_clients.php" style="text-decoration: none;"><h2>Our Happy Clients</h2></a>
+							<a href="our_clients.php" style="text-decoration: none;"><h2>Says About Us</h2></a>
 						</div>
 					</div>
 					<!-- End section title -->
