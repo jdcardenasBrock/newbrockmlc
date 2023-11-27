@@ -25,10 +25,10 @@
 		display:none;
 	} */
 	.service-single-box-one::before {    
-    	background: url(../images/home/Home_12 whatwedo-1.jpg);
+    	background: url(assets/images/home/Home_12 whatwedo-1.jpg);
 	}
 	.service-single-box-two::before {    
-    	background: url(../images/home/Home_13 whatwedo-1.jpg);
+    	background: url(/assets/images/home/Home_13 whatwedo-1.jpg);
 	}
 </style>
 	<!--==================================================-->
