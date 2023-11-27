@@ -788,10 +788,10 @@ Tags: architect, building company, construction, construction template, construc
     top: 0;
     z-index: -1;
     transition: .5s;
+    filter: brightness(0.5);
 }
 #service-single-box-one::before {    
-    background: url(../images/home/Home_12_whatwedo-1.jpg);
-    filter: grayscale(60%);
+    background: url(../images/home/Home_12_whatwedo-1.jpg);    
 }
 #service-single-box-two::before {    
     background: url(/assets/images/home/Home_13_whatwedo-1.jpg);
