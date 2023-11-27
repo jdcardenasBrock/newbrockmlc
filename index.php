@@ -527,7 +527,7 @@
 				</div>
 			</div>
 			<div class="row">
-				<div class="col-lg-4 col-md-6">
+				<div class="col-lg-6 col-md-6">
 					<!-- start service single box -->
 					<div class="service-single-box wow animate__slideInUp">
 						<div class="service-thumb">
@@ -538,18 +538,18 @@
 								<img src="assets/images/resource/service-icon.png" alt="">
 							</div>
 							<div class="service-text">
-								<h4><a href="service-details.html">Mechanical Works</a></h4>
-								<p>Consectetur adipiscing elit, sed dots eiusmod tempor incid saidul</p>
+								<h4><a href="service-details.html">Restoration</a></h4>
+								<p>Brock Mountain Meets The Rigorous Demands of Restoration</p>
 								<a href="#">Read More <i class="bi bi-arrow-right"></i></a>
 							</div>
 						</div>
 						<div class="service-title">
-							<h4>Petroleum Refinery</h4>
+							<h4>Restoration</h4>
 						</div>
 					</div>
 					<!-- End service single box -->
 				</div>
-				<div class="col-lg-4 col-md-6">
+				<div class="col-lg-6 col-md-6">
 					<!-- start service single box -->
 					<div class="service-single-box wow animate__slideInUp">
 						<div class="service-thumb">
@@ -560,39 +560,17 @@
 								<img src="assets/images/resource/service-icon.png" alt="">
 							</div>
 							<div class="service-text">
-								<h4><a href="service-details.html">Mechanical Works</a></h4>
-								<p>Consectetur adipiscing elit, sed dots eiusmod tempor incid saidul</p>
+								<h4><a href="service-details.html">Building</a></h4>
+								<p>Brock Mountain Meets The Rigorous Demands of Building</p>
 								<a href="#">Read More <i class="bi bi-arrow-right"></i></a>
 							</div>
 						</div>
 						<div class="service-title">
-							<h4>Petroleum Refinery</h4>
+							<h4>Building</h4>
 						</div>
 					</div>
 					<!-- End service single box -->
-				</div>
-				<div class="col-lg-4 col-md-6">
-					<!-- start service single box -->
-					<div class="service-single-box wow animate__slideInUp">
-						<div class="service-thumb">
-							<img src="assets/images/resource/service3.png" alt="">
-						</div>
-						<div class="service-content">
-							<div class="service-icon">
-								<img src="assets/images/resource/service-icon.png" alt="">
-							</div>
-							<div class="service-text">
-								<h4><a href="service-details.html">Mechanical Works</a></h4>
-								<p>Consectetur adipiscing elit, sed dots eiusmod tempor incid saidul</p>
-								<a href="#">Read More <i class="bi bi-arrow-right"></i></a>
-							</div>
-						</div>
-						<div class="service-title">
-							<h4>Petroleum Refinery</h4>
-						</div>
-					</div>
-					<!-- End service single box -->
-				</div>
+				</div>				
 			</div>
 		</div>
 	</div>
