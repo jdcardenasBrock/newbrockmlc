@@ -495,12 +495,7 @@
 				<div class="col-lg-12">
 					<div class="single-video text-center">
 						<div class="video-icon">
-							<a class="video-vemo-icon venobox vbox-item" data-vbtype="" data-autoplay="true" href="assets/videos/Commercial Building Division Promo.mp4"><i class="bi bi-play"></i></a>
-							<!-- <video width="320" height="240" controls>
-								<source src="assets/videos/Commercial Building Division Promo.mp4" type="video/mp4">
-								<!-- <source src="movie.ogg" type="video/ogg"> -->
-								Your browser does not support the video tag.
-							</video> -->
+							<a class="video-vemo-icon venobox vbox-item" data-vbtype="" data-autoplay="true" href="assets/videos/Commercial Building Division Promo.mp4"><i class="bi bi-play"></i></a>							
 						</div>
 						<div class="call-do-title">
 							<h2>Specialist In Commercial </h2>
