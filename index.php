@@ -28,9 +28,9 @@
 		color: #141422;
 	}	
 	.vbox-inline{
-		width: 100%;
-		height: auto;
-		margin-top: -100px;
+		width: 960px;
+    	height: 720px;
+		margin-top: -200px !important;
 	}
 	@media (min-width: 768px) { 
 		#testimonial-mt{
