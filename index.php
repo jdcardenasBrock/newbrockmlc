@@ -497,12 +497,12 @@
 						<div class="video-icon">
 							<div id="building_video" style="display:none;">
 								<video constrols preload="metadata">
-									<source src="assets/videos/Commercial Building Division Promo.mp4" type="video/mp4">
+									<source src="assets/videos/Commercial_Building_Division_Promo.mp4" type="video/mp4">
 									<!-- <source src="movie.ogg" type="video/ogg"> -->
 									Your browser does not support the video tag.
 								</video>
 							</div>
-							<a class="video-vemo-icon venobox vbox-item" data-autoplay="true" data-vbtype="inline" href="#building_video"><i class="bi bi-play"></i></a>							
+							<a class="video-vemo-icon venobox vbox-item" data-autoplay="true" data-vbtype="iframe" href="#building_video"><i class="bi bi-play"></i></a>							
 						</div>
 						<div class="call-do-title">
 							<h2>Specialist In Commercial </h2>
