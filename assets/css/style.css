@@ -2829,13 +2829,14 @@ section.banner-section.style-three {
 ===================================================*/
 
 .faq-area.style-two {
-    background: url(../images/home/brock_team-scaled-2.jpg);
+    background: url(../images/home/Home_16_Q&A.jpg);
     background-repeat: no-repeat;
 }
 
 .faq-area.style-three {
-    background: url(../images/home/Home_16_Q&A.jpg);
+    background: url(../images/home/brock_team-scaled-2.jpg);
     background-repeat: no-repeat;
+    background-position: center;
 }
 
 .faq-content {

@@ -411,7 +411,7 @@
 							</div>
 						</div>
 						<!-- start accordion -->
-						<div class="tab_container wow animate__slideInUp">
+						<!-- <div class="tab_container wow animate__slideInUp">
 							<div id="tab1" class="tab_content">
 								<ul class="accordion">
 									<li class="faq">
@@ -432,11 +432,11 @@
 									</li>
 								</ul>
 							</div>
-						</div>
+						</div> -->
 						<!-- End accordion -->
 					</div>
 				</div>
-				<div class="col-lg-6 col-md-12">
+				<!-- <div class="col-lg-6 col-md-12">
 					<div class="single-video style-two text-center">
 						<div class="video-icon style-two">
 							<a class="video-vemo-icon venobox vbox-item" data-vbtype="youtube" data-autoplay="true" href="https://youtu.be/BS4TUd7FJSg"><i class="bi bi-play"></i></a>
@@ -454,7 +454,7 @@
 							</div>
 						</div>
 					</div>
-				</div>
+				</div> -->
 			</div>
 		</div>
 	</div>
