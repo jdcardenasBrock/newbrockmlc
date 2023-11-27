@@ -15,7 +15,7 @@
 		-webkit-box-orient: vertical;
 		overflow: hidden; 
 	}
-	.slider-description, .slider-main-title{
+	.slider-description, .slider-main-title, .section-main-title.contact{
 		text-shadow: 1px 4px 6px black;
 	}
 	.slider-main-title{
@@ -598,7 +598,7 @@
 							<p>Brock Mountain Land Company, LLC provides clients the very best in excavation and building services. We take pride and are very passionate in the detail of each job.</p>
 						</div>
 						<div class="eulding-btn">
-							<a href="contac.php">Contact Us <i class="bi bi-arrow-up-right-circle-fill"></i></a>
+							<a href="contact.php">Contact Us <i class="bi bi-arrow-up-right-circle-fill"></i></a>
 						</div>
 					</div>
 				</div>
