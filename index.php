@@ -313,7 +313,7 @@
 								<span class="fill" data-percentage="78" style="background: rgb(22, 181, 151); width: 505.791px; transition: width 7s ease-in-out 0s;"></span>
 							</div>  
 							<span class="process-bar">
-								Project increase Comparing With Last Year
+								Project increase Comparing<br> With Last Year
 							</span>
 							<div id="bar2" class="barfiller">
 								<div class="tipWrap" style="display: inline;">
@@ -351,14 +351,14 @@
 								<!--end about single box -->
 							</div>
 						</div>
-						<div class="about-bottom">
+						<!-- <div class="about-bottom">
 							<div class="eulding-btn about">
 								<a href="#">Read More <i class="bi bi-arrow-up-right-circle-fill"></i></a>
 							</div>
 							<div class="about-signiture">
 								<img src="assets/images/about/about-sine.png" alt="">
 							</div>
-						</div>
+						</div> -->
 					</div>
 				</div>
 			</div>
