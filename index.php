@@ -18,6 +18,9 @@
 	.slider-description, .slider-main-title{
 		text-shadow: 1px 1px 2px black;
 	}
+	.slider-sub-title, .slider-discripton{
+		display:none;
+	}
 </style>
 	<!--==================================================-->
 	<!-- Start Euildint Slider Style Two Area -->
