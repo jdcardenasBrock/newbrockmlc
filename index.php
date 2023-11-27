@@ -698,7 +698,7 @@
 						</div>
 						<div class="section-main-title">
 							<h2>Locations of Our Projects </h2>
-							<h2>Throughout the U.S.</h2>
+							<h2>Throughout The U.S.</h2>
 						</div>
 					</div>
 					<!-- End section title -->
