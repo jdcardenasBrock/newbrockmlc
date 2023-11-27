@@ -394,17 +394,17 @@
 	 <!--==================================================-->
 	<!-- Start Euildint Faq Area -->
 	<!--==================================================-->
-	<div class="faq-area style-three wow animate__slideInUp">
+	<div class="faq-area style-three wow animate__slideInUp" style="padding: 0 0 494px">
 		<div class="container">
 			<div class="row align-items-center">
 				<div class="col-lg-6 col-md-12">
-					<div class="faq-content">
+					<div class="faq-content" style="box-shadow: 2px 2px 8px 1px rgba(0, 0, 0, 0.8); background: #266041; margin-top: -70px; padding: 8px 58px 38px;">
 						<div class="section-title">
 							<div class="section-sub-title faq">
 								<!-- <h4>Frequently Asked Questions</h4> -->
 							</div>
 							<div class="section-main-title faq">
-								<h2>We work with excelent people!</h2>
+								<h2 style="color: #FFF">We work with excelent people!</h2>
 							</div>
 							<!-- <div class="faq-discripition">
 								<p>Providing legal advice, contract drafting, compliance assistance, intellectual property protection, and other legal support for businesses. Creating visual content, such as logos, brochures, infographics. The timeline for seeing results depends on the specific services you choose and the current state of your business. </p>
