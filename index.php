@@ -27,6 +27,9 @@
 	.testimonial-area a:hover{
 		color: #141422;
 	}	
+	.vbox-inline{
+		width: 100%;
+	}
 	@media (min-width: 768px) { 
 		#testimonial-mt{
 			margin-top: -155px;
