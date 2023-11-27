@@ -645,12 +645,17 @@
 						<div class="testi_list owl-carousel">
 							<div class="col-lg-12">
 								<div class="testi-text">
-									<p>Trage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate Trage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate</p>
+									<p>"Just did another close up tour of the beach.  Seeing a lot of your work.  Well Done!  I'm impressed beyond words!!!!  Thank you for what you do!  I'm telling everyone I know"<br>
+									<strong>(Matt Reinhart - Volusia County Commissioner)</strong>
+									</p>
 								</div>
 							</div>
 							<div class="col-lg-12">
 								<div class="testi-text">
-									<p>Trage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate Trage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate</p>
+									<p>
+									“Your team has done the unthinkable. “Your efforts are extremely appreciated and more work is coming on other projects””<br>
+									<strong>(Property Manager)</strong>
+									</p>
 								</div>
 							</div>
 						</div>
