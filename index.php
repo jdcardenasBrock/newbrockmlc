@@ -543,7 +543,7 @@
 								<a href="#">Read More <i class="bi bi-arrow-right"></i></a>
 							</div>
 						</div>
-						<div class="service-title">
+						<div class="service-title" style="right: -50%">
 							<h4>Restoration</h4>
 						</div>
 					</div>
@@ -565,7 +565,7 @@
 								<a href="#">Read More <i class="bi bi-arrow-right"></i></a>
 							</div>
 						</div>
-						<div class="service-title">
+						<div class="service-title" style="right: -47%">
 							<h4>Building</h4>
 						</div>
 					</div>
