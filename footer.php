@@ -249,6 +249,9 @@ echo '
   $(".embed-responsive").mouseleave(function() {
     $(".embed-responsive iframe").css("pointer-events", "none");
   });
+  $(document).ready(function(){
+    $(".venobox").venobox(); 
+  });
   </script>
 </body>
 
