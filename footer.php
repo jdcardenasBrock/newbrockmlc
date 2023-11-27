@@ -4,7 +4,7 @@ echo '
 <!--==================================================-->
 <!-- Start Euildint Brand Area -->
 <!--==================================================-->
-<div class="brand-area ">
+<div class="brand-area " style="margin-bottom: 120px;">
     <div class="container-fluid">
         <div class="row">
             <div class="brand_list owl-carousel">
