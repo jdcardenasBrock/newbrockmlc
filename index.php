@@ -34,7 +34,7 @@
 		overflow: hidden;
 	}
 	.vbox-inline video{
-		margin-top: 10%;
+		margin-top: 15%;
 		margin-left: 10%;
 		width: 80% !important;
 		height: 80%;
