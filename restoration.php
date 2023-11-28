@@ -108,7 +108,7 @@
                     <div class="video-icon style-three">                    
                         <div id="resto_video" style="display:none; width: 90%">
                             <video controls preload="metadata">
-                                <source src="assets/restoration/Brock_Mountain_Sitework.mp4" type="video/mp4">
+                                <source src="assets/videos/Brock_Mountain_Sitework.mp4" type="video/mp4">
                                 Your browser does not support the video tag.
                             </video>
                         </div>
