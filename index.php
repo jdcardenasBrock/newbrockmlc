@@ -15,7 +15,7 @@
 		-webkit-box-orient: vertical;
 		overflow: hidden; 
 	}
-	.slider-description, .slider-main-title, .section-main-title.contact, .contact-discription, .faq-title h4, .call-do-title, .counter-content h5, .counter-numbar h4{
+	.slider-description, .slider-main-title, .section-main-title.contact, .contact-discription, .faq-title h4, .call-do-title, .counter-content h5, .counter-numbar h4, .counter-numbar span{
 		text-shadow: 1px 4px 6px black;
 	}
 	.slider-main-title{
@@ -1054,7 +1054,7 @@
 									<img src="assets/images/resource/faq-icon.png" alt="">
 								</div> -->
 								<div class="faq-title" style="margin-bottom: 215px">
-									<h4>We Have Many Happy Clients Allover World Wide</h4>
+									<h4>We Have Many Happy Clients All Over Nationwide</h4>
 									<!-- <span><i class="bi bi-chevron-double-right"></i> Award Wining Agency</span>
 									<span><i class="bi bi-chevron-double-right"></i> Higest Success Rates</span> -->
 								</div>
