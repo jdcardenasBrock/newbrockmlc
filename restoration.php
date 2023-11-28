@@ -1,8 +1,16 @@
 <?php require 'header.php'; ?>
+<style>
+    #top-restoration{
+        background: url(assets/images/restoration/Rest_1.jpg);
+    }
+    #video-container-restoration{
+        background: url(assets/images/restoration/Rest_3-video.jpg);
+    }
+</style>
 <!--==================================================-->
 <!-- Start Euildint Breatcome Area -->
 <!--==================================================-->
-<div class="breatcome-area">
+<div class="breatcome-area" id="top-restoration">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12">
@@ -33,7 +41,7 @@
                         <!-- start service details single box -->
                         <div class="service-details-single-box mb-30">
                             <div class="service-details-thumb">
-                                <img src="assets/images/service/service-details1.jpg" alt="">
+                                <img src="assets/images/restoration/Rest_2-profess.jpg" alt="">
                             </div>
                             <div class="service-details-content">
                                 <h4><a href="#">PROFESSIONAL & RELIABLE SITEWORK SERVICES</a></h4>
@@ -71,7 +79,7 @@
 <!--==================================================-->
 <!-- Start Euildint Call Do Bg Area -->
 <!--==================================================-->
-<div class="call-do-action-area style-two wow animate__slideInUp">
+<div class="call-do-action-area style-two wow animate__slideInUp" id="video-container-restoration">
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-8 col-md-12">
@@ -82,8 +90,14 @@
             </div>
             <div class="col-lg-4 col-md-12">
                 <div class="single-video style-three text-center">
-                    <div class="video-icon style-three">
-                        <a class="video-vemo-icon venobox vbox-item" data-vbtype="youtube" data-autoplay="true" href="https://youtu.be/BS4TUd7FJSg"><i class="bi bi-play"></i></a>
+                    <div class="video-icon style-three">                    
+                        <div id="resto_video" style="display:none; width: 90%">
+                            <video controls preload="metadata">
+                                <source src="assets/restoration/Brock Mountain Sitework.mp4" type="video/mp4">
+                                Your browser does not support the video tag.
+                            </video>
+                        </div>
+                        <a class="video-vemo-icon venobox vbox-item" data-autoplay="true" data-vbtype="inline" href="#resto_video"><i class="bi bi-play"></i></a>							
                     </div>
                 </div>
             </div>
@@ -103,33 +117,63 @@
                     <div class="blog_list owl-carousel">
                         <div class="col-lg-12">
                             <div class="blog-standard-thumb">
-                                <img src="assets/images/blog/blog-standard3.png" alt="">
+                                <img src="assets/images/restoration/Gal1.png" alt="">
                             </div>
                         </div>
                         <div class="col-lg-12">
                             <div class="blog-standard-thumb">
-                                <img src="assets/images/blog/blog-standard2.png" alt="">
+                                <img src="assets/images/restoration/Gal2.png" alt="">
                             </div>
                         </div>
                         <div class="col-lg-12">
                             <div class="blog-standard-thumb">
-                                <img src="assets/images/blog/blog-standard1.png" alt="">
+                                <img src="assets/images/restoration/Gal3.png" alt="">
+                            </div>
+                        </div>
+                        <div class="col-lg-12">
+                            <div class="blog-standard-thumb">
+                                <img src="assets/images/restoration/Gal4.png" alt="">
+                            </div>
+                        </div>
+                        <div class="col-lg-12">
+                            <div class="blog-standard-thumb">
+                                <img src="assets/images/restoration/Gal5.png" alt="">
+                            </div>
+                        </div>
+                        <div class="col-lg-12">
+                            <div class="blog-standard-thumb">
+                                <img src="assets/images/restoration/Gal6.png" alt="">
+                            </div>
+                        </div>
+                        <div class="col-lg-12">
+                            <div class="blog-standard-thumb">
+                                <img src="assets/images/restoration/Gal7.png" alt="">
+                            </div>
+                        </div>
+                        <div class="col-lg-12">
+                            <div class="blog-standard-thumb">
+                                <img src="assets/images/restoration/Gal8.png" alt="">
+                            </div>
+                        </div>
+                        <div class="col-lg-12">
+                            <div class="blog-standard-thumb">
+                                <img src="assets/images/restoration/Gal9.png" alt="">
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="blog-standard-meta">
+                <!-- <div class="blog-standard-meta">
                     <span>By Admin</span>
                     <span>17 Aug 2023 </span>
                     <span class="meta">Construction</span>
-                </div>
-                <div class="blog-standard-content">
+                </div> -->
+                <!-- <div class="blog-standard-content">
                     <h4><a href="#">All the Greatest Moments of Thoroughbred</a></h4>
                     <p>Why Roofing are factmake 17 Reason EasierForesee the pain & trouble that are bounds too ensue equalidea off denouncing pleasures and praising pain was borncomplete account and expound the actual teachings the great the master-builder of human happiness. In a free hour...</p>
-                </div>
-                <div class="eulding-btn standard">
+                </div> -->
+                <!-- <div class="eulding-btn standard">
                     <a href="#">Read More <i class="bi bi-arrow-up-right-circle-fill"></i></a>
-                </div>
+                </div> -->
             </div>
             <!-- End blog single box -->
         </div>

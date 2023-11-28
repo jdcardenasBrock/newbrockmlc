@@ -251,14 +251,7 @@ echo '
   $(document).ready(function(){
     $(".venobox").venobox(); 
   });
-  </script>
-  <script>
-  new google.maps.Map(document.getElementById("map_home"), {
-    zoom,
-    center,
-    gestureHandling: "cooperative",
-  });
-  </script>
+  </script>  
 </body>
 
 </html>';
