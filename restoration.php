@@ -6,6 +6,9 @@
     #video-container-restoration{
         background: url(assets/images/restoration/Rest_3-video.jpg);
     }
+    .slider-description, .slider-main-title, .section-main-title.contact, .contact-discription, .faq-title h4, .call-do-title, .counter-content h5, .counter-numbar h4, .counter-numbar span{
+		text-shadow: 1px 4px 6px black;
+	}
 </style>
 <!--==================================================-->
 <!-- Start Euildint Breatcome Area -->
@@ -117,47 +120,47 @@
                     <div class="blog_list owl-carousel">
                         <div class="col-lg-12">
                             <div class="blog-standard-thumb">
-                                <img src="assets/images/restoration/Gal1.png" alt="">
+                                <img src="assets/images/restoration/Gal1.jpg" alt="">
                             </div>
                         </div>
                         <div class="col-lg-12">
                             <div class="blog-standard-thumb">
-                                <img src="assets/images/restoration/Gal2.png" alt="">
+                                <img src="assets/images/restoration/Gal2.jpg" alt="">
                             </div>
                         </div>
                         <div class="col-lg-12">
                             <div class="blog-standard-thumb">
-                                <img src="assets/images/restoration/Gal3.png" alt="">
+                                <img src="assets/images/restoration/Gal3.jpg" alt="">
                             </div>
                         </div>
                         <div class="col-lg-12">
                             <div class="blog-standard-thumb">
-                                <img src="assets/images/restoration/Gal4.png" alt="">
+                                <img src="assets/images/restoration/Gal4.jpg" alt="">
                             </div>
                         </div>
                         <div class="col-lg-12">
                             <div class="blog-standard-thumb">
-                                <img src="assets/images/restoration/Gal5.png" alt="">
+                                <img src="assets/images/restoration/Gal5.jpg" alt="">
                             </div>
                         </div>
                         <div class="col-lg-12">
                             <div class="blog-standard-thumb">
-                                <img src="assets/images/restoration/Gal6.png" alt="">
+                                <img src="assets/images/restoration/Gal6.jpg" alt="">
                             </div>
                         </div>
                         <div class="col-lg-12">
                             <div class="blog-standard-thumb">
-                                <img src="assets/images/restoration/Gal7.png" alt="">
+                                <img src="assets/images/restoration/Gal7.jpg" alt="">
                             </div>
                         </div>
                         <div class="col-lg-12">
                             <div class="blog-standard-thumb">
-                                <img src="assets/images/restoration/Gal8.png" alt="">
+                                <img src="assets/images/restoration/Gal8.jpg" alt="">
                             </div>
                         </div>
                         <div class="col-lg-12">
                             <div class="blog-standard-thumb">
-                                <img src="assets/images/restoration/Gal9.png" alt="">
+                                <img src="assets/images/restoration/Gal9.jpg" alt="">
                             </div>
                         </div>
                     </div>
