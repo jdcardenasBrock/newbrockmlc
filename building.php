@@ -26,6 +26,7 @@
 	}
 	.eulding-btn a{
 		width: 415px;
+		text-align: center;
 	}
 </style>
 <!--==================================================-->
@@ -175,7 +176,7 @@
 							<h4>Superior Construction</h4>
 						</div>
 						<div class="section-main-title about">
-							<h2>More Than 25 Years OF Experience</h2>
+							<h2>More Than 25 Years Of Experience</h2>
 						</div>
 					</div>
 					<div class="about-content wow animate__slideInUp">
