@@ -38,6 +38,20 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-12 col-md-12">
+					<!-- start section title -->
+					<div class="section-title">
+						<div class="section-shape">
+							<img src="assets/images/resource/section-shape.png" alt="">
+						</div>
+						<div class="section-sub-title">
+							<h4>TESTIMONIALS</h4>
+						</div>
+						<div class="section-main-title">
+							<a href="our_clients.php" style="text-decoration: none;"><h2>Our Happy Clients</h2></a>
+							<a href="our_clients.php" style="text-decoration: none;"><h2>Says About Us</h2></a>
+						</div>
+					</div>
+					<!-- End section title -->
 					<div class="row">
 						<div class="col-lg-12">
 							<div class="blog-quote-box mb-40">
@@ -66,7 +80,7 @@
 					<!-- start section title -->
 					<div class="section-title text-center">
 						<div class="section-shape">
-							<img src="assets/images/about/section-shape.png" alt="">
+							<img src="assets/images/resource/section-shape.png" alt="">
 						</div>
 						<div class="section-sub-title">
 							<h4>WHAT WE DO</h4>
