@@ -6,7 +6,7 @@
     #video-container-restoration{
         background: url(assets/images/restoration/Rest_3-video.jpg);
     }
-    .slider-description, .slider-main-title, .section-main-title.contact, .contact-discription, .faq-title h4, .call-do-title, .counter-content h5, .counter-numbar h4, .counter-numbar span, .bratcome-text{
+    .slider-description, .slider-main-title, .section-main-title.contact, .contact-discription, .faq-title h4, .call-do-title, .counter-content h5, .counter-numbar h4, .counter-numbar span, .breatcome-title h1{
 		text-shadow: 1px 4px 6px black;
 	}
     .vbox-inline{
@@ -108,7 +108,7 @@
                     <div class="video-icon style-three">                    
                         <div id="resto_video" style="display:none; width: 90%">
                             <video controls preload="metadata">
-                                <source src="assets/restoration/Brock Mountain Sitework.mp4" type="video/mp4">
+                                <source src="assets/restoration/Brock_Mountain_Sitework.mp4" type="video/mp4">
                                 Your browser does not support the video tag.
                             </video>
                         </div>
