@@ -61,8 +61,8 @@
 							<!-- <h4>Great Experience In Building</h4> -->
 						</div>
 						<div class="slider-main-title">
-							<h1>Brock Mountain meets the rigorous</h1>
-							<h1>demands of restoration.</h1>
+							<h1>Brock Mountain Meets The Rigorous
+							Demands of Restoration.</h1>
 						</div>
 						<div class="slider-discripton">
 							<p></p>
@@ -89,8 +89,8 @@
 							<!-- <h4>Great Experience In Restoration</h4> -->
 						</div>
 						<div class="slider-main-title">
-							<h1>Brock Mountain meets the rigorous</h1>
-							<h1>demands of building.</h1>
+							<h1>Brock Mountain Meets The Rigorous
+							Demands of Building.</h1>
 						</div>
 						<div class="slider-discripton">
 							<p></p>
@@ -117,8 +117,8 @@
 							<!-- <h4>Great Experience In Restoration</h4> -->
 						</div>
 						<div class="slider-main-title">
-							<h1>Brock Mountain meets the rigorous</h1>
-							<h1>demands of restoration.</h1>
+							<h1>Brock Mountain Meets The Rigorous
+							Demands of Restoration.</h1>
 						</div>
 						<div class="slider-discripton">
 							<p></p>
@@ -145,8 +145,8 @@
 							<!-- <h4>Great Experience In Restoration</h4> -->
 						</div>
 						<div class="slider-main-title">
-							<h1>Brock Mountain meets the rigorous</h1>
-							<h1>demands of building.</h1>
+							<h1>Brock Mountain Meets The Rigorous
+							Demands of Building.</h1>
 						</div>
 						<div class="slider-discripton">
 							<p></p>
@@ -173,8 +173,8 @@
 							<!-- <h4>Great Experience In Restoration</h4> -->
 						</div>
 						<div class="slider-main-title">
-							<h1>Brock Mountain meets the rigorous</h1>
-							<h1>demands of restoration.</h1>
+							<h1>Brock Mountain Meets The Rigorous
+							Demands of Restoration.</h1>
 						</div>
 						<div class="slider-discripton">
 							<p></p>
@@ -201,8 +201,8 @@
 							<!-- <h4>Great Experience In Restoration</h4> -->
 						</div>
 						<div class="slider-main-title">
-							<h1>Brock Mountain meets the rigorous</h1>
-							<h1>demands of building.</h1>
+							<h1>Brock Mountain Meets The Rigorous
+							Demands of Building.</h1>
 						</div>
 						<div class="slider-discripton">
 							<p></p>
@@ -229,8 +229,8 @@
 							<!-- <h4>Great Experience In Restoration</h4> -->
 						</div>
 						<div class="slider-main-title">
-							<h1>Brock Mountain meets the rigorous</h1>
-							<h1>demands of restoration.</h1>
+							<h1>Brock Mountain Meets The Rigorous
+							Demands of Restoration.</h1>
 						</div>
 						<div class="slider-discripton">
 							<p></p>
@@ -257,8 +257,8 @@
 							<!-- <h4>Great Experience In Restoration</h4> -->
 						</div>
 						<div class="slider-main-title">
-							<h1>Brock Mountain meets the rigorous</h1>
-							<h1>demands of building.</h1>
+							<h1>Brock Mountain Meets The Rigorous
+							Demands of Building.</h1>
 						</div>
 						<div class="slider-discripton">
 							<p></p>
@@ -315,8 +315,7 @@
 							<h4>Superior Construction</h4>
 						</div>
 						<div class="section-main-title about">
-							<h2>Exceeding The Demands Of Commercial Sitework&</h2>
-							<h2>Building Through Innovation & Dependability</h2>
+							<h2>Exceeding The Demands Of Commercial Sitework & Building Through Innovation & Dependability</h2>
 						</div>
 					</div>
 					<div class="about-content wow animate__slideInUp">
