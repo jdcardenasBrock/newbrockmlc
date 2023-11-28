@@ -705,7 +705,7 @@
 			</div>
 			<div class="row">
 				<div class="col-lg-12 col-md-12">
-					<iframe src="https://www.google.com/maps/d/embed?mid=1VzrD0aebBTEuSNlMzEIoqP29E829zCM&ehbc=2E312F" width="1920" height="608" style="border: 0px; pointer-events: none;" allowfullscreen="" loading="lazy"></iframe>
+					<iframe src="https://www.google.com/maps/d/embed?mid=1VzrD0aebBTEuSNlMzEIoqP29E829zCM&ehbc=2E312F?wheel=false" width="1920" height="608" style="border: 0px; pointer-events: none;" allowfullscreen="" loading="lazy"></iframe>
 				</div>
 			</div>
 		</div>
