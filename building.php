@@ -21,6 +21,10 @@
 		width: 80% !important;
 		height: 80%;
 	}
+	.eulding-btn{
+		display: block;
+		width: 415px;
+	}
 </style>
 <!--==================================================-->
 <!-- Start Euildint Breatcome Area -->
@@ -57,7 +61,7 @@
 					<div class="about-thumb wow animate__slideInUp">
 						<img src="assets/images/building/Bui_2.jpg" alt="">
 						<div class="about-shape">
-							<img src="assets/images/building/Bui_3.png" alt="">
+							<img src="assets/images/building/Bui_3.jpeg" alt="">
 						</div>
 					</div>
 				</div>
