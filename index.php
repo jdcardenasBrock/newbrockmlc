@@ -590,8 +590,8 @@
 							<a class="video-vemo-icon venobox vbox-item" data-autoplay="true" data-vbtype="inline" href="#building_video"><i class="bi bi-play"></i></a>							
 						</div>
 						<div class="call-do-title">
-							<h2>Specialist In Commercial </h2>
-							<h2>Building</h2>
+							<h2>Brock Mountain </h2>
+							<h2>Land Company, LLC</h2>
 						</div>
 					</div>
 				</div>
