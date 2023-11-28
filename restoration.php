@@ -132,47 +132,47 @@
                     <div class="blog_list owl-carousel" style="height: 60%">
                         <div class="col-lg-12">
                             <div class="blog-standard-thumb">
-                                <img src="assets/images/restoration/Gal1.jpg" alt="">
+                                <img src="assets/images/restoration/Gal1-856.jpg" alt="">
                             </div>
                         </div>
                         <div class="col-lg-12">
                             <div class="blog-standard-thumb">
-                                <img src="assets/images/restoration/Gal2.jpg" alt="">
+                                <img src="assets/images/restoration/Gal2-856.jpg" alt="">
                             </div>
                         </div>
                         <div class="col-lg-12">
                             <div class="blog-standard-thumb">
-                                <img src="assets/images/restoration/Gal3.jpg" alt="">
+                                <img src="assets/images/restoration/Gal3-856.jpg" alt="">
                             </div>
                         </div>
                         <div class="col-lg-12">
                             <div class="blog-standard-thumb">
-                                <img src="assets/images/restoration/Gal4.jpg" alt="">
+                                <img src="assets/images/restoration/Gal4-856.jpg" alt="">
                             </div>
                         </div>
                         <div class="col-lg-12">
                             <div class="blog-standard-thumb">
-                                <img src="assets/images/restoration/Gal5.jpg" alt="">
+                                <img src="assets/images/restoration/Gal5-856.jpg" alt="">
                             </div>
                         </div>
                         <div class="col-lg-12">
                             <div class="blog-standard-thumb">
-                                <img src="assets/images/restoration/Gal6.jpg" alt="">
+                                <img src="assets/images/restoration/Gal6-856.jpg" alt="">
                             </div>
                         </div>
                         <div class="col-lg-12">
                             <div class="blog-standard-thumb">
-                                <img src="assets/images/restoration/Gal7.jpg" alt="">
+                                <img src="assets/images/restoration/Gal7-856.jpg" alt="">
                             </div>
                         </div>
                         <div class="col-lg-12">
                             <div class="blog-standard-thumb">
-                                <img src="assets/images/restoration/Gal8.jpg" alt="">
+                                <img src="assets/images/restoration/Gal8-856.jpg" alt="">
                             </div>
                         </div>
                         <div class="col-lg-12">
                             <div class="blog-standard-thumb">
-                                <img src="assets/images/restoration/Gal9.jpg" alt="">
+                                <img src="assets/images/restoration/Gal9-856.jpg" alt="">
                             </div>
                         </div>
                     </div>
