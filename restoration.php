@@ -129,7 +129,7 @@
             <!-- start blog single box -->
             <div class="blog-standard-box">
                 <div class="row">
-                    <div class="blog_list owl-carousel">
+                    <div class="blog_list owl-carousel" style="height: 60%">
                         <div class="col-lg-12">
                             <div class="blog-standard-thumb">
                                 <img src="assets/images/restoration/Gal1.jpg" alt="">
