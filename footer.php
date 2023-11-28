@@ -252,6 +252,13 @@ echo '
     $(".venobox").venobox(); 
   });
   </script>
+  <script>
+  new google.maps.Map(document.getElementById("map_home"), {
+    zoom,
+    center,
+    gestureHandling: "cooperative",
+  });
+  </script>
 </body>
 
 </html>';
