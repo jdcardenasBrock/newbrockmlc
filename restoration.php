@@ -167,7 +167,7 @@
                         </div>
                         <div class="col-lg-12">
                             <div class="blog-standard-thumb">
-                                <img src="assets/images/restoration/Gal8-856.jpg" alt="">
+                                <img src="assets/images/restoration/Gal8-856.jpg" alt="#">
                             </div>
                         </div>
                         <div class="col-lg-12">
