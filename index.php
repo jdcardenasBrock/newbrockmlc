@@ -1048,7 +1048,7 @@
 						<!-- <div class="video-icon style-two">
 							<a class="video-vemo-icon venobox vbox-item" data-vbtype="youtube" data-autoplay="true" href="https://youtu.be/BS4TUd7FJSg"><i class="bi bi-play"></i></a>
 						</div> -->
-						<div class="faq-single-box wow animate__slideInUp" style="box-shadow: 10px -10px 50px 5px black">
+						<div class="faq-single-box wow animate__slideInUp" style="box-shadow: black 5px 5px 15px;">
 							<div class="faq-item-content">
 								<!-- <div class="faq-icon-thumb">
 									<img src="assets/images/resource/faq-icon.png" alt="">
