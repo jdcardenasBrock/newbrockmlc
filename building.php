@@ -1,8 +1,31 @@
 <?php require 'header.php'; ?>
+<style>
+    #top-building{
+        background: url(assets/images/building/bui_1.jpg);
+    }
+    #video-container-building{
+        background: url(assets/images/building/Bui_4.jpg);
+    }
+    .slider-description, .slider-main-title, .section-main-title.contact, .contact-discription, .faq-title h4, .call-do-title, .counter-content h5, .counter-numbar h4, .counter-numbar span, .breatcome-title h1{
+		text-shadow: 1px 4px 6px black;
+	}
+    .vbox-inline{
+		width: 960px;
+    	height: 720px;
+		margin-top: -200px !important;
+		overflow: hidden;
+	}
+	.vbox-inline video{
+		margin-top: 15%;
+		margin-left: 10%;
+		width: 80% !important;
+		height: 80%;
+	}
+</style>
 <!--==================================================-->
 <!-- Start Euildint Breatcome Area -->
 <!--==================================================-->
-<div class="breatcome-area">
+<div class="breatcome-area" id="top-building">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12">
@@ -10,7 +33,7 @@
                     <div class="breatcome-title">
                         <h1>Building</h1>
                     </div>
-                    <div class="bratcome-text">
+                    <div class="bratcome-text"> 
                         <ul>
                             <li><a href="index.php">Home</a></li>
                             <li>Building</li>
@@ -32,16 +55,16 @@
 			<div class="row">
 				<div class="col-lg-6 col-md-12">
 					<div class="about-thumb wow animate__slideInUp">
-						<img src="assets/images/about/about.jpg" alt="">
+						<img src="assets/images/building/Bui_2.jpg" alt="">
 						<div class="about-shape">
-							<img src="assets/images/about/about-shape.png" alt="">
+							<img src="assets/images/building/Bui_3.png" alt="">
 						</div>
 					</div>
 				</div>
 				<div class="col-lg-6 col-md-12">
 					<div class="section-title">
 						<div class="section-shape">
-							<img src="assets/images/about/section-shape.png" alt="">
+							<img src="assets/images/resource/section-shape.png" alt="">
 						</div>
 						<div class="section-sub-title">
 							<h4>What else we do.</h4>
@@ -78,11 +101,11 @@
 								<!--start about single box -->
 								<div class="about-single-box">
 									<div class="about-icon">
-										<img src="assets/images/about/about-icon1.png" alt="">
+										<img src="assets/images/resource/about-icon1.png" alt="">
 									</div>
 									<div class="about-text">
 										<h4>Worldwide Service</h4>
-										<p>Lorem ipsum is simply velit anod ipas aliquet enean quis.</p>
+										<p>Write some related text here</p>
 									</div>
 								</div>
 								<!--end about single box -->
@@ -91,11 +114,11 @@
 								<!--start about single box -->
 								<div class="about-single-box">
 									<div class="about-icon">
-										<img src="assets/images/about/about-icon2.png" alt="">
+										<img src="assets/images/resource/about-icon2.png" alt="">
 									</div>
 									<div class="about-text">
-										<h4>Awward Winner</h4>
-										<p>Lorem ipsum is simply velit anod ipas aliquet enean quis.</p>
+										<h4>Award Winner</h4>
+										<p>Write some related text here</p>
 									</div>
 								</div>
 								<!--end about single box -->
@@ -113,7 +136,7 @@
     <!--==================================================-->
 	<!-- Start Euildint Call Do Bg Area -->
 	<!--==================================================-->
-	<div class="call-do-action-area style-two wow animate__slideInUp">
+	<div class="call-do-action-area style-two wow animate__slideInUp" id="video-container-building">
 		<div class="container">
 			<div class="row align-items-center">
 				<div class="col-lg-8 col-md-12">
@@ -124,8 +147,14 @@
 				</div>
 				<div class="col-lg-4 col-md-12">
 					<div class="single-video style-three text-center">
-						<div class="video-icon style-three">
-							<a class="video-vemo-icon venobox vbox-item" data-vbtype="video" data-autoplay="true" href="https://vimeo.com/732260933"><i class="bi bi-play"></i></a>
+						<div class="video-icon style-three">						
+							<div id="building_video" style="display:none; width: 90%">
+								<video controls preload="metadata">
+									<source src="assets/videos/Commercial_Building_Division_Promo.mp4" type="video/mp4">
+									Your browser does not support the video tag.
+								</video>
+							</div>
+							<a class="video-vemo-icon venobox vbox-item" data-autoplay="true" data-vbtype="inline" href="#building_video"><i class="bi bi-play"></i></a>							
 						</div>
 					</div>
 				</div>
@@ -145,7 +174,7 @@
 			<div class="row">
 				<div class="col-lg-6 col-md-12">
 					<div class="about-thumb style-two wow animate__slideInUp">
-						<img src="assets/images/about/about2.jpg" alt="">
+						<img src="assets/images/building/bui_5.jpg" alt="">
 						<!-- statr about counter -->
 						<div class="about-counter">
 							<div class="about-numbar">
@@ -162,7 +191,7 @@
 				<div class="col-lg-6 col-md-12">
 					<div class="section-title">
 						<div class="section-shape">
-							<img src="assets/images/about/section-shape.png" alt="">
+							<img src="assets/images/resource/section-shape.png" alt="">
 						</div>
 						<div class="section-sub-title">
 							<h4>Superior Construction</h4>
