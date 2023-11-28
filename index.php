@@ -394,7 +394,7 @@
 	 <!--==================================================-->
 	<!-- Start Euildint Faq Area -->
 	<!--==================================================-->
-	<div class="faq-area style-three wow animate__slideInUp" style="padding: 0 0 494px">
+	<div class="faq-area style-three wow animate__slideInUp" style="padding: 0 0 594px">
 		<div class="container">
 			<div class="row align-items-center">
 				<div class="col-lg-6 col-md-12">
