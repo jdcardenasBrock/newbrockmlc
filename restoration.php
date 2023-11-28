@@ -125,7 +125,7 @@
 <!--==================================================-->
 <div class="container" style="margin-top: 210px; margin-bottom: 210px">
     <div class="row">
-        <div class="col-lg-12 mb-20">
+        <div class="col-lg-8 mb-20">
             <!-- start blog single box -->
             <div class="blog-standard-box">
                 <div class="row">
