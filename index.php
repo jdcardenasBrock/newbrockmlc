@@ -65,7 +65,7 @@
 							<h1>demands of restoration.</h1>
 						</div>
 						<div class="slider-discripton">
-							<!-- <p>I have been a loyal customer of this auto parts company for years and I cannot recommend them enough. Their extensive selection of high-quality parts and accessories.of high-quality parts and</p> -->
+							<p></p>
 						</div>
 						<div class="eulding-btn">
 							<a href="building.php">Read More <i class="bi bi-arrow-up-right-circle-fill"></i></a>
@@ -93,7 +93,7 @@
 							<h1>demands of building.</h1>
 						</div>
 						<div class="slider-discripton">
-							<!-- <p>I have been a loyal customer of this auto parts company for years and I cannot recommend them enough. Their extensive selection of high-quality parts and accessories.of high-quality parts and</p> -->
+							<p></p>
 						</div>
 						<div class="eulding-btn">
 							<a href="#">Read More <i class="bi bi-arrow-up-right-circle-fill"></i></a>
@@ -121,7 +121,7 @@
 							<h1>demands of restoration.</h1>
 						</div>
 						<div class="slider-discripton">
-							<!-- <p>I have been a loyal customer of this auto parts company for years and I cannot recommend them enough. Their extensive selection of high-quality parts and accessories.of high-quality parts and</p> -->
+							<p></p>
 						</div>
 						<div class="eulding-btn">
 							<a href="#">Read More <i class="bi bi-arrow-up-right-circle-fill"></i></a>
@@ -149,7 +149,7 @@
 							<h1>demands of building.</h1>
 						</div>
 						<div class="slider-discripton">
-							<!-- <p>I have been a loyal customer of this auto parts company for years and I cannot recommend them enough. Their extensive selection of high-quality parts and accessories.of high-quality parts and</p> -->
+							<p></p>
 						</div>
 						<div class="eulding-btn">
 							<a href="#">Read More <i class="bi bi-arrow-up-right-circle-fill"></i></a>
@@ -177,7 +177,7 @@
 							<h1>demands of restoration.</h1>
 						</div>
 						<div class="slider-discripton">
-							<!-- <p>I have been a loyal customer of this auto parts company for years and I cannot recommend them enough. Their extensive selection of high-quality parts and accessories.of high-quality parts and</p> -->
+							<p></p>
 						</div>
 						<div class="eulding-btn">
 							<a href="#">Read More <i class="bi bi-arrow-up-right-circle-fill"></i></a>
@@ -205,7 +205,7 @@
 							<h1>demands of building.</h1>
 						</div>
 						<div class="slider-discripton">
-							<!-- <p>I have been a loyal customer of this auto parts company for years and I cannot recommend them enough. Their extensive selection of high-quality parts and accessories.of high-quality parts and</p> -->
+							<p></p>
 						</div>
 						<div class="eulding-btn">
 							<a href="#">Read More <i class="bi bi-arrow-up-right-circle-fill"></i></a>
@@ -233,7 +233,7 @@
 							<h1>demands of restoration.</h1>
 						</div>
 						<div class="slider-discripton">
-							<!-- <p>I have been a loyal customer of this auto parts company for years and I cannot recommend them enough. Their extensive selection of high-quality parts and accessories.of high-quality parts and</p> -->
+							<p></p>
 						</div>
 						<div class="eulding-btn">
 							<a href="#">Read More <i class="bi bi-arrow-up-right-circle-fill"></i></a>
@@ -261,7 +261,7 @@
 							<h1>demands of building.</h1>
 						</div>
 						<div class="slider-discripton">
-							<!-- <p>I have been a loyal customer of this auto parts company for years and I cannot recommend them enough. Their extensive selection of high-quality parts and accessories.of high-quality parts and</p> -->
+							<p></p>
 						</div>
 						<div class="eulding-btn">
 							<a href="#">Read More <i class="bi bi-arrow-up-right-circle-fill"></i></a>
