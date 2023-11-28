@@ -99,7 +99,7 @@
         <div class="row align-items-center">
             <div class="col-lg-8 col-md-12">
                 <div class="call-do-title style-two">
-                    <h2>Sitework</h2>
+                    <h2>Siteworke</h2>
                     <h2>Division</h2>
                 </div>
             </div>
