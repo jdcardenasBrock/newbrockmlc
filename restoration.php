@@ -6,8 +6,20 @@
     #video-container-restoration{
         background: url(assets/images/restoration/Rest_3-video.jpg);
     }
-    .slider-description, .slider-main-title, .section-main-title.contact, .contact-discription, .faq-title h4, .call-do-title, .counter-content h5, .counter-numbar h4, .counter-numbar span{
+    .slider-description, .slider-main-title, .section-main-title.contact, .contact-discription, .faq-title h4, .call-do-title, .counter-content h5, .counter-numbar h4, .counter-numbar span, .bratcome-text{
 		text-shadow: 1px 4px 6px black;
+	}
+    .vbox-inline{
+		width: 960px;
+    	height: 720px;
+		margin-top: -200px !important;
+		overflow: hidden;
+	}
+	.vbox-inline video{
+		margin-top: 15%;
+		margin-left: 10%;
+		width: 80% !important;
+		height: 80%;
 	}
 </style>
 <!--==================================================-->
