@@ -21,6 +21,9 @@
 		width: 80% !important;
 		height: 80%;
 	}
+    .widget-categories-menu ul li a{
+        cursor: pointer !important;
+    }
 </style>
 <!--==================================================--> 
 <!-- Start Euildint Breatcome Area -->
@@ -76,14 +79,16 @@
                     <!-- widget categories menu -->
                     <div class="widget-categories-menu">
                         <ul>
-                            <li><a href="#"> Stormwater Install & Maintenance <span><i class="bi bi-chevron-right"></i></span></a></li>	
-                            <li><a href="#"> French Drain Install & Maintenance <span><i class="bi bi-chevron-right"></i></span></a></li>
-                            <li><a href="#"> Trench Drain Install & Maintenance <span><i class="bi bi-chevron-right"></i></span></a></li>
-                            <li><a href="#"> Forestry Mulching & Land Clearing <span><i class="bi bi-chevron-right"></i></span></a></li>
-                            <li><a href="#"> Disaster Clean-up <span><i class="bi bi-chevron-right"></i></span></a></li>
-                            <li><a href="#"> Excavation, Import & Export <span><i class="bi bi-chevron-right"></i></span></a></li>
-                            <li><a href="#"> Engineering & Design Build Solutions <span><i class="bi bi-chevron-right"></i></span></a></li>
-                            <li><a href="#"> Concrete Flatwork / Curb & Gutter <span><i class="bi bi-chevron-right"></i></span></a></li>
+                            <li><a href="#"> Stormwater Install & Maintenance 
+                                <!-- <span><i class="bi bi-chevron-right"></i></span> -->
+                            </a></li>	
+                            <li><a href="#"> French Drain Install & Maintenance </a></li>
+                            <li><a href="#"> Trench Drain Install & Maintenance </a></li>
+                            <li><a href="#"> Forestry Mulching & Land Clearing </a></li>
+                            <li><a href="#"> Disaster Clean-up </a></li>
+                            <li><a href="#"> Excavation, Import & Export </a></li>
+                            <li><a href="#"> Engineering & Design Build Solutions </a></li>
+                            <li><a href="#"> Concrete Flatwork / Curb & Gutter </a></li>
                         </ul>
                     </div>
                 </div>                
