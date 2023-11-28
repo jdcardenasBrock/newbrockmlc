@@ -3,6 +3,9 @@
 	#top-our-clients{
         background: url(assets/images/about/Our_1.jpg);
     }
+	.slider-description, .slider-main-title, .section-main-title.contact, .contact-discription, .faq-title h4, .call-do-title, .counter-content h5, .counter-numbar h4, .counter-numbar span, .breatcome-title h1{
+		text-shadow: 1px 4px 6px black;
+	}
 </style>
     <!--==================================================-->
     <!-- Start Euildint Breatcome Area -->
@@ -34,7 +37,7 @@
 	<div class="blog-standard-area">
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-8 col-md-12">
+				<div class="col-lg-12 col-md-12">
 					<div class="row">
 						<div class="col-lg-12">
 							<div class="blog-quote-box mb-40">
