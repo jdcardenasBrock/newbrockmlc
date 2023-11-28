@@ -22,7 +22,9 @@
 		height: 80%;
 	}
 	.eulding-btn{
-		display: block;
+		display: block;		
+	}
+	.eulding-btn a{
 		width: 415px;
 	}
 </style>
