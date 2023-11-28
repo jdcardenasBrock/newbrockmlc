@@ -61,7 +61,7 @@ echo '
                         <a href="index.html"><img src="assets/images/footer/footer-logo.png" alt=""></a>
                     </div>
                     <div class="footer-wiget-text">
-                        <p>Brock Mountain offers virtually unlimited flexibility for construction, sitework, building and stormwater management.</p>
+                        <!-- <p>Brock Mountain offers virtually unlimited flexibility for construction, sitework, building and stormwater management.</p> -->
                     </div>
                     <div class="footer-wiget-social">
                         <ul>
