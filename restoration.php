@@ -124,8 +124,8 @@
 <!-- End Euildint Call Do Bg Area -->
 <!--==================================================-->
 <div class="container" style="margin-top: 210px; margin-bottom: 210px">
-    <div class="row">
-        <div class="col-lg-8 mb-20">
+    <div class="row d-flex justify-content-around">
+        <div class="col-lg-10 mb-20">
             <!-- start blog single box -->
             <div class="blog-standard-box">
                 <div class="row">
@@ -191,44 +191,7 @@
                 </div> -->
             </div>
             <!-- End blog single box -->
-        </div>
-        <div class="col-lg-12 mb-20">
-            <!-- start blog single box -->
-            <div class="blog-standard-box">
-                <div class="row">
-                    <div class="blog_list owl-carousel">
-                        <div class="col-lg-12">
-                            <div class="blog-standard-thumb">
-                                <img src="assets/images/blog/blog-standard3.png" alt="">
-                            </div>
-                        </div>
-                        <div class="col-lg-12">
-                            <div class="blog-standard-thumb">
-                                <img src="assets/images/blog/blog-standard2.png" alt="">
-                            </div>
-                        </div>
-                        <div class="col-lg-12">
-                            <div class="blog-standard-thumb">
-                                <img src="assets/images/blog/blog-standard1.png" alt="">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="blog-standard-meta">
-                    <span>By Admin</span>
-                    <span>17 Aug 2023 </span>
-                    <span class="meta">Construction</span>
-                </div>
-                <div class="blog-standard-content">
-                    <h4><a href="#">All the Greatest Moments of Thoroughbred</a></h4>
-                    <p>Why Roofing are factmake 17 Reason EasierForesee the pain & trouble that are bounds too ensue equalidea off denouncing pleasures and praising pain was borncomplete account and expound the actual teachings the great the master-builder of human happiness. In a free hour...</p>
-                </div>
-                <div class="eulding-btn standard">
-                    <a href="#">Read More <i class="bi bi-arrow-up-right-circle-fill"></i></a>
-                </div>
-            </div>
-            <!-- End blog single box -->
-        </div>
+        </div>        
     </div>
 </div>
 <?php require 'footer.php'; ?>
