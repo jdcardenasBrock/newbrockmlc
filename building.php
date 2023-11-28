@@ -67,7 +67,7 @@
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-6 col-md-12">
+				<div class="col-lg-5 offset-lg-1 col-md-12">
 					<div class="section-title">
 						<div class="section-shape">
 							<img src="assets/images/resource/section-shape.png" alt="">
@@ -85,7 +85,7 @@
                                 <br> No matter the project, we have the experience, equipment, and ability to meet your needs</p>
 						</div>
 						<!-- start process bar -->
-						<div class="process-ber-plugin">
+						<!-- <div class="process-ber-plugin">
 							<span class="process-bar">Customer Satisficed </span>
 							<div id="bar1" class="barfiller">
 								<div class="tipWrap" style="display: inline;">
@@ -100,36 +100,8 @@
 								</div>
 								<span class="fill my-class" data-percentage="90" style="background: rgb(22, 181, 151); width: 438.352px; transition: width 7s ease-in-out 0s;"></span>
 							</div>
-						</div>
-						<!-- End process bar -->
-						<div class="row">
-							<div class="col-lg-6">
-								<!--start about single box -->
-								<div class="about-single-box">
-									<div class="about-icon">
-										<img src="assets/images/resource/about-icon1.png" alt="">
-									</div>
-									<div class="about-text">
-										<h4>Worldwide Service</h4>
-										<p>Write some related text here</p>
-									</div>
-								</div>
-								<!--end about single box -->
-							</div>
-							<div class="col-lg-6 col-mdd-6">
-								<!--start about single box -->
-								<div class="about-single-box">
-									<div class="about-icon">
-										<img src="assets/images/resource/about-icon2.png" alt="">
-									</div>
-									<div class="about-text">
-										<h4>Award Winner</h4>
-										<p>Write some related text here</p>
-									</div>
-								</div>
-								<!--end about single box -->
-							</div>
-						</div>
+						</div> -->
+						<!-- End process bar -->						
 					</div>
 				</div>
 			</div>
@@ -147,8 +119,8 @@
 			<div class="row align-items-center">
 				<div class="col-lg-8 col-md-12">
 					<div class="call-do-title style-two">
-						<h2>Brock Mountain meets the rigorous </h2>
-						<h2>demands of commercial building.</h2>
+						<h2>Brock Mountain </h2>
+						<h2>Land Company, LLC</h2>
 					</div>
 				</div>
 				<div class="col-lg-4 col-md-12">
@@ -203,7 +175,7 @@
 							<h4>Superior Construction</h4>
 						</div>
 						<div class="section-main-title about">
-							<h2>We Make Finest Architectural</h2>
+							<h2>More Than 25 Years OF Experience</h2>
 						</div>
 					</div>
 					<div class="about-content wow animate__slideInUp">
