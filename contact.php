@@ -1,8 +1,16 @@
-<?php require 'header.php'; ?>
+<?php require 'header.php'; ?> 
+<style>
+	#top-contact{
+        background: url(assets/images/about/contact-recortada.jpg);
+    }
+	.slider-description, .slider-main-title, .section-main-title.contact, .contact-discription, .faq-title h4, .call-do-title, .counter-content h5, .counter-numbar h4, .counter-numbar span, .breatcome-title h1{
+		text-shadow: 1px 4px 6px black;
+	}
+</style>
 	<!--==================================================-->
 	<!-- Start Euildint Breatcome Area -->
 	<!--==================================================-->
-	<div class="breatcome-area">
+	<div class="breatcome-area" id="top-contact">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-12 col-md-12">
