@@ -66,17 +66,7 @@
 									<h4>A client well pleased with Team BMLC!) </h4>
 								</div>
 							</div>
-						</div>
-						
-						<div class="col-lg-12">
-							<div class="blog-quote-box mb-40">
-								<div class="blog-quote-conent">
-									<i class="fas fa-quote-right"></i>
-									<p>Said You were in a league of our own and amazing!  Good work team</p>
-									<h4>A client well pleased with Team BMLC!</h4>
-								</div>
-							</div>
-						</div>
+						</div>												
 
 						<div class="col-lg-12">
 							<div class="blog-quote-box mb-40">
