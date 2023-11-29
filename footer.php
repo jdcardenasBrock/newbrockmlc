@@ -1,50 +1,7 @@
 <?php
 
 echo '
-<!--==================================================-->
-<!-- Start Euildint Brand Area -->
-<!--==================================================-->
-<div class="brand-area " style="margin-bottom: 120px;">
-    <div class="container-fluid">
-        <div class="row">
-            <div class="brand_list owl-carousel">
-                <div class="col-lg-12">
-                    <div class="brand-thumb">
-                        <a href="#"><img src="assets/images/brand/brand1.png" alt=""></a>
-                    </div>
-                </div>
-                <div class="col-lg-12">
-                    <div class="brand-thumb">
-                        <a href="#"><img src="assets/images/brand/brand2.png" alt=""></a>
-                    </div>
-                </div>
-                <div class="col-lg-12">
-                    <div class="brand-thumb">
-                        <a href="#"><img src="assets/images/brand/brand3.png" alt=""></a>
-                    </div>
-                </div>
-                <div class="col-lg-12">
-                    <div class="brand-thumb">
-                        <a href="#"><img src="assets/images/brand/brand4.png" alt=""></a>
-                    </div>
-                </div>
-                <div class="col-lg-12">
-                    <div class="brand-thumb">
-                        <a href="#"><img src="assets/images/brand/brand5.png" alt=""></a>
-                    </div>
-                </div>
-                <div class="col-lg-12">
-                    <div class="brand-thumb">
-                        <a href="#"><img src="assets/images/brand/brand6.png" alt=""></a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!--==================================================-->
-<!-- End Euildint Brand Area -->
-<!--==================================================-->
+
 
 
 <!--==================================================-->
