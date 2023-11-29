@@ -78,7 +78,7 @@ echo '
 						<ul><li class="line">
 							<li><a href="index.php">Home</a></li>
 							<li class="line">
-							<li><a href="contact.php">Our Contact</a></li>
+							<li><a href="contact.php">Contact Us</a></li>
 						</ul>
 					</div>
 				</div>
@@ -108,7 +108,7 @@ echo '
 							<li><a href="restoration.php">Restoration</a></li>
 							<li><a href="building.php">Building</a></li>
 							<li><a href="our_clients.php">Our Clients</a></li>
-							<li><a href="contact.php">Our Contact</a></li>
+							<li><a href="contact.php">Contact Us</a></li>
 						</ul>
 						<div class="header-call-section">
 							<div class="header-call-icon">
@@ -136,7 +136,7 @@ echo '
 					<li><a href="restoration.php">Restoration</a></li>
 					<li><a href="building.php">Building</a></li>
 					<li><a href="our_clients.php">Our Clients</a></li>
-					<li><a href="contact.php">Our Contact</a></li>
+					<li><a href="contact.php">Contact Us</a></li>
 				</ul>
 			</nav>
 		</div>
