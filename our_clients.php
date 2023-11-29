@@ -63,7 +63,7 @@
 								<div class="blog-quote-conent">
 									<i class="fas fa-quote-right"></i>
 									<p>Said You were in a league of our own and amazing!  Good work team</p>
-									<h4>A client well pleased with Team BMLC!</h4>
+									<h4>A client well pleased with Team BMLC</h4>
 								</div>
 							</div>
 						</div>												
@@ -73,7 +73,7 @@
 								<div class="blog-quote-conent">
 									<i class="fas fa-quote-right"></i>
 									<p>My wife and I haven been staying at a Bluegreen resort in Daytona Beach for over a week while your crew is doing work on their beachfront that was heavily damaged during the last hurricane. It has been a pleasure to watch a crew that is organized, moving along nicely with difficult sheet piling work, keeps everything neat and organized, has a crew along the perimeter to keep sightseer's out of the way, everyone is wearing the same uniform and acts very professional, and they keep the sight looking good all day and then when they leave at night. WOW!!!! I am an engineer and have been around construction most of my life and your crew is the best I have seen!!</p>
-									<h4></h4>
+									<h4>Construction Engineer</h4>
 								</div>
 							</div>
 						</div>
@@ -96,7 +96,7 @@
 										Kindest and Warmest Regards, 
 									Latrice Bryant-Robinson Daytona Beach Shores
 									</p>
-									<h4>Latrice Bryant-Robinson Daytona Beach Shores</h4>
+									<h4>Latrice Bryant - Robinson Daytona Beach Shores</h4>
 								</div>
 							</div>
 						</div>
@@ -126,7 +126,7 @@
 								<div class="blog-quote-conent">
 									<i class="fas fa-quote-right"></i>
 									<p>Just did another close up tour of the beach.  Seeing a lot of your work.  WELL DONE!!!!!!!!  I'm impressed beyond words!!!!  Thank you for what you do!  I'm telling everyone I know</p>
-									<h4>Matt Reinhart (Volusia County Commissioner)</h4>
+									<h4>Matt Reinhart - Volusia County Commissioner</h4>
 								</div>
 							</div>
 						</div>
