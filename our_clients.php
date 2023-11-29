@@ -116,7 +116,7 @@
 								<div class="blog-quote-conent">
 									<i class="fas fa-quote-right"></i>
 									<p>Shout out to Brock Mountain Land Company, LLC & Eric Burns for the great expansion & renovation job they did for Dwight & JR at Small Business Alternatives - Candler’s local accounting firm. Brock does it all commercial, residential, land etc. Love to see locals supporting locals so give them a call at (888) 774-6498 if you need any work done. Let’s keep local money local. Thanks again Eric</p>
-									<h4>Michelle Pace Wood</h4>
+									<h4>Michelle Pace Wood - Dwight & JR at Small Business Alternatives</h4>
 								</div>
 							</div>
 						</div>
@@ -135,7 +135,7 @@
 							<div class="blog-quote-box mb-40">
 								<div class="blog-quote-conent">
 									<i class="fas fa-quote-right"></i>
-									<p>JYour team has done the unthinkable. “Your efforts are extremely appreciated and more work is coming on other projects</p>
+									<p>Your team has done the unthinkable. Your efforts are extremely appreciated and more work is coming on other projects</p>
 									<h4>Property Manager</h4>
 								</div>
 							</div>
