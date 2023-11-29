@@ -77,7 +77,7 @@
 			<div class="row">
 				<div class="col-lg-6 col-md-12">
 					<div class="about-thumb style-two wow animate__slideInUp">
-						<img src="assets/images/building/bui_5.jpg" alt="">
+						<img src="assets/images/resource/Contact 594x644.jpg" alt="">
 						<!-- statr about counter -->
 						<div class="about-counter">
 							<div class="about-numbar">
