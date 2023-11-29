@@ -192,7 +192,7 @@
 	<!--==================================================-->
 	<!-- Start Euildint Map Area -->
 	<!--==================================================-->
-	<div class="map-area">
+	<div class="map-area" style="margin-bottom:120px">
 		<div class="container-fluid p-0">
 			<div class="row">
 				<div class="col-lg-12 col-md-12">
