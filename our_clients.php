@@ -63,7 +63,7 @@
 								<div class="blog-quote-conent">
 									<i class="fas fa-quote-right"></i>
 									<p>Said You were in a league of our own and amazing!  Good work team</p>
-									<h4>A client well pleased with Team BMLC!) </h4>
+									<h4>A client well pleased with Team BMLC!</h4>
 								</div>
 							</div>
 						</div>												
