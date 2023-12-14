@@ -38,7 +38,7 @@
                     </div>
                     <div class="bratcome-text">
                         <ul>
-                            <li><a href="index.html">Home</a></li>
+                            <li><a href="index.php">Home</a></li>
                             <li>Restoration</li>
                         </ul>
                     </div>

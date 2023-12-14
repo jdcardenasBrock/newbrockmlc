@@ -97,7 +97,7 @@ echo '
 			<div class="row align-items-center">
 				<div class="col-lg-2">
 					<div class="header-logo">
-						<a href="index.html"><img src="assets/images/logo_negativo.png" alt="logo" widht="187" height="60"></a>
+						<a href="index.php"><img src="assets/images/logo_negativo.png" alt="logo" widht="187" height="60"></a>
 					</div>
 				</div>
 				<div class="col-lg-10">
