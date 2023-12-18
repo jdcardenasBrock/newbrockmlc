@@ -259,26 +259,7 @@
 							Brock Mountain offers virtually unlimited flexibility for construction, sitework, building and stormwater management. This unparalleled combination of capabilities results in extreme accuracy delivered on time and on-budget.</p>
 						</div>
 						<!-- start process bar -->
-						<div class="process-ber-plugin">
-							<span class="process-bar">
-								Nationwide Projects Coverage
-							</span>
-							<div id="bar1" class="barfiller">
-								<div class="tipWrap" style="display: inline;">
-									<span class="tip" style="left: 468.814px; transition: left 7s ease-in-out 0s;">78%</span>
-								</div>
-								<span class="fill" data-percentage="78" style="background: rgb(22, 181, 151); width: 505.791px; transition: width 7s ease-in-out 0s;"></span>
-							</div>  
-							<span class="process-bar">
-								Project increase Comparing<br> With Last Year
-							</span>
-							<div id="bar2" class="barfiller">
-								<div class="tipWrap" style="display: inline;">
-									<span class="tip" style="left: 403.254px; transition: left 7s ease-in-out 0s;">55%</span>
-								</div>
-								<span class="fill my-class" data-percentage="55" style="background: rgb(22, 181, 151); width: 438.352px; transition: width 7s ease-in-out 0s;"></span>
-							</div>
-						</div>
+						
 						<!-- End process bar -->
 						<div class="row">
 							<div class="col-lg-6">
@@ -294,19 +275,7 @@
 								</div>
 								<!--end about single box -->
 							</div>
-							<div class="col-lg-6 col-mdd-6">
-								<!--start about single box -->
-								<div class="about-single-box">
-									<div class="about-icon">
-										<img src="assets/images/resource/about-icon2.png" alt="">
-									</div>
-									<div class="about-text">
-										<h4>Award Winner</h4>
-										<p>Write some related text here.</p>
-									</div>
-								</div>
-								<!--end about single box -->
-							</div>
+							
 						</div>
 						<!-- <div class="about-bottom">
 							<div class="eulding-btn about">
