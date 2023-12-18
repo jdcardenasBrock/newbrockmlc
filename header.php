@@ -58,36 +58,7 @@ echo '
 		<div class="loader"></div>
 		<div class="loder-section left-section"></div>
 		<div class="loder-section right-section"></div>
-	</div>
-	<!--==================================================-->
-	<!-- Start Euildint Top Bar Style Two Area -->
-	<!--==================================================-->
-	<div class="topbar-area style-two d-flex align-items-center">
-		<div class="container-fluid p-90">
-			<div class="row align-items-center">
-				<div class="col-lg-6 col-md-6">
-					<div class="topbar-adress">
-						<ul>
-							<li class="line"><a href="#">Address : Barnardsville, NC 28709</a></li>
-							<!-- <li><a href="#">info@example.com</a></li> -->
-						</ul>
-					</div>
-				</div>
-				<div class="col-lg-6 col-md-6">
-					<div class="topbar-menu">
-						<ul><li class="line">
-							<li><a href="index.php">Home</a></li>
-							<li class="line">
-							<li><a href="contact.php">Contact Us</a></li>
-						</ul>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-	<!--==================================================-->
-	<!-- End Euildint Top Bar Style Two Area -->
-	<!--==================================================-->
+	</div>	
 
 	<!--==================================================-->
 	<!-- Start Euildint Header Style Two Area -->
