@@ -261,7 +261,7 @@
 						<!-- start process bar -->
 						
 						<!-- End process bar -->
-						<div class="row">
+						<div class="row mt-5">
 							<div class="col-lg-6">
 								<!--start about single box -->
 								<div class="about-single-box">
