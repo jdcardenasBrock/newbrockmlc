@@ -75,13 +75,39 @@ echo '
 					<!--start header menu -->
 					<div class="header-munu style-two">
 						<ul>
-							<li><a href="index.php">Home</a></li>
-							<li><a href="restoration.php">Restoration</a></li>
-							<li><a href="building.php">Building</a></li>
-							<li><a href="our_clients.php">Our Clients</a></li>
-							<li><a href="contact.php">Contact Us</a></li>
+							<li><a href="index.php">Home</a>								
+							</li>
+							<li><a href="#">Who We Are <i class="fas fa-chevron-down"></i></a>
+								<div class="sub-menu">
+									<ul>
+										<li><a href="#">Our Mission</a></li>
+										<li><a href="#">National Presence</a></li>
+										<li><a href="#">News</a></li>
+									</ul>
+								</div>
+							</li>
+							<li><a href="#">Who We Do <i class="fas fa-chevron-down"></i></a>
+								<div class="sub-menu">
+									<ul>
+										<li><a href="sitework.php">Sitework</a></li>
+										<li><a href="building.php">Building</a></li>
+										<li><a href="restoration.php">Restoration</a></li>
+										<li><a href="https://brockmountainhomes.com/" target="_blank">Brock Mountain Homes</a></li>
+									</ul>
+								</div>
+							</li>
+							<li><a href="#">Work With Us <i class="fas fa-chevron-down"></i></a>
+								<div class="sub-menu">
+									<ul>
+										<li><a href="#">Become a Vendor</a></li>
+										<li><a href="#">Career Opportunities</a></li>
+										<li><a href="contact.php">Contact Us</a></li>
+										<li><a href="#">BMLC portal</a></li>
+									</ul>
+								</div>
+							</li>
 						</ul>
-						<div class="header-call-section">
+						<!-- <div class="header-call-section">
 							<div class="header-call-icon">
 								<i class="bi bi-telephone-plus"></i>
 							</div>
@@ -89,7 +115,7 @@ echo '
 								<a href="#">Need help?  Call us: </a>
 								<span><a href="#"> (888) 774-6498 </a></span>
 							</div>
-						</div>
+						</div> -->
 					</div>
 					<!-- end header menu -->
 				</div>
