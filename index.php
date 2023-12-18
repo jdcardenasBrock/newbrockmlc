@@ -12,15 +12,13 @@
 							<!-- <h4>Great Experience In Building</h4> -->
 						</div>
 						<div class="slider-main-title">
-							<h1>Brock Mountain Meets The Rigorous
-							Demands of Restoration.</h1>
+							<h1>Building Tomorrow´s Success 
+							Today</h1>
 						</div>
 						<div class="slider-discripton">
 							<p></p>
 						</div>
-						<div class="eulding-btn">
-							<a href="building.php">Read More <i class="bi bi-arrow-up-right-circle-fill"></i></a>
-						</div>
+						
 						<div class="slider-social-menu">
 							<ul>
 								<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
@@ -40,15 +38,13 @@
 							<!-- <h4>Great Experience In Restoration</h4> -->
 						</div>
 						<div class="slider-main-title">
-							<h1>Brock Mountain Meets The Rigorous
-							Demands of Building.</h1>
+							<h1>Building Tomorrow´s Success 
+							Today</h1>
 						</div>
 						<div class="slider-discripton">
 							<p></p>
 						</div>
-						<div class="eulding-btn">
-							<a href="#">Read More <i class="bi bi-arrow-up-right-circle-fill"></i></a>
-						</div>
+						
 						<div class="slider-social-menu">
 							<ul>
 								<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
@@ -68,15 +64,13 @@
 							<!-- <h4>Great Experience In Restoration</h4> -->
 						</div>
 						<div class="slider-main-title">
-							<h1>Brock Mountain Meets The Rigorous
-							Demands of Restoration.</h1>
+							<h1>Building Tomorrow´s Success 
+							Today</h1>
 						</div>
 						<div class="slider-discripton">
 							<p></p>
 						</div>
-						<div class="eulding-btn">
-							<a href="#">Read More <i class="bi bi-arrow-up-right-circle-fill"></i></a>
-						</div>
+						
 						<div class="slider-social-menu">
 							<ul>
 								<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
@@ -96,15 +90,13 @@
 							<!-- <h4>Great Experience In Restoration</h4> -->
 						</div>
 						<div class="slider-main-title">
-							<h1>Brock Mountain Meets The Rigorous
-							Demands of Building.</h1>
+							<h1>Building Tomorrow´s Success 
+							Today</h1>
 						</div>
 						<div class="slider-discripton">
 							<p></p>
 						</div>
-						<div class="eulding-btn">
-							<a href="#">Read More <i class="bi bi-arrow-up-right-circle-fill"></i></a>
-						</div>
+						
 						<div class="slider-social-menu">
 							<ul>
 								<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
@@ -124,15 +116,13 @@
 							<!-- <h4>Great Experience In Restoration</h4> -->
 						</div>
 						<div class="slider-main-title">
-							<h1>Brock Mountain Meets The Rigorous
-							Demands of Restoration.</h1>
+							<h1>Building Tomorrow´s Success 
+							Today</h1>
 						</div>
 						<div class="slider-discripton">
 							<p></p>
 						</div>
-						<div class="eulding-btn">
-							<a href="#">Read More <i class="bi bi-arrow-up-right-circle-fill"></i></a>
-						</div>
+						
 						<div class="slider-social-menu">
 							<ul>
 								<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
@@ -152,15 +142,13 @@
 							<!-- <h4>Great Experience In Restoration</h4> -->
 						</div>
 						<div class="slider-main-title">
-							<h1>Brock Mountain Meets The Rigorous
-							Demands of Building.</h1>
+							<h1>Building Tomorrow´s Success 
+							Today</h1>
 						</div>
 						<div class="slider-discripton">
 							<p></p>
 						</div>
-						<div class="eulding-btn">
-							<a href="#">Read More <i class="bi bi-arrow-up-right-circle-fill"></i></a>
-						</div>
+						
 						<div class="slider-social-menu">
 							<ul>
 								<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
@@ -180,15 +168,13 @@
 							<!-- <h4>Great Experience In Restoration</h4> -->
 						</div>
 						<div class="slider-main-title">
-							<h1>Brock Mountain Meets The Rigorous
-							Demands of Restoration.</h1>
+							<h1>Building Tomorrow´s Success 
+							Today</h1>
 						</div>
 						<div class="slider-discripton">
 							<p></p>
 						</div>
-						<div class="eulding-btn">
-							<a href="#">Read More <i class="bi bi-arrow-up-right-circle-fill"></i></a>
-						</div>
+						
 						<div class="slider-social-menu">
 							<ul>
 								<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
@@ -208,15 +194,13 @@
 							<!-- <h4>Great Experience In Restoration</h4> -->
 						</div>
 						<div class="slider-main-title">
-							<h1>Brock Mountain Meets The Rigorous
-							Demands of Building.</h1>
+							<h1>Building Tomorrow´s Success 
+							Today</h1>
 						</div>
 						<div class="slider-discripton">
 							<p></p>
 						</div>
-						<div class="eulding-btn">
-							<a href="#">Read More <i class="bi bi-arrow-up-right-circle-fill"></i></a>
-						</div>
+						
 						<div class="slider-social-menu">
 							<ul>
 								<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>

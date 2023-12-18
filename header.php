@@ -86,7 +86,7 @@ echo '
 									</ul>
 								</div>
 							</li>
-							<li><a href="#">Who We Do <i class="fas fa-chevron-down"></i></a>
+							<li><a href="#">What We Do <i class="fas fa-chevron-down"></i></a>
 								<div class="sub-menu">
 									<ul>
 										<li><a href="sitework.php">Sitework</a></li>
