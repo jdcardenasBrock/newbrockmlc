@@ -1,4 +1,15 @@
 <?php require 'header.php'; ?>
+	<style>
+
+		.testi-single-box{
+			display: -webkit-box;
+			max-height: 184px;
+			-webkit-line-clamp: 4;
+			-webkit-box-orient: horizontal;
+			overflow: hidden;
+		}
+
+	</style>
 	<!--==================================================-->
 	<!-- Start Euildint Slider Style Two Area -->
 	<!--==================================================-->
