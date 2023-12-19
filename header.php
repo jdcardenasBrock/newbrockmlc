@@ -80,9 +80,9 @@ echo '
 							<li><a href="#">Who We Are <i class="fas fa-chevron-down"></i></a>
 								<div class="sub-menu">
 									<ul>
-										<li><a href="#">Our Mission</a></li>
-										<li><a href="#">National Presence</a></li>
-										<li><a href="#">News</a></li>
+										<li><a href="our_mission.php">Our Mission</a></li>
+										<li><a href="national_presence.php">National Presence</a></li>
+										<li><a href="news.php">News</a></li>
 									</ul>
 								</div>
 							</li>
@@ -99,8 +99,8 @@ echo '
 							<li><a href="#">Work With Us <i class="fas fa-chevron-down"></i></a>
 								<div class="sub-menu">
 									<ul>
-										<li><a href="#">Become a Vendor</a></li>
-										<li><a href="#">Career Opportunities</a></li>
+										<li><a href="become_a_vendor.php">Become a Vendor</a></li>
+										<li><a href="careers_opportunities.php">Career Opportunities</a></li>
 										<li><a href="contact.php">Contact Us</a></li>
 										<li><a href="#">BMLC portal</a></li>
 									</ul>
