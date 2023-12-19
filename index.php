@@ -545,7 +545,7 @@
 			</div>
 			<div class="row">
 				<div class="col-lg-12 col-md-12">
-					<iframe id="map_home" src="https://www.google.com/maps/d/embed?mid=1VzrD0aebBTEuSNlMzEIoqP29E829zCM&ehbc=2E312F" width="1920" height="608" style="border: 0px;" allowfullscreen="" loading="lazy"></iframe>
+					<iframe id="map_home" src="" width="1920" height="608" style="border: 0px;" allowfullscreen="" loading="lazy"></iframe>
 				</div>
 			</div>
 		</div>
@@ -914,5 +914,11 @@
 <!--==================================================-->
 <!-- End Euildint Brand Area -->
 <!--==================================================-->
-	
+<script>
+	var map = new google.maps.Map(document.getElementById('map_home'), {
+		zoom: 11,
+		center: {lat: 41.876, lng: -87.624},
+		backgroundColor: 'none'
+	});
+</script>
 <?php require 'footer.php'; ?>
