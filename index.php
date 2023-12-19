@@ -9,6 +9,15 @@
 			overflow: hidden;
 		}
 
+		.container_team_img{
+			padding: 0 0 594px;
+		}
+		@media (max-width: 991.98px) { 
+			.container_team_img{
+				padding: 0 0 194px;
+			}
+	 	}
+
 	</style>
 	<!--==================================================-->
 	<!-- Start Euildint Slider Style Two Area -->
@@ -23,7 +32,7 @@
 							<!-- <h4>Great Experience In Building</h4> -->
 						</div>
 						<div class="slider-main-title">
-							<h1>Building Tomorrow´s Success 
+							<h1>Building Tomorrow's Success 
 							Today</h1>
 						</div>
 						<div class="slider-discripton">
@@ -49,7 +58,7 @@
 							<!-- <h4>Great Experience In Restoration</h4> -->
 						</div>
 						<div class="slider-main-title">
-							<h1>Building Tomorrow´s Success 
+							<h1>Building Tomorrow's Success 
 							Today</h1>
 						</div>
 						<div class="slider-discripton">
@@ -75,7 +84,7 @@
 							<!-- <h4>Great Experience In Restoration</h4> -->
 						</div>
 						<div class="slider-main-title">
-							<h1>Building Tomorrow´s Success 
+							<h1>Building Tomorrow's Success 
 							Today</h1>
 						</div>
 						<div class="slider-discripton">
@@ -101,7 +110,7 @@
 							<!-- <h4>Great Experience In Restoration</h4> -->
 						</div>
 						<div class="slider-main-title">
-							<h1>Building Tomorrow´s Success 
+							<h1>Building Tomorrow's Success 
 							Today</h1>
 						</div>
 						<div class="slider-discripton">
@@ -127,7 +136,7 @@
 							<!-- <h4>Great Experience In Restoration</h4> -->
 						</div>
 						<div class="slider-main-title">
-							<h1>Building Tomorrow´s Success 
+							<h1>Building Tomorrow's Success 
 							Today</h1>
 						</div>
 						<div class="slider-discripton">
@@ -153,7 +162,7 @@
 							<!-- <h4>Great Experience In Restoration</h4> -->
 						</div>
 						<div class="slider-main-title">
-							<h1>Building Tomorrow´s Success 
+							<h1>Building Tomorrow's Success 
 							Today</h1>
 						</div>
 						<div class="slider-discripton">
@@ -179,7 +188,7 @@
 							<!-- <h4>Great Experience In Restoration</h4> -->
 						</div>
 						<div class="slider-main-title">
-							<h1>Building Tomorrow´s Success 
+							<h1>Building Tomorrow's Success 
 							Today</h1>
 						</div>
 						<div class="slider-discripton">
@@ -205,7 +214,7 @@
 							<!-- <h4>Great Experience In Restoration</h4> -->
 						</div>
 						<div class="slider-main-title">
-							<h1>Building Tomorrow´s Success 
+							<h1>Building Tomorrow's Success 
 							Today</h1>
 						</div>
 						<div class="slider-discripton">
@@ -308,7 +317,7 @@
 	 <!--==================================================-->
 	<!-- Start Euildint Faq Area -->
 	<!--==================================================-->
-	<div class="faq-area style-three wow animate__slideInUp" style="padding: 0 0 594px">
+	<div class="faq-area style-three wow animate__slideInUp" id="container_team_img">
 		<div class="container">
 			<div class="row align-items-center">
 				<div class="col-lg-6 col-md-12">
