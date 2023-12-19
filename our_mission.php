@@ -1,11 +1,8 @@
 <?php require 'header.php'; ?>
 <style>
     #top-building{
-        background: url(assets/images/building/bui_1.jpg);
-    }
-    #video-container-building{
-        background: url(assets/images/building/Bui_4.jpg);
-    }
+        background: url(assets/images/resource/call-do-bg.jpg);
+    }    
     .slider-description, .slider-main-title, .section-main-title.contact, .contact-discription, .faq-title h4, .call-do-title, .counter-content h5, .counter-numbar h4, .counter-numbar span, .breatcome-title h1{
 		text-shadow: 1px 4px 6px black;
 	} 
@@ -38,7 +35,7 @@
             <div class="col-lg-12 col-md-12">
                 <div class="breatcome-content">
                     <div class="breatcome-title">
-                        <h1>Building</h1>
+                        <h1>Our Mission</h1>
                     </div>
                     <div class="bratcome-text"> 
                         <ul>
@@ -54,7 +51,7 @@
 <!--==================================================-->
 <!-- Start Euildint History Area -->
 <!--==================================================-->
-<div class="heistory-area animate__slideInUp">
+<div class="heistory-area animate__slideInUp" style="margin-bottom: 120px;">
     <div class="container">
         <div class="row history-bg">
             <div class="col-lg-4 col-md-12">
