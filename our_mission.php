@@ -1,7 +1,7 @@
 <?php require 'header.php'; ?>
 <style>
     #top-building{
-        background: url(assets/images/resource/call-do-bg.jpg);
+        background: url(assets/images/resource/contact-bg.jpg);
     }    
     .slider-description, .slider-main-title, .section-main-title.contact, .contact-discription, .faq-title h4, .call-do-title, .counter-content h5, .counter-numbar h4, .counter-numbar span, .breatcome-title h1{
 		text-shadow: 1px 4px 6px black;
