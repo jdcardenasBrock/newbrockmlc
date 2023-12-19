@@ -8,7 +8,7 @@
     }
     .slider-description, .slider-main-title, .section-main-title.contact, .contact-discription, .faq-title h4, .call-do-title, .counter-content h5, .counter-numbar h4, .counter-numbar span, .breatcome-title h1{
 		text-shadow: 1px 4px 6px black;
-	}
+	} 
     .vbox-inline{
 		width: 960px;
     	height: 720px;
