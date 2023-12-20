@@ -73,7 +73,8 @@
         </div>
         <div class="row">
             <div class="col-lg-12 col-md-12">
-                <iframe id="map_home" src="https://www.google.com/maps/d/embed?mid=15pzP_D5CR59IjAgO1_dJAvUPkIVOKnQ&ehbc=2E312F&noprof=1" width="1920" height="608" style="border: 0px;" allowfullscreen="" loading="lazy"></iframe>
+                <div id="map"></div>
+                <!-- <iframe id="map_home" src="https://www.google.com/maps/d/embed?mid=15pzP_D5CR59IjAgO1_dJAvUPkIVOKnQ&ehbc=2E312F&noprof=1" width="1920" height="608" style="border: 0px;" allowfullscreen="" loading="lazy"></iframe> -->
             </div>
         </div>
     </div>
@@ -81,5 +82,19 @@
 <!--==================================================-->
 <!-- End Euildint Map Area -->
 <!--==================================================--> 
+
+<script
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB41DRUbKWJHPxaFjMAwdrzWzbVKartNGg&callback=initMap&v=weekly"
+      defer
+    ></script>
+    
+<script>
+
+new google.maps.Map(document.getElementById("map"), {
+  zoom,
+  center,
+});
+
+</script>
 
 <?php require 'footer.php'; ?>
