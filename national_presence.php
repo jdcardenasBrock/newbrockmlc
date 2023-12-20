@@ -83,10 +83,7 @@
 <!-- End Euildint Map Area -->
 <!--==================================================--> 
 
-<script
-      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB41DRUbKWJHPxaFjMAwdrzWzbVKartNGg&callback=initMap&v=weekly"
-      defer
-    ></script>
+<script type="text/javascript" src="https://maps.google.com/maps/api/js?key=AIzaSyDnJF7TpAgieAe_Z3E34ZIaaCZR88Vrli8&libraries=places&v=weekly&callback=Function.prototype" defer></script>
     
 <script>
 
