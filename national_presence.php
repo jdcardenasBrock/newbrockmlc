@@ -94,13 +94,15 @@
  */
 function initMap() {
   const center = { lat: -25.363, lng: 131.044 };
-  const zoom = 4;
+    /*=============================================
+    create map and initialize place search function
+    =============================================*/
 
-  new google.maps.Map(document.getElementById("map"), {
-    zoom,
-    center,
-    gestureHandling: "cooperative",
-  });
+    map = new google.maps.Map(document.getElementById("map"), {
+        center: { lat: -25.363, lng: 131.044 },
+        zoom: 15,
+        mapId: "8d193001f940fde3",
+    });
 }
 
 window.initMap = initMap;
